@@ -1,0 +1,500 @@
+TPushMeBaby
+v7
+r0
+t281512293.055100
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/MainMenu.xib"
+cCpResource build/Release/PushMeBaby.app/Contents/Resources/aps_developer_identity.cer aps_developer_identity.cer
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fezhxapkloanlhgxdqayikhxbwpa/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bapidsuiewzhcqbinhdkjjdhcfiy/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal ppc c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ioSock.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/main.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ApplicationDelegate.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby" normal i386
+cCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ioSock.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c" normal ppc c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby" normal ppc
+cCreateUniversalBinary "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby" normal "i386 ppc"
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app.dSYM" "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby"
+cTouch "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Headers/MacErrors.h
+c0000000048649BE60000000000029AD4
+t1214553062
+s170708
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Headers/MacTypes.h
+c0000000048649BE60000000000007652
+t1214553062
+s30290
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecureTransport.h
+c00000000490261C600000000000079BA
+t1224892870
+s31162
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/errno.h
+c0000000047BA993000000000000003EB
+t1203411248
+s1003
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/fcntl.h
+c0000000047BA993000000000000003EA
+t1203411248
+s1002
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netinet/in.h
+c0000000047E883C30000000000005346
+t1206420419
+s21318
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/strings.h
+c0000000047BA99300000000000000DA4
+t1203411248
+s3492
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/socket.h
+c0000000047E883D1000000000000559B
+t1206420433
+s21915
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/types.h
+c0000000047E883D2000000000000290F
+t1206420434
+s10511
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/time.h
+c0000000047BA9932000000000000178E
+t1203411250
+s6030
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/unistd.h
+c0000000047BA993200000000000053FF
+t1203411250
+s21503
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Security.framework/Security
+c000000004A4D521F0000000000A0ECD0
+t1246581279
+s10546384
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.h
+c0000000049DB757100000000000001DF
+t1239119217
+s479
+i<Cocoa/Cocoa.h>
+i"ioSock.h"
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m
+c000000004B1491FB0000000000001555
+t1259639291
+s5461
+i"ApplicationDelegate.h"
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c
+c000000003DC6F5950000000000002CF0
+t1036449173
+s11504
+i"ioSock.h"
+i<errno.h>
+i<stdio.h>
+i<unistd.h>
+i<sys/types.h>
+i<netinet/in.h>
+i<sys/socket.h>
+i<netdb.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>
+i<time.h>
+i<strings.h>
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.h
+c000000003DC6F5840000000000001337
+t1036449156
+s4919
+i<CoreServices/../Frameworks/CarbonCore.framework/Headers/MacTypes.h>
+i<Security/SecureTransport.h>
+i<sys/types.h>
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/InfoPlist.strings
+c0000000049DB7699000000000000010A
+t1239119513
+s266
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/MainMenu.xib
+c0000000049DB76580000000000018601
+t1239119448
+s99841
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch
+c0000000049DB6DCA0000000000000097
+t1239117258
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/aps_developer_identity.cer
+c000000004B0A2237000000000000057F
+t1258955319
+s1407
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o
+t1259819491
+s29124
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby
+t1259819492
+s23184
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby.LinkFileList
+c000000004B1751D900000000000001C7
+t1259819481
+s455
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ioSock.o
+t1259819491
+s12592
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/main.o
+t1259819491
+s4916
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ApplicationDelegate.o
+t1259819492
+s29300
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby
+t1259819492
+s21940
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby.LinkFileList
+c000000004B1751D900000000000001C4
+t1259819481
+s452
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ioSock.o
+t1259819492
+s12832
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/main.o
+t1259819491
+s4944
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app
+t1259819493
+s102
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app.dSYM
+t1259819493
+s102
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Info.plist
+t1259819481
+s937
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby
+t1259819492
+s50612
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/PkgInfo
+t1259819481
+s8
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1259819482
+s266
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj/MainMenu.nib
+t1259819483
+s22373
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/aps_developer_identity.cer
+t1259819482
+s1407
+
+N/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m
+c0000000049DB6DCA0000000000000105
+t1239117258
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bapidsuiewzhcqbinhdkjjdhcfiy/PushMeBaby_Prefix.pch.gch
+t1259819491
+s1909104
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch.gch
+t1259819490
+s50016496
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fezhxapkloanlhgxdqayikhxbwpa/PushMeBaby_Prefix.pch.gch
+t1259819483
+s2142576
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch.gch
+t1259819491
+s52789680
+
+NInfo.plist
+c0000000049DB770600000000000003F6
+t1239119622
+s1014
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281512281#281512281#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s281512291.337513
+e281512291.648061
+r1
+xCompileC
+xbuild/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m:195: warning: unused variable 'result'
+lSLF07#2@108"Compile /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m281512291#281512291#0(286"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m:195: warning: unused variable 'result'1(22@24"Unused variable 'result'281512291#146#140#0(6@100"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m281332091#195#0#195#0#19"unused variable '*'0(0#0#100"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m4300885448#1950"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o"0#
+
+CCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ioSock.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c" normal i386 c com.apple.compilers.gcc.4_2
+s281512291.547208
+e281512291.849540
+r1
+xCompileC
+xbuild/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ioSock.o
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c: In function 'AcceptClientConnection':
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c:294: warning: pointer targets in passing argument 3 of 'accept' differ in signedness
+lSLF07#2@95"Compile /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c281512291#281512291#0(300"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c: In function 'AcceptClientConnection':/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c:294: warning: pointer targets in passing argument 3 of 'accept' differ in signedness1(22@70"Pointer targets in passing argument 3 of 'accept' differ in signedness281512291#127#173#0(6@87"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c58141973#294#0#294#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#87"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c4300885448#1914"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fezhxapkloanlhgxdqayikhxbwpa/PushMeBaby_Prefix.pch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/ioSock.o"0#
+
+CCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s281512291.336583
+e281512291.547104
+r1
+xCompileC
+xbuild/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m281512291#281512291#0(0"0(0#0#77"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m4300885448#1912"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ApplicationDelegate.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s281512291.847727
+e281512292.058942
+r1
+xCompileC
+xbuild/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ApplicationDelegate.o
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m:195: warning: unused variable 'result'
+lSLF07#2@108"Compile /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m281512291#281512292#0(286"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m:195: warning: unused variable 'result'1(22@24"Unused variable 'result'281512291#146#140#0(6@100"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m281332091#195#0#195#0#19"unused variable '*'0(0#0#100"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m4300885448#1944"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/ppc" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ApplicationDelegate.m" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ApplicationDelegate.o"0#
+
+CCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ioSock.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c" normal ppc c com.apple.compilers.gcc.4_2
+s281512292.059041
+e281512292.273861
+r1
+xCompileC
+xbuild/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ioSock.o
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c: In function 'AcceptClientConnection':
+o/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c:294: warning: pointer targets in passing argument 3 of 'accept' differ in signedness
+lSLF07#2@95"Compile /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c281512292#281512292#0(300"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c: In function 'AcceptClientConnection':/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c:294: warning: pointer targets in passing argument 3 of 'accept' differ in signedness1(22@70"Pointer targets in passing argument 3 of 'accept' differ in signedness281512292#127#173#0(6@87"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c58141973#294#0#294#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#87"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c4300885448#1908"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/ppc" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bapidsuiewzhcqbinhdkjjdhcfiy/PushMeBaby_Prefix.pch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Classes/ioSock.c" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/ioSock.o"0#
+
+CCompileC build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/main.o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s281512291.648167
+e281512291.847613
+r1
+xCompileC
+xbuild/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/main.o
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m281512291#281512291#0(0"0(0#0#77"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m4300885448#1906"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/ppc" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/main.m" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/MainMenu.xib"
+s281512281.906530
+e281512283.232541
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib281512281#281512283#0(0"0(0#0#97"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/MainMenu.xib4300885448#434"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s281512281.882571
+e281512282.536461
+r1
+xCopyStringsFile
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings281512281#281512282#0(0"0(0#0#102"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/English.lproj/InfoPlist.strings4300885448#439"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Release/PushMeBaby.app/Contents/Resources/aps_developer_identity.cer aps_developer_identity.cer
+s281512282.536557
+e281512282.566522
+r1
+xCpResource
+xbuild/Release/PushMeBaby.app/Contents/Resources/aps_developer_identity.cer
+xaps_developer_identity.cer
+lSLF07#2@31"Copy aps_developer_identity.cer281512282#281512282#0(0"0(0#0#97"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/aps_developer_identity.cer4300885448#470"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/aps_developer_identity.cer" "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby" normal "i386 ppc"
+s281512292.884998
+e281512292.940301
+r1
+xCreateUniversalBinary
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby
+xnormal
+xi386 ppc
+lSLF07#2@94"CreateUniversalBinary build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby normal "i386 ppc"281512292#281512292#0(0"0(0#0#79"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/i386 ppc7742373268247891968#545"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    /usr/bin/lipo -create "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby" "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby" -output "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app.dSYM" "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby"
+s281512292.940397
+e281512293.007339
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app.dSYM
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby
+lSLF07#2@105"GenerateDSYMFile build/Release/PushMeBaby.app.dSYM build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby281512292#281512293#0(0"0(0#0#125"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby4300885448#350"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/MacOS/PushMeBaby" -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby" normal i386
+s281512291.849614
+e281512292.884919
+r1
+xLd
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby
+xnormal
+xi386
+lSLF07#2@154"Link /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby281512291#281512292#0(0"0(0#0#0"4300885448#775"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" -filelist "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Security -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/i386/PushMeBaby"0#
+
+CLd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby" normal ppc
+s281512292.273958
+e281512292.884356
+r1
+xLd
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby
+xnormal
+xppc
+lSLF07#2@153"Link /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby281512292#281512292#0(0"0(0#0#0"4300885448#772"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" -filelist "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework Security -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/Objects-normal/ppc/PushMeBaby"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Info.plist" Info.plist
+s281512281.847987
+e281512281.882467
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist281512281#281512281#0(0"0(0#0#81"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/Info.plist2336086654792787456#414"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bapidsuiewzhcqbinhdkjjdhcfiy/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal ppc c com.apple.compilers.gcc.4_2
+s281512290.939142
+e281512291.336501
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bapidsuiewzhcqbinhdkjjdhcfiy/PushMeBaby_Prefix.pch.gch
+xPushMeBaby_Prefix.pch
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PushMeBaby_Prefix.pch281512290#281512291#0(0"0(0#0#92"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch4300885448#1766"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/ppc" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch" -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bapidsuiewzhcqbinhdkjjdhcfiy/PushMeBaby_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s281512283.688416
+e281512290.938987
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch.gch
+xPushMeBaby_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PushMeBaby_Prefix.pch281512283#281512290#0(0"0(0#0#92"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch4300885448#1776"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/ppc" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch" -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-cktjiubaxrfanjcygprbsontgfbb/PushMeBaby_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fezhxapkloanlhgxdqayikhxbwpa/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s281512283.233562
+e281512283.688270
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fezhxapkloanlhgxdqayikhxbwpa/PushMeBaby_Prefix.pch.gch
+xPushMeBaby_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PushMeBaby_Prefix.pch281512283#281512283#0(0"0(0#0#92"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch4300885448#1771"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch" -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fezhxapkloanlhgxdqayikhxbwpa/PushMeBaby_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s281512283.232701
+e281512291.334285
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch.gch
+xPushMeBaby_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PushMeBaby_Prefix.pch281512283#281512291#0(0"0(0#0#92"/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch4300885448#1781"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/PushMeBaby-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/include" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/PushMeBaby.build/Release/PushMeBaby.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/PushMeBaby_Prefix.pch" -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-gkaedqltzdzoixbycbgquixwpbzw/PushMeBaby_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app"
+s281512293.007434
+e281512293.055044
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app
+lSLF07#2@105"Touch /Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app281512293#281512293#0(0"0(0#0#0"4300885448#204"    cd "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPhone Network Programming Course/PushMeBaby/build/Release/PushMeBaby.app"0#
+

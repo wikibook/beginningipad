@@ -1,0 +1,192 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {685, 699}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 780}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TableView */ = {
+		activeExec = 0;
+		executables = (
+			B72D62F011336BB000D4F4AA /* TableView */,
+		);
+	};
+	28042007108E984D000629CD /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 567}}";
+			sepNavSelRange = "{498, 0}";
+			sepNavVisRange = "{0, 820}";
+		};
+	};
+	28042008108E984D000629CD /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 3679}}";
+			sepNavSelRange = "{8053, 0}";
+			sepNavVisRange = "{7099, 1118}";
+			sepNavWindowFrame = "{{84, 402}, {750, 558}}";
+		};
+	};
+	28042009108E984D000629CD /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 577}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 586}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B72D62F011336BB000D4F4AA /* TableView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TableView */,
+		);
+		codeSenseManager = B72D62FA11336BB400D4F4AA /* Code sense */;
+		executables = (
+			B72D62F011336BB000D4F4AA /* TableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					737,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291741240;
+			PBXWorkspaceStateSaveDate = 291741240;
+		};
+		perUserProjectItems = {
+			B72D63891133E91D00D4F4AA /* PBXTextBookmark */ = B72D63891133E91D00D4F4AA /* PBXTextBookmark */;
+			B7485E4111639E3500FEA8D8 /* PBXTextBookmark */ = B7485E4111639E3500FEA8D8 /* PBXTextBookmark */;
+			B7485E5511639E4400FEA8D8 /* PBXTextBookmark */ = B7485E5511639E4400FEA8D8 /* PBXTextBookmark */;
+			B74C9F961137757200939B78 /* PBXTextBookmark */ = B74C9F961137757200939B78 /* PBXTextBookmark */;
+			B790E6551150877D00E95AF4 /* PlistBookmark */ = B790E6551150877D00E95AF4 /* PlistBookmark */;
+			B790E6561150877D00E95AF4 /* PBXTextBookmark */ = B790E6561150877D00E95AF4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B72D62F911336BB400D4F4AA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B72D62F011336BB000D4F4AA /* TableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TableView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B72D62F911336BB400D4F4AA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B72D62FA11336BB400D4F4AA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B72D63891133E91D00D4F4AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TableViewAppDelegate.h */;
+		name = "TableViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 0;
+	};
+	B7485E4111639E3500FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042008108E984D000629CD /* RootViewController.m */;
+		name = "RootViewController.m: 259";
+		rLen = 0;
+		rLoc = 8053;
+		rType = 0;
+		vrLen = 1085;
+		vrLoc = 7132;
+	};
+	B7485E5511639E4400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042008108E984D000629CD /* RootViewController.m */;
+		name = "RootViewController.m: 259";
+		rLen = 0;
+		rLoc = 8053;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 7099;
+	};
+	B74C9F961137757200939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042009108E984D000629CD /* DetailViewController.h */;
+		name = "DetailViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 0;
+	};
+	B790E6551150877D00E95AF4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = B72D62FB11336BCE00D4F4AA /* Movies.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			2000,
+			1,
+		);
+		name = "/Users/weimenglee/Desktop/iPad book/TableView/Movies.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B790E6561150877D00E95AF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042007108E984D000629CD /* RootViewController.h */;
+		name = "RootViewController.h: 25";
+		rLen = 0;
+		rLoc = 498;
+		rType = 0;
+		vrLen = 820;
+		vrLoc = 0;
+	};
+}

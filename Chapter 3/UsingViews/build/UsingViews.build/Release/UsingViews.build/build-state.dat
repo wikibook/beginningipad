@@ -1,0 +1,214 @@
+TUsingViews
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BF4700F00000000000C7160
+t1274310671
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsAppDelegate.h
+c000000004B9C780400000000000001E9
+t1268545540
+s489
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsAppDelegate.m
+c000000004B9C780500000000000002A9
+t1268545541
+s681
+i"UsingViewsAppDelegate.h"
+i"UsingViewsViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsViewController.h
+c000000004B9C80930000000000000239
+t1268547731
+s569
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsViewController.m
+c000000004B9C808C000000000000127C
+t1268547724
+s4732
+i"UsingViewsViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Mac8100.jpeg
+c000000004AA66A280000000000003466
+t1252420136
+s13414
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MacPlus.jpeg
+c000000004AA66ADC0000000000002E0F
+t1252420316
+s11791
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MacSE.jpeg
+c000000004AA66A08000000000002CA50
+t1252420104
+s182864
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MainWindow.xib
+c000000004B9C78050000000000004D27
+t1268545541
+s19751
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViewsViewController.xib
+c000000004B9C80F40000000000005348
+t1268547828
+s21320
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViews_Prefix.pch
+c000000004B9C780500000000000000BD
+t1268545541
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Info.plist
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/MacOS/UsingViews
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/Mac8100.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/MacPlus.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/MacSE.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/UsingViewsViewController.nib
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/imac.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Resources/imac_old.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/UsingViews.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/UsingViewsAppDelegate.o
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/UsingViewsViewController.o
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/imac.jpeg
+c000000004AA669BC0000000000005EA8
+t1252420028
+s24232
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/imac_old.jpeg
+c000000004AA669D20000000000007C4C
+t1252420050
+s31820
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/main.m
+c000000004B9C78050000000000000164
+t1268545541
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews_Prefix-ezspmmrlcewafkbiajvobbiwyrvq/UsingViews_Prefix.pch.gch
+t2
+s0
+
+NUsingViews-Info.plist
+c000000004B9C780500000000000004D6
+t1268545541
+s1238
+
+CCompileC build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/UsingViewsAppDelegate.o "/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/UsingViewsViewController.o "/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews.build/Release/UsingViews.build/Objects-normal/i386/main.o "/Users/eirene78/Downloads/Chapter 3/UsingViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViewsViewController.xib"
+r0
+
+CCpResource build/Release/UsingViews.app/Contents/Resources/Mac8100.jpeg Mac8100.jpeg
+r0
+
+CCpResource build/Release/UsingViews.app/Contents/Resources/MacPlus.jpeg MacPlus.jpeg
+r0
+
+CCpResource build/Release/UsingViews.app/Contents/Resources/MacSE.jpeg MacSE.jpeg
+r0
+
+CCpResource build/Release/UsingViews.app/Contents/Resources/imac.jpeg imac.jpeg
+r0
+
+CCpResource build/Release/UsingViews.app/Contents/Resources/imac_old.jpeg imac_old.jpeg
+r0
+
+CLd "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/MacOS/UsingViews" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app/Contents/Info.plist" UsingViews-Info.plist
+r0
+
+CProcessPCH /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews_Prefix-ezspmmrlcewafkbiajvobbiwyrvq/UsingViews_Prefix.pch.gch UsingViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release/UsingViews.app"
+r0
+

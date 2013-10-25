@@ -1,0 +1,201 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FilesHandlingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 634}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 507}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FilesHandlingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 634}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 696}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FilesHandling */ = {
+		activeExec = 0;
+		executables = (
+			B74CA0391138279B00939B78 /* FilesHandling */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FilesHandlingViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 634}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{0, 402}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FilesHandlingViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 2171}}";
+			sepNavSelRange = "{1272, 0}";
+			sepNavVisRange = "{0, 1574}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B74CA0391138279B00939B78 /* FilesHandling */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FilesHandling */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FilesHandling */,
+		);
+		codeSenseManager = B74CA045113827A500939B78 /* Code sense */;
+		executables = (
+			B74CA0391138279B00939B78 /* FilesHandling */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					652,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291739163;
+			PBXWorkspaceStateSaveDate = 291739163;
+		};
+		perUserProjectItems = {
+			B7485C661163964400FEA8D8 /* PlistBookmark */ = B7485C661163964400FEA8D8 /* PlistBookmark */;
+			B7485C671163964400FEA8D8 /* PBXTextBookmark */ = B7485C671163964400FEA8D8 /* PBXTextBookmark */;
+			B7485C681163964400FEA8D8 /* PBXTextBookmark */ = B7485C681163964400FEA8D8 /* PBXTextBookmark */;
+			B7485C691163964400FEA8D8 /* PBXTextBookmark */ = B7485C691163964400FEA8D8 /* PBXTextBookmark */;
+			B7485C6A1163964400FEA8D8 /* PBXTextBookmark */ = B7485C6A1163964400FEA8D8 /* PBXTextBookmark */;
+			B74CA05711382B7B00939B78 /* PlistBookmark */ = B74CA05711382B7B00939B78 /* PlistBookmark */;
+			B74CA0D2113A323C00939B78 /* PBXTextBookmark */ = B74CA0D2113A323C00939B78 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B74CA044113827A500939B78 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485C661163964400FEA8D8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = B74CA04C11382A9B00939B78 /* Apps.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/weimenglee/Desktop/iPad book/FilesHandling/Apps.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B7485C671163964400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FilesHandlingAppDelegate.h */;
+		name = "FilesHandlingAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	B7485C681163964400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FilesHandlingAppDelegate.m */;
+		name = "FilesHandlingAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 696;
+		vrLoc = 0;
+	};
+	B7485C691163964400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FilesHandlingViewController.h */;
+		name = "FilesHandlingViewController.h: 12";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
+	};
+	B7485C6A1163964400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FilesHandlingViewController.m */;
+		name = "FilesHandlingViewController.m: 43";
+		rLen = 0;
+		rLoc = 1272;
+		rType = 0;
+		vrLen = 1574;
+		vrLoc = 0;
+	};
+	B74CA0391138279B00939B78 /* FilesHandling */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FilesHandling;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B74CA044113827A500939B78 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B74CA045113827A500939B78 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B74CA05711382B7B00939B78 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FilesHandling-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandling-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B74CA0D2113A323C00939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FilesHandlingViewController.m */;
+		name = "FilesHandlingViewController.m: 93";
+		rLen = 0;
+		rLoc = 2816;
+		rType = 0;
+		vrLen = 1901;
+		vrLoc = 2257;
+	};
+}

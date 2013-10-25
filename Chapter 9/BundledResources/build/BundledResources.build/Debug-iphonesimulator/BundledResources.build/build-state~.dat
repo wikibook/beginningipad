@@ -1,0 +1,279 @@
+TBundledResources
+v7
+r0
+t288939024.376576
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/Info.plist" BundledResources-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/BundledResources/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResourcesViewController.xib"
+cCpResource build/Debug-iphonesimulator/BundledResources.app/SampleText.txt SampleText.txt
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch.gch BundledResources_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/BundledResources/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesViewController.o "/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app.dSYM" "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources"
+cTouch "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResourcesViewController.xib
+c000000004B88A2BE0000000000003F05
+t1267245758
+s16133
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResources_Prefix.pch
+c000000004B88A2BE00000000000000C9
+t1267245758
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.h
+c000000004B88A2BE000000000000020D
+t1267245758
+s525
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m
+c000000004B88A42A000000000000084D
+t1267246122
+s2125
+i"BundledResourcesAppDelegate.h"
+i"BundledResourcesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.h
+c000000004B88A2BE0000000000000101
+t1267245758
+s257
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m
+c000000004B88A4890000000000000839
+t1267246217
+s2105
+i"BundledResourcesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/MainWindow.xib
+c000000004B88A2BE0000000000004D63
+t1267245758
+s19811
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/SampleText.txt
+c000000004B88A317000000000000002B
+t1267245847
+s43
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResources.LinkFileList
+c000000004B88A48B00000000000001FF
+t1267246219
+s511
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesAppDelegate.o
+t1267246224
+s45604
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesViewController.o
+t1267246224
+s41048
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/main.o
+t1267246224
+s5972
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app
+t1267246224
+s272
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app.dSYM
+t1267246224
+s102
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources
+t1267246224
+s20804
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResourcesViewController.nib
+t1267246220
+s769
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/Info.plist
+t1267246219
+s840
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/MainWindow.nib
+t1267246220
+s1135
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/PkgInfo
+t1267246219
+s8
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/SampleText.txt
+t1267246220
+s43
+
+N/Users/weimenglee/Desktop/iPad book/BundledResources/main.m
+c000000004B88A2BE000000000000016A
+t1267245758
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch.gch
+t1267246223
+s13805456
+
+NBundledResources-Info.plist
+c000000004B88A2BE00000000000004D6
+t1267245758
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288939019#288939019#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288939024.116353
+e288939024.194545
+r1
+xCompileC
+xbuild/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m: In function '-[BundledResourcesAppDelegate copyFileInBundleToDocumentsFolder:withExtension:]':
+o/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m:46: warning: format not a string literal and no format arguments
+lSLF07#2@98"Compile /Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m288939024#288939024#0(343"/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m: In function '-[BundledResourcesAppDelegate copyFileInBundleToDocumentsFolder:withExtension:]':/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m:46: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments288939024#187#156#0(6@90"/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m288938922#46#0#46#0#51"format not a string literal and no format arguments0(0#0#90"/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m4300907800#2267"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesAppDelegate.o"0#
+
+CCompileC build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesViewController.o "/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288939024.168609
+e288939024.251040
+r1
+xCompileC
+xbuild/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesViewController.o
+x/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m: In function '-[BundledResourcesViewController viewDidLoad]':
+o/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m:40: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)
+lSLF07#2@101"Compile /Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m288939024#288939024#0(473"/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m: In function '-[BundledResourcesViewController viewDidLoad]':/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m:40: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)1(22@209"'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)288939024#156#317#0(6@93"/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m288939017#40#0#40#0#33"'*' is deprecated (declared at *)0(0#0#93"/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m4300907800#2273"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/BundledResources/Classes/BundledResourcesViewController.m" -o "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResourcesViewController.o"0#
+
+CCompileC build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/BundledResources/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288939024.115110
+e288939024.168495
+r1
+xCompileC
+xbuild/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/BundledResources/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/weimenglee/Desktop/iPad book/BundledResources/main.m288939024#288939024#0(0"0(0#0#59"/Users/weimenglee/Desktop/iPad book/BundledResources/main.m4300907800#2213"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/BundledResources/main.m" -o "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResourcesViewController.xib"
+s288939019.325654
+e288939020.637878
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResourcesViewController.xib
+lSLF07#2@45"CompileXIB BundledResourcesViewController.xib288939019#288939020#0(0"0(0#0#87"/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResourcesViewController.xib4300907800#577"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResourcesViewController.nib" "/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResourcesViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/BundledResources/MainWindow.xib"
+s288939019.325021
+e288939020.725536
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/BundledResources/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288939019#288939020#0(0"0(0#0#67"/Users/weimenglee/Desktop/iPad book/BundledResources/MainWindow.xib4300907800#537"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/BundledResources/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/BundledResources.app/SampleText.txt SampleText.txt
+s288939020.637969
+e288939020.737808
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BundledResources.app/SampleText.txt
+xSampleText.txt
+lSLF07#2@19"Copy SampleText.txt288939020#288939020#0(0"0(0#0#67"/Users/weimenglee/Desktop/iPad book/BundledResources/SampleText.txt4300907800#515"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/BundledResources/SampleText.txt" "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app.dSYM" "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources"
+s288939024.326722
+e288939024.346229
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/BundledResources.app.dSYM build/Debug-iphonesimulator/BundledResources.app/BundledResources288939024#288939024#0(0"0(0#0#118"/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources4300907800#458"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources" -o "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources" normal i386
+s288939024.251128
+e288939024.326600
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources
+xnormal
+xi386
+lSLF07#2@123"Link /Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources288939024#288939024#0(0"0(0#0#0"4300907800#987"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/Objects-normal/i386/BundledResources.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/BundledResources"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/Info.plist" BundledResources-Info.plist
+s288939019.321777
+e288939019.324947
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/Info.plist
+xBundledResources-Info.plist
+lSLF07#2@35"Process BundledResources-Info.plist288939019#288939019#0(0"0(0#0#80"/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResources-Info.plist4300907800#554"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BundledResources-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch.gch BundledResources_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288939020.737915
+e288939024.114924
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch.gch
+xBundledResources_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile BundledResources_Prefix.pch288939020#288939024#0(0"0(0#0#80"/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResources_Prefix.pch4300907800#2080"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/BundledResources-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BundledResources/build/BundledResources.build/Debug-iphonesimulator/BundledResources.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/BundledResources/BundledResources_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BundledResources_Prefix-figamphbpnhonecadxzeqwqxkovc/BundledResources_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app"
+s288939024.346317
+e288939024.376540
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app
+lSLF07#2@107"Touch /Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app288939024#288939024#0(0"0(0#0#0"4300907800#319"    cd "/Users/weimenglee/Desktop/iPad book/BundledResources"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/BundledResources/build/Debug-iphonesimulator/BundledResources.app"0#
+

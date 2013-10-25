@@ -1,0 +1,297 @@
+TBluetoothChat
+v7
+r0
+t291738604.670534
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/Info.plist" BluetoothChat-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/BluetoothChat/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChatViewController.xib"
+cCpResource build/Debug-iphonesimulator/BluetoothChat.app/beep.wav beep.wav
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch.gch BluetoothChat_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatAppDelegate.o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatViewController.o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app.dSYM" "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat"
+cTouch "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B7CD2400000000000012140
+t1266471488
+s74048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B7CD23D00000000000000EB
+t1266471485
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004B7D19BB00000000000AA630
+t1266489787
+s697904
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004B7D19B60000000000000112
+t1266489782
+s274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChatViewController.xib
+c000000004B8C72500000000000005FCC
+t1267495504
+s24524
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChat_Prefix.pch
+c000000004B8C70DB00000000000000C3
+t1267495131
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.h
+c000000004B8C70DB00000000000001FA
+t1267495131
+s506
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m
+c000000004BB35B9B00000000000002B5
+t1270045595
+s693
+i"BluetoothChatAppDelegate.h"
+i"BluetoothChatViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.h
+c000000004BB35C6A000000000000031D
+t1270045802
+s797
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m
+c000000004BB35C9900000000000014F3
+t1270045849
+s5363
+i"BluetoothChatViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/MainWindow.xib
+c000000004B8C70DB0000000000004D45
+t1267495131
+s19781
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/beep.wav
+c000000004B000D8A000000000000036C
+t1258294666
+s876
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChat.LinkFileList
+c000000004B8C76CC00000000000001DE
+t1267496652
+s478
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatAppDelegate.o
+t1270045804
+s42540
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatViewController.o
+t1270045804
+s51608
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/main.o
+t1267496656
+s5964
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app
+t1270045804
+s272
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app.dSYM
+t1270045804
+s102
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat
+t1270045804
+s27440
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChatViewController.nib
+t1267496654
+s1952
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/Info.plist
+t1267496652
+s822
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/MainWindow.nib
+t1267496654
+s1129
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/PkgInfo
+t1267496652
+s8
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/beep.wav
+t1267496654
+s876
+
+N/Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m
+c000000004B8C70DB0000000000000166
+t1267495131
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch.gch
+t1267496655
+s13805456
+
+NBluetoothChat-Info.plist
+c000000004B8C70DB00000000000004D6
+t1267495131
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291738604#291738604#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatAppDelegate.o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291738604.528325
+e291738604.631158
+r1
+xCompileC
+xbuild/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m291738604#291738604#0(0"0(0#0#84"/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m4300907800#2168"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatAppDelegate.o"0#
+
+CCompileC build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatViewController.o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291738604.529625
+e291738604.630911
+r1
+xCompileC
+xbuild/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatViewController.o
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m291738604#291738604#0(0"0(0#0#87"/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m4300907800#2174"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/BluetoothChat/Classes/BluetoothChatViewController.m" -o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChatViewController.o"0#
+
+CCompileC build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289189455.916588
+e289189456.014187
+r1
+xCompileC
+xbuild/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m289189455#289189456#0(0"0(0#0#56"/Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m4300907800#2120"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/BluetoothChat/main.m" -o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChatViewController.xib"
+s289189452.551605
+e289189454.419396
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChatViewController.xib
+lSLF07#2@42"CompileXIB BluetoothChatViewController.xib289189452#289189454#0(0"0(0#0#81"/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChatViewController.xib4300907800#559"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChatViewController.nib" "/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChatViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/BluetoothChat/MainWindow.xib"
+s289189452.518903
+e289189454.395438
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289189452#289189454#0(0"0(0#0#64"/Users/weimenglee/Desktop/iPad book/BluetoothChat/MainWindow.xib4300907800#525"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/BluetoothChat/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/BluetoothChat.app/beep.wav beep.wav
+s289189454.395658
+e289189454.438841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluetoothChat.app/beep.wav
+xbeep.wav
+lSLF07#2@13"Copy beep.wav289189454#289189454#0(0"0(0#0#58"/Users/weimenglee/Desktop/iPad book/BluetoothChat/beep.wav4300907800#497"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/BluetoothChat/beep.wav" "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app.dSYM" "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat"
+s291738604.650864
+e291738604.667615
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BluetoothChat.app.dSYM build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat291738604#291738604#0(0"0(0#0#109"/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat4300907800#440"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat" -o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat" normal i386
+s291738604.631220
+e291738604.650763
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat
+xnormal
+xi386
+lSLF07#2@114"Link /Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat291738604#291738604#0(0"0(0#0#0"4300907800#1000"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/Objects-normal/i386/BluetoothChat.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework AVFoundation -o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/BluetoothChat"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/Info.plist" BluetoothChat-Info.plist
+s289189452.489785
+e289189452.518811
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/Info.plist
+xBluetoothChat-Info.plist
+lSLF07#2@32"Process BluetoothChat-Info.plist289189452#289189452#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChat-Info.plist4300907800#536"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BluetoothChat-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch.gch BluetoothChat_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289189454.438947
+e289189455.916306
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch.gch
+xBluetoothChat_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BluetoothChat_Prefix.pch289189454#289189455#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChat_Prefix.pch4300907800#1993"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/BluetoothChat-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/BluetoothChat.build/Debug-iphonesimulator/BluetoothChat.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/BluetoothChat/BluetoothChat_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluetoothChat_Prefix-gjeziravxwnmrwcuwvbbbfajvrtu/BluetoothChat_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app"
+s291738604.667701
+e291738604.670495
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app
+lSLF07#2@101"Touch /Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app291738604#291738604#0(0"0(0#0#0"4300907800#310"    cd "/Users/weimenglee/Desktop/iPad book/BluetoothChat"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/BluetoothChat/build/Debug-iphonesimulator/BluetoothChat.app"0#
+

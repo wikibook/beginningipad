@@ -1,0 +1,295 @@
+TsplitViewBasedApp
+v7
+r0
+t302002371.493866
+cCheck dependencies
+cProcessInfoPlistFile /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/Info.plist splitViewBasedApp-Info.plist
+cCompileXIB /Users/joshy/Documents/splitViewBasedApp/MainWindow.xib
+cCompileXIB /Users/joshy/Documents/splitViewBasedApp/DetailView.xib
+cProcessPCH /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch.gch splitViewBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/main.o /Users/joshy/Documents/splitViewBasedApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedAppAppDelegate.o /Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/RootViewController.o /Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/DetailViewController.o /Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp normal i386
+cGenerateDSYMFile /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app.dSYM /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp
+cTouch /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C4DAB550000000000000110
+t1280158549
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.h
+c000000004C4FF91E0000000000000269
+t1280309534
+s617
+i<UIKit/UIKit.h>
+
+N/Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m
+c000000004C4FF91E0000000000000DCA
+t1280309534
+s3530
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.h
+c000000004C4FF91E0000000000000197
+t1280309534
+s407
+i<UIKit/UIKit.h>
+
+N/Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m
+c000000004C4FF91E00000000000010CD
+t1280309534
+s4301
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.h
+c000000004C4FF91E000000000000032F
+t1280309534
+s815
+i<UIKit/UIKit.h>
+
+N/Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m
+c000000004C4FF91E00000000000007E9
+t1280309534
+s2025
+i"splitViewBasedAppAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/joshy/Documents/splitViewBasedApp/DetailView.xib
+c000000004C4FF91E000000000000500C
+t1280309534
+s20492
+
+N/Users/joshy/Documents/splitViewBasedApp/MainWindow.xib
+c000000004C4FF91E00000000000069F0
+t1280309534
+s27120
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app
+t1280309571
+s238
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app.dSYM
+t1280309571
+s102
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/DetailView.nib
+t1280309569
+s1421
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/Info.plist
+t1280309568
+s844
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/MainWindow.nib
+t1280309569
+s1944
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/PkgInfo
+t1280309568
+s8
+
+N/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp
+t1280309571
+s27784
+
+N/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/DetailViewController.o
+t1280309571
+s46404
+
+N/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/RootViewController.o
+t1280309571
+s42660
+
+N/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/main.o
+t1280309571
+s6308
+
+N/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedApp.LinkFileList
+c000000004C4FF9400000000000000276
+t1280309568
+s630
+
+N/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedAppAppDelegate.o
+t1280309571
+s49764
+
+N/Users/joshy/Documents/splitViewBasedApp/main.m
+c000000004C4FF91F0000000000000173
+t1280309535
+s371
+i<UIKit/UIKit.h>
+
+N/Users/joshy/Documents/splitViewBasedApp/splitViewBasedApp_Prefix.pch
+c000000004C4FF91E0000000000000154
+t1280309534
+s340
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch.gch
+t1280309570
+s13825936
+
+NsplitViewBasedApp-Info.plist
+c000000004C4FF91E00000000000004D6
+t1280309534
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302002368#302002368#0(0"0(0#1#0"8612316256#0"0#
+
+CCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/DetailViewController.o /Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302002371.083322
+e302002371.196766
+r1
+xCompileC
+xbuild/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/DetailViewController.o
+x/Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m302002371#302002371#0(0"0(0#0#71"/Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m8617455360#2163"    cd /Users/joshy/Documents/splitViewBasedApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-generated-files.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-own-target-headers.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-all-target-headers.hmap -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-project-headers.hmap -F/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -I/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/include -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources/i386 -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources -include /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch -c /Users/joshy/Documents/splitViewBasedApp/Classes/DetailViewController.m -o /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/RootViewController.o /Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302002371.081818
+e302002371.189141
+r1
+xCompileC
+xbuild/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/RootViewController.o
+x/Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m302002371#302002371#0(0"0(0#0#69"/Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m8617963040#2159"    cd /Users/joshy/Documents/splitViewBasedApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-generated-files.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-own-target-headers.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-all-target-headers.hmap -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-project-headers.hmap -F/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -I/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/include -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources/i386 -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources -include /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch -c /Users/joshy/Documents/splitViewBasedApp/Classes/RootViewController.m -o /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/main.o /Users/joshy/Documents/splitViewBasedApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302002370.890998
+e302002371.081514
+r1
+xCompileC
+xbuild/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/main.o
+x/Users/joshy/Documents/splitViewBasedApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/joshy/Documents/splitViewBasedApp/main.m302002370#302002371#0(0"0(0#0#47"/Users/joshy/Documents/splitViewBasedApp/main.m8619681792#2123"    cd /Users/joshy/Documents/splitViewBasedApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-generated-files.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-own-target-headers.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-all-target-headers.hmap -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-project-headers.hmap -F/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -I/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/include -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources/i386 -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources -include /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch -c /Users/joshy/Documents/splitViewBasedApp/main.m -o /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedAppAppDelegate.o /Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302002370.933576
+e302002371.081716
+r1
+xCompileC
+xbuild/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedAppAppDelegate.o
+x/Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m302002370#302002371#0(0"0(0#0#79"/Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m8617086976#2179"    cd /Users/joshy/Documents/splitViewBasedApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-generated-files.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-own-target-headers.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-all-target-headers.hmap -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-project-headers.hmap -F/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -I/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/include -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources/i386 -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources -include /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch -c /Users/joshy/Documents/splitViewBasedApp/Classes/splitViewBasedAppAppDelegate.m -o /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedAppAppDelegate.o0#
+
+CCompileXIB /Users/joshy/Documents/splitViewBasedApp/DetailView.xib
+s302002368.545714
+e302002369.423608
+r1
+xCompileXIB
+x/Users/joshy/Documents/splitViewBasedApp/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib302002368#302002369#0(0"0(0#0#55"/Users/joshy/Documents/splitViewBasedApp/DetailView.xib8619913184#586"    cd /Users/joshy/Documents/splitViewBasedApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/DetailView.nib /Users/joshy/Documents/splitViewBasedApp/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/joshy/Documents/splitViewBasedApp/MainWindow.xib
+s302002368.515404
+e302002369.302462
+r1
+xCompileXIB
+x/Users/joshy/Documents/splitViewBasedApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302002368#302002369#0(0"0(0#0#55"/Users/joshy/Documents/splitViewBasedApp/MainWindow.xib8620251616#586"    cd /Users/joshy/Documents/splitViewBasedApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/MainWindow.nib /Users/joshy/Documents/splitViewBasedApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app.dSYM /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp
+s302002371.434715
+e302002371.489699
+r1
+xGenerateDSYMFile
+x/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app.dSYM
+x/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/splitViewBasedApp.app.dSYM build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp302002371#302002371#0(0"0(0#0#108"/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp8616649664#419"    cd /Users/joshy/Documents/splitViewBasedApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp -o /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app.dSYM0#
+
+CLd /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp normal i386
+s302002371.196868
+e302002371.434593
+r1
+xLd
+x/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp
+xnormal
+xi386
+lSLF07#2@113"Link /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp302002371#302002371#0(0"0(0#0#0"8612849120#960"    cd /Users/joshy/Documents/splitViewBasedApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -F/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -filelist /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/Objects-normal/i386/splitViewBasedApp.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/splitViewBasedApp0#
+
+CProcessInfoPlistFile /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/Info.plist splitViewBasedApp-Info.plist
+s302002368.500945
+e302002368.515300
+r1
+xProcessInfoPlistFile
+x/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/Info.plist
+xsplitViewBasedApp-Info.plist
+lSLF07#2@36"Process splitViewBasedApp-Info.plist302002368#302002368#0(0"0(0#0#69"/Users/joshy/Documents/splitViewBasedApp/splitViewBasedApp-Info.plist8611413984#515"    cd /Users/joshy/Documents/splitViewBasedApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility splitViewBasedApp-Info.plist -genpkginfo /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app/Info.plist0#
+
+CProcessPCH /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch.gch splitViewBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302002369.423739
+e302002370.890787
+r1
+xProcessPCH
+x/var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch.gch
+xsplitViewBasedApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile splitViewBasedApp_Prefix.pch302002369#302002370#0(0"0(0#0#69"/Users/joshy/Documents/splitViewBasedApp/splitViewBasedApp_Prefix.pch8617347904#2003"    cd /Users/joshy/Documents/splitViewBasedApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-generated-files.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-own-target-headers.hmap -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-all-target-headers.hmap -iquote /Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/splitViewBasedApp-project-headers.hmap -F/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator -I/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/include -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources/i386 -I/Users/joshy/Documents/splitViewBasedApp/build/splitViewBasedApp.build/Debug-iphonesimulator/splitViewBasedApp.build/DerivedSources -c /Users/joshy/Documents/splitViewBasedApp/splitViewBasedApp_Prefix.pch -o /var/folders/5h/5h1-V0OEGnSTdoGQFeYBiE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splitViewBasedApp_Prefix-gcfdpkxkuvyfiafyouaoadqrriaf/splitViewBasedApp_Prefix.pch.gch0#
+
+CTouch /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app
+s302002371.489793
+e302002371.493821
+r1
+xTouch
+x/Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app
+lSLF07#2@96"Touch /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app302002371#302002371#0(0"0(0#0#0"8616232768#292"    cd /Users/joshy/Documents/splitViewBasedApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/joshy/Documents/splitViewBasedApp/build/Debug-iphonesimulator/splitViewBasedApp.app0#
+

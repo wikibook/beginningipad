@@ -1,0 +1,305 @@
+TwindowBasedApp
+v7
+r0
+t291742190.277357
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/Info.plist" windowBasedApp-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/windowBasedApp/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch.gch windowBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedAppAppDelegate.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/HelloWorldViewController.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/MySecondViewController.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app.dSYM" "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp"
+cTouch "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.h
+c000000004B9B2F660000000000000118
+t1268461414
+s280
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m
+c000000004BB3694D00000000000007EF
+t1270049101
+s2031
+i"HelloWorldViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.xib
+c000000004B9B2F8B0000000000004B92
+t1268461451
+s19346
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.h
+c000000004B9B29A20000000000000217
+t1268459938
+s535
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m
+c000000004BB369CA0000000000000B1D
+t1270049226
+s2845
+i"MySecondViewController.h"
+i"HelloWorldViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.h
+c000000004B7B81CE00000000000001F2
+t1266385358
+s498
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m
+c000000004BB36A8400000000000004B1
+t1270049412
+s1201
+i"windowBasedAppAppDelegate.h"
+i"HelloWorldViewController.h"
+i"MySecondViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/MainWindow.xib
+c000000004B7B86720000000000004EB9
+t1266386546
+s20153
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app
+t1270049390
+s238
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app.dSYM
+t1270049390
+s102
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/HelloWorldViewController.nib
+t1268461458
+s1527
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/Info.plist
+t1266384847
+s826
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/MainWindow.nib
+t1266386551
+s1127
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/PkgInfo
+t1266384847
+s8
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp
+t1270049390
+s26656
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/HelloWorldViewController.o
+t1270049102
+s41252
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/MySecondViewController.o
+t1270049229
+s42976
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/main.o
+t1268457026
+s5968
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedApp.LinkFileList
+c000000004B9B223B000000000000028B
+t1268458043
+s651
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedAppAppDelegate.o
+t1270049390
+s42920
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m
+c000000004B7B7FA00000000000000168
+t1266384800
+s360
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/windowBasedApp/windowBasedApp_Prefix.pch
+c000000004B7B7FA000000000000000C5
+t1266384800
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch.gch
+t1268457025
+s13805456
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-ebiteqluaygbrubptzixighhbzgk/windowBasedApp_Prefix.pch.gch
+t1266384848
+s13756272
+
+NwindowBasedApp-Info.plist
+c000000004B7B7FA000000000000004D6
+t1266384800
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291742189#291742189#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/HelloWorldViewController.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291741902.143980
+e291741902.313520
+r1
+xCompileC
+xbuild/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/HelloWorldViewController.o
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m291741902#291741902#0(0"0(0#0#85"/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m4300907800#2199"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.m" -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/HelloWorldViewController.o"0#
+
+CCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/MySecondViewController.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291742029.040561
+e291742029.188843
+r1
+xCompileC
+xbuild/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/MySecondViewController.o
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m291742029#291742029#0(0"0(0#0#83"/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m4300907800#2195"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/MySecondViewController.m" -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/MySecondViewController.o"0#
+
+CCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290149825.597081
+e290149826.075691
+r1
+xCompileC
+xbuild/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m290149825#290149826#0(0"0(0#0#57"/Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m4300907800#2151"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/main.m" -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedAppAppDelegate.o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291742189.934477
+e291742190.117711
+r1
+xCompileC
+xbuild/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedAppAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m291742189#291742190#0(0"0(0#0#86"/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m4300907800#2201"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/windowBasedAppAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedAppAppDelegate.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.xib"
+s290154257.529839
+e290154258.022148
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.xib
+lSLF07#2@47"CompileXIB Classes/HelloWorldViewController.xib290154257#290154258#0(0"0(0#0#87"/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.xib4300907800#565"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/HelloWorldViewController.nib" "/Users/weimenglee/Desktop/iPad book/windowBasedApp/Classes/HelloWorldViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/windowBasedApp/MainWindow.xib"
+s288079349.918203
+e288079351.542033
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288079349#288079351#0(0"0(0#0#65"/Users/weimenglee/Desktop/iPad book/windowBasedApp/MainWindow.xib4300907768#529"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/windowBasedApp/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app.dSYM" "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp"
+s291742190.161151
+e291742190.274632
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/windowBasedApp.app.dSYM build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp291742190#291742190#0(0"0(0#0#112"/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp4300907800#446"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp" -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp" normal i386
+s291742190.117799
+e291742190.161056
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp
+xnormal
+xi386
+lSLF07#2@117"Link /Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp291742190#291742190#0(0"0(0#0#0"4300907800#967"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/Objects-normal/i386/windowBasedApp.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/windowBasedApp"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/Info.plist" windowBasedApp-Info.plist
+s288077647.609462
+e288077647.612939
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/Info.plist
+xwindowBasedApp-Info.plist
+lSLF07#2@33"Process windowBasedApp-Info.plist288077647#288077647#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/windowBasedApp/windowBasedApp-Info.plist4300907768#542"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility windowBasedApp-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch.gch windowBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290149821.956171
+e290149825.596913
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch.gch
+xwindowBasedApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile windowBasedApp_Prefix.pch290149821#290149825#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/windowBasedApp/windowBasedApp_Prefix.pch4300907800#2022"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/windowBasedApp_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-bsowmeaihmbylxakvwggrgbdhyjo/windowBasedApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-ebiteqluaygbrubptzixighhbzgk/windowBasedApp_Prefix.pch.gch windowBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288077648.199327
+e288077648.962204
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-ebiteqluaygbrubptzixighhbzgk/windowBasedApp_Prefix.pch.gch
+xwindowBasedApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile windowBasedApp_Prefix.pch288077648#288077648#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/windowBasedApp/windowBasedApp_Prefix.pch4300907768#2022"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/windowBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/windowBasedApp.build/Debug-iphonesimulator/windowBasedApp.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/windowBasedApp_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/windowBasedApp_Prefix-ebiteqluaygbrubptzixighhbzgk/windowBasedApp_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app"
+s291742190.274733
+e291742190.277328
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app
+lSLF07#2@103"Touch /Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app291742190#291742190#0(0"0(0#0#0"4300907800#313"    cd "/Users/weimenglee/Desktop/iPad book/windowBasedApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/windowBasedApp/build/Debug-iphonesimulator/windowBasedApp.app"0#
+

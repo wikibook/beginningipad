@@ -1,0 +1,220 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BundledResourcesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 398}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 525}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BundledResourcesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 897}}";
+			sepNavSelRange = "{2116, 0}";
+			sepNavVisRange = "{1407, 715}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BundledResources */ = {
+		activeExec = 0;
+		executables = (
+			B74CA0711138DA3E00939B78 /* BundledResources */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BundledResourcesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 398}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BundledResourcesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {733, 1040}}";
+			sepNavSelRange = "{695, 0}";
+			sepNavVisRange = "{1612, 665}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B74CA0711138DA3E00939B78 /* BundledResources */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BundledResources */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BundledResources */,
+		);
+		breakpoints = (
+			B74CA09E1138DD7D00939B78 /* BundledResourcesViewController.m:42 */,
+		);
+		codeSenseManager = B74CA07B1138DA3F00939B78 /* Code sense */;
+		executables = (
+			B74CA0711138DA3E00939B78 /* BundledResources */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					528,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291739010;
+			PBXWorkspaceStateSaveDate = 291739010;
+		};
+		perUserProjectItems = {
+			B7485C24116395AE00FEA8D8 /* PBXTextBookmark */ = B7485C24116395AE00FEA8D8 /* PBXTextBookmark */;
+			B7485C25116395AE00FEA8D8 /* PBXTextBookmark */ = B7485C25116395AE00FEA8D8 /* PBXTextBookmark */;
+			B7485C26116395AE00FEA8D8 /* PBXTextBookmark */ = B7485C26116395AE00FEA8D8 /* PBXTextBookmark */;
+			B7485C27116395AE00FEA8D8 /* PBXTextBookmark */ = B7485C27116395AE00FEA8D8 /* PBXTextBookmark */;
+			B7485C33116395B500FEA8D8 /* PBXTextBookmark */ = B7485C33116395B500FEA8D8 /* PBXTextBookmark */;
+			B74CA08D1138DC8800939B78 /* PBXTextBookmark */ = B74CA08D1138DC8800939B78 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B74CA07A1138DA3F00939B78 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485C24116395AE00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BundledResourcesAppDelegate.h */;
+		name = "BundledResourcesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	B7485C25116395AE00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BundledResourcesAppDelegate.m */;
+		name = "BundledResourcesAppDelegate.m: 67";
+		rLen = 0;
+		rLoc = 2116;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 1407;
+	};
+	B7485C26116395AE00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BundledResourcesViewController.m */;
+		name = "BundledResourcesViewController.m: 29";
+		rLen = 0;
+		rLoc = 695;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 1612;
+	};
+	B7485C27116395AE00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BundledResourcesViewController.h */;
+		name = "BundledResourcesViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	B7485C33116395B500FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BundledResourcesViewController.h */;
+		name = "BundledResourcesViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	B74CA0711138DA3E00939B78 /* BundledResources */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BundledResources;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B74CA07A1138DA3F00939B78 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B74CA07B1138DA3F00939B78 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B74CA07D1138DA8A00939B78 /* SampleText.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {489, 390}}";
+			sepNavSelRange = "{43, 0}";
+			sepNavVisRange = "{0, 43}";
+		};
+	};
+	B74CA08D1138DC8800939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B74CA07D1138DA8A00939B78 /* SampleText.txt */;
+		name = "SampleText.txt: 1";
+		rLen = 0;
+		rLoc = 43;
+		rType = 0;
+		vrLen = 43;
+		vrLoc = 0;
+	};
+	B74CA09E1138DD7D00939B78 /* BundledResourcesViewController.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BundledResourcesViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = BundledResources;
+		modificationTime = 288939398.314325;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+}

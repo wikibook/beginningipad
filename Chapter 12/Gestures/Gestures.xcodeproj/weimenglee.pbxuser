@@ -1,0 +1,259 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Gestures */ = {
+		activeExec = 0;
+		executables = (
+			B72D5CFE112D812300D4F4AA /* Gestures */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GesturesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {772, 506}}";
+			sepNavSelRange = "{141, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 2691}}";
+			sepNavSelRange = "{4468, 0}";
+			sepNavVisRange = "{4097, 695}";
+			sepNavWindowFrame = "{{15, 465}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B72D5CFE112D812300D4F4AA /* Gestures */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Gestures */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Gestures */,
+		);
+		breakpoints = (
+			B72D5DEB112E5B3700D4F4AA /* GesturesViewController.m:106 */,
+			B72D5E4D112E665600D4F4AA /* GesturesViewController.m:43 */,
+			B72D5F1D112EEE9000D4F4AA /* GesturesViewController.m:39 */,
+		);
+		codeSenseManager = B72D5D08112D812800D4F4AA /* Code sense */;
+		executables = (
+			B72D5CFE112D812300D4F4AA /* Gestures */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					594,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291739210;
+			PBXWorkspaceStateSaveDate = 291739210;
+		};
+		perUserProjectItems = {
+			B72D5E9A112E6BCC00D4F4AA /* PBXTextBookmark */ = B72D5E9A112E6BCC00D4F4AA /* PBXTextBookmark */;
+			B72D5F14112ECE0900D4F4AA /* PBXBookmark */ = B72D5F14112ECE0900D4F4AA /* PBXBookmark */;
+			B72D5F15112ECE0900D4F4AA /* PBXBookmark */ = B72D5F15112ECE0900D4F4AA /* PBXBookmark */;
+			B72D5F21112EEE9500D4F4AA /* PBXBookmark */ = B72D5F21112EEE9500D4F4AA /* PBXBookmark */;
+			B7485C941163981A00FEA8D8 /* XCBuildMessageTextBookmark */ = B7485C941163981A00FEA8D8 /* XCBuildMessageTextBookmark */;
+			B7485C9F116398E500FEA8D8 /* PBXTextBookmark */ = B7485C9F116398E500FEA8D8 /* PBXTextBookmark */;
+			B7485CA0116398E500FEA8D8 /* PBXTextBookmark */ = B7485CA0116398E500FEA8D8 /* PBXTextBookmark */;
+			B7485CA1116398E500FEA8D8 /* PBXTextBookmark */ = B7485CA1116398E500FEA8D8 /* PBXTextBookmark */;
+			B7485CA2116398E500FEA8D8 /* PBXTextBookmark */ = B7485CA2116398E500FEA8D8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B72D5D07112D812800D4F4AA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B72D5CFE112D812300D4F4AA /* Gestures */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Gestures;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B72D5D07112D812800D4F4AA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B72D5D08112D812800D4F4AA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B72D5DEB112E5B3700D4F4AA /* GesturesViewController.m:106 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		functionName = "-handleSwipeGesture:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 106;
+		location = Gestures;
+		modificationTime = 288288407.0082389;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B72D5E4D112E665600D4F4AA /* GesturesViewController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = Gestures;
+		modificationTime = 288288410.092178;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B72D5E9A112E6BCC00D4F4AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B72D5E9B112E6BCC00D4F4AA /* UIView.h */;
+		name = "UIView.h: 111";
+		rLen = 0;
+		rLoc = 4358;
+		rType = 0;
+		vrLen = 3008;
+		vrLoc = 3224;
+	};
+	B72D5E9B112E6BCC00D4F4AA /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+	B72D5F14112ECE0900D4F4AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B72D5D09112D813200D4F4AA /* architecture.jpg */;
+	};
+	B72D5F15112ECE0900D4F4AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B72D5DA6112E45D100D4F4AA /* Bridge.jpeg */;
+	};
+	B72D5F1D112EEE9000D4F4AA /* GesturesViewController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = Gestures;
+		modificationTime = 288288407.008672;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B72D5F21112EEE9500D4F4AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B72D5D92112E433600D4F4AA /* Buildings.jpeg */;
+	};
+	B7485C941163981A00FEA8D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'UIPanGestureRecognizer' may not respond to '-translation'";
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 130;
+		rType = 1;
+	};
+	B7485C9F116398E500FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GesturesViewController.h */;
+		name = "GesturesViewController.h: 7";
+		rLen = 0;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	B7485CA0116398E500FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 140";
+		rLen = 0;
+		rLoc = 4837;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 5761;
+	};
+	B7485CA1116398E500FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 140";
+		rLen = 0;
+		rLoc = 4837;
+		rType = 0;
+		vrLen = 1765;
+		vrLoc = 1386;
+	};
+	B7485CA2116398E500FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 131";
+		rLen = 0;
+		rLoc = 4468;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 3968;
+	};
+}

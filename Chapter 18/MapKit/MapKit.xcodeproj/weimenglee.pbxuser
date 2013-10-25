@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MapKit */ = {
+		activeExec = 0;
+		executables = (
+			B72D65661134D74F00D4F4AA /* MapKit */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MapKitViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 397}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MapKitViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 1066}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{902, 889}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B72D65661134D74F00D4F4AA /* MapKit */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MapKit */;
+		codeSenseManager = B72D65701134D75000D4F4AA /* Code sense */;
+		executables = (
+			B72D65661134D74F00D4F4AA /* MapKit */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					674,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291740460;
+			PBXWorkspaceStateSaveDate = 291740460;
+		};
+		perUserProjectItems = {
+			B72D65861134E8A400D4F4AA /* PBXTextBookmark */ = B72D65861134E8A400D4F4AA /* PBXTextBookmark */;
+			B7485D2111639B8400FEA8D8 /* PBXTextBookmark */ = B7485D2111639B8400FEA8D8 /* PBXTextBookmark */;
+			B7485D2211639B8400FEA8D8 /* PBXTextBookmark */ = B7485D2211639B8400FEA8D8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B72D656F1134D75000D4F4AA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B72D65661134D74F00D4F4AA /* MapKit */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MapKit;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B72D656F1134D75000D4F4AA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B72D65701134D75000D4F4AA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B72D65861134E8A400D4F4AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MapKitViewController.h */;
+		name = "MapKitViewController.h: 13";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	B7485D2111639B8400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MapKitViewController.m */;
+		name = "MapKitViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 902;
+	};
+	B7485D2211639B8400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MapKitViewController.h */;
+		name = "MapKitViewController.h: 13";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+}

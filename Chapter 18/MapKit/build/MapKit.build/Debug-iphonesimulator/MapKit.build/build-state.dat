@@ -1,0 +1,288 @@
+TMapKit
+v7
+r0
+t291740492.648445
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist" MapKit-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/MapKit/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/MapKit/MapKitViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/MapKit/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o "/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o "/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM" "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit"
+cTouch "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B7D19F9000000000000017D
+t1266489849
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B7D1A0B000000000015E840
+t1266489867
+s1435712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.h
+c000000004B849FCE00000000000001D1
+t1266982862
+s465
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m
+c000000004B849FCE0000000000000295
+t1266982862
+s661
+i"MapKitAppDelegate.h"
+i"MapKitViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.h
+c000000004B84B0EE00000000000001ED
+t1266987246
+s493
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m
+c000000004BB363F900000000000008FE
+t1270047737
+s2302
+i"MapKitViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/MainWindow.xib
+c000000004B849FCF0000000000004CFF
+t1266982863
+s19711
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/MapKitViewController.xib
+c000000004B84A0C2000000000000539D
+t1266983106
+s21405
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/MapKit_Prefix.pch
+c000000004B849FCF00000000000000B5
+t1266982863
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app
+t1270047692
+s238
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM
+t1270047692
+s102
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist
+t1266983136
+s794
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MainWindow.nib
+t1266983137
+s1115
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+t1270047692
+s20844
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKitViewController.nib
+t1266983137
+s1872
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/PkgInfo
+t1266983136
+s8
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKit.LinkFileList
+c000000004B84A0E00000000000000191
+t1266983136
+s401
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o
+t1269008077
+s42356
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o
+t1270047692
+s41528
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o
+t1269008077
+s5952
+
+N/Users/weimenglee/Desktop/iPad book/MapKit/main.m
+c000000004B849FCF0000000000000160
+t1266982863
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-dvemhvqynnvdvzeffxnmljkjqdzx/MapKit_Prefix.pch.gch
+t1266983138
+s13756272
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch.gch
+t1269008077
+s13805456
+
+NMapKit-Info.plist
+c000000004B849FCF00000000000004D6
+t1266982863
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291740492#291740492#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o "/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290700877.616224
+e290700877.814489
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m290700877#290700877#0(0"0(0#0#70"/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m4300907800#1937"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitAppDelegate.o"0#
+
+CCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o "/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291740492.423875
+e291740492.591566
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o
+x/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController mapView:regionWillChangeAnimated:]':
+o/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:49: warning: local declaration of 'mapView' hides instance variable
+o/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:50: warning: format not a string literal and no format arguments
+o/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:51: warning: format not a string literal and no format arguments
+lSLF07#2@81"Compile /Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m291740492#291740492#0(568"/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController mapView:regionWillChangeAnimated:]':/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:49: warning: local declaration of 'mapView' hides instance variable/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:50: warning: format not a string literal and no format arguments/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:51: warning: format not a string literal and no format arguments3(22@54"Local declaration of 'mapView' hides instance variable291740492#148#142#0(6@73"/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m291740492#49#0#49#0#0"0(22@51"Format not a string literal and no format arguments291740492#290#139#0(6@73"/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m291740492#50#0#50#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments291740492#429#139#0(6@73"/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m291740492#51#0#51#0#51"format not a string literal and no format arguments0(0#0#73"/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m4300907800#1943"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m" -o "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKitViewController.o"0#
+
+CCompileC build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/MapKit/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290700877.611927
+e290700877.693308
+r1
+xCompileC
+xbuild/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/MapKit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/weimenglee/Desktop/iPad book/MapKit/main.m290700877#290700877#0(0"0(0#0#49"/Users/weimenglee/Desktop/iPad book/MapKit/main.m4300907800#1903"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/MapKit/main.m" -o "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/MapKit/MainWindow.xib"
+s288675936.712540
+e288675937.039508
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/MapKit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288675936#288675937#0(0"0(0#0#57"/Users/weimenglee/Desktop/iPad book/MapKit/MainWindow.xib4300907768#497"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/MapKit/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/MapKit/MapKitViewController.xib"
+s288675936.753596
+e288675937.298297
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/MapKit/MapKitViewController.xib
+lSLF07#2@35"CompileXIB MapKitViewController.xib288675936#288675937#0(0"0(0#0#67"/Users/weimenglee/Desktop/iPad book/MapKit/MapKitViewController.xib4300907768#517"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKitViewController.nib" "/Users/weimenglee/Desktop/iPad book/MapKit/MapKitViewController.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM" "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit"
+s291740492.631574
+e291740492.645903
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/MapKit.app.dSYM build/Debug-iphonesimulator/MapKit.app/MapKit291740492#291740492#0(0"0(0#0#88"/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit4300907800#398"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit" -o "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit" normal i386
+s291740492.591670
+e291740492.631478
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit
+xnormal
+xi386
+lSLF07#2@93"Link /Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit291740492#291740492#0(0"0(0#0#0"4300907800#905"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/Objects-normal/i386/MapKit.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/MapKit"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist" MapKit-Info.plist
+s288675936.687237
+e288675936.712450
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist
+xMapKit-Info.plist
+lSLF07#2@25"Process MapKit-Info.plist288675936#288675936#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/MapKit/MapKit-Info.plist4300907768#494"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapKit-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-dvemhvqynnvdvzeffxnmljkjqdzx/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288675937.298424
+e288675938.463714
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-dvemhvqynnvdvzeffxnmljkjqdzx/MapKit_Prefix.pch.gch
+xMapKit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MapKit_Prefix.pch288675937#288675938#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/MapKit/MapKit_Prefix.pch4300907768#1790"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/MapKit/MapKit_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-dvemhvqynnvdvzeffxnmljkjqdzx/MapKit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch.gch MapKit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290700876.662608
+e290700877.611821
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch.gch
+xMapKit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MapKit_Prefix.pch290700876#290700877#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/MapKit/MapKit_Prefix.pch4300907800#1790"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/MapKit-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MapKit/build/MapKit.build/Debug-iphonesimulator/MapKit.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/MapKit/MapKit_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapKit_Prefix-ffiydglojykjnccxlydlayzmhvun/MapKit_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app"
+s291740492.645996
+e291740492.648415
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app
+lSLF07#2@87"Touch /Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app291740492#291740492#0(0"0(0#0#0"4300907800#289"    cd "/Users/weimenglee/Desktop/iPad book/MapKit"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/MapKit/build/Debug-iphonesimulator/MapKit.app"0#
+

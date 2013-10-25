@@ -1,0 +1,275 @@
+TMultiTouch
+v7
+r0
+t288329143.552233
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/Info.plist" MultiTouch-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/MultiTouch/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouchViewController.xib"
+cCpResource build/Debug-iphonesimulator/MultiTouch.app/apple.jpeg apple.jpeg
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch.gch MultiTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/MultiTouch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchAppDelegate.o "/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchViewController.o "/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app.dSYM" "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch"
+cTouch "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B7365000000000000000110
+t1265853696
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B6BA5E8000000000026F020
+t1265346024
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B6BA6030000000000288B20
+t1265346051
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B6BA5F60000000000001355
+t1265346038
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B6BC0FA000000000000098F
+t1265352954
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B6BC203000000000211A810
+t1265353219
+s34711568
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.h
+c000000004B7F556000000000000001E9
+t1266636128
+s489
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m
+c000000004B7F556000000000000002A9
+t1266636128
+s681
+i"MultiTouchAppDelegate.h"
+i"MultiTouchViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.h
+c000000004B7F556000000000000000EF
+t1266636128
+s239
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m
+c000000004B7F55600000000000000554
+t1266636128
+s1364
+i"MultiTouchViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/MainWindow.xib
+c000000004B7F55600000000000004D27
+t1266636128
+s19751
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouchViewController.xib
+c000000004B7F562C0000000000004583
+t1266636332
+s17795
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouch_Prefix.pch
+c000000004B7F556000000000000000BD
+t1266636128
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/apple.jpeg
+c000000004A9337580000000000000810
+t1251161944
+s2064
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app
+t1266636343
+s272
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app.dSYM
+t1266636343
+s102
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/Info.plist
+t1266636334
+s810
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MainWindow.nib
+t1266636336
+s1123
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch
+t1266636343
+s19752
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouchViewController.nib
+t1266636336
+s1069
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/PkgInfo
+t1266636334
+s8
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/apple.jpeg
+t1266636336
+s2064
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouch.LinkFileList
+c000000004B7F562E00000000000001BD
+t1266636334
+s445
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchAppDelegate.o
+t1266636342
+s41844
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchViewController.o
+t1266636342
+s33900
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/main.o
+t1266636342
+s5960
+
+N/Users/weimenglee/Desktop/iPad book/MultiTouch/main.m
+c000000004B7F55600000000000000164
+t1266636128
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch.gch
+t1266636342
+s13756272
+
+NMultiTouch-Info.plist
+c000000004B7F556000000000000004D6
+t1266636128
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288329134#288329134#0(0"0(0#1#0"4300907768#0"0#
+
+CCompileC build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchAppDelegate.o "/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288329142.622858
+e288329142.724144
+r1
+xCompileC
+xbuild/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m288329142#288329142#0(0"0(0#0#78"/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m4300907768#2069"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchAppDelegate.o"0#
+
+CCompileC build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchViewController.o "/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288329142.696996
+e288329142.775711
+r1
+xCompileC
+xbuild/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchViewController.o
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m288329142#288329142#0(0"0(0#0#81"/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m4300907768#2075"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/MultiTouch/Classes/MultiTouchViewController.m" -o "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouchViewController.o"0#
+
+CCompileC build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/MultiTouch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288329142.614177
+e288329142.696884
+r1
+xCompileC
+xbuild/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/weimenglee/Desktop/iPad book/MultiTouch/main.m288329142#288329142#0(0"0(0#0#53"/Users/weimenglee/Desktop/iPad book/MultiTouch/main.m4300907768#2027"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/MultiTouch/main.m" -o "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/MultiTouch/MainWindow.xib"
+s288329134.737212
+e288329136.729650
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288329134#288329136#0(0"0(0#0#61"/Users/weimenglee/Desktop/iPad book/MultiTouch/MainWindow.xib4300907768#513"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/MultiTouch/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouchViewController.xib"
+s288329134.737889
+e288329136.870937
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouchViewController.xib
+lSLF07#2@39"CompileXIB MultiTouchViewController.xib288329134#288329136#0(0"0(0#0#75"/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouchViewController.xib4300907768#541"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouchViewController.nib" "/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouchViewController.xib"0#
+
+CCpResource build/Debug-iphonesimulator/MultiTouch.app/apple.jpeg apple.jpeg
+s288329136.729835
+e288329136.849773
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultiTouch.app/apple.jpeg
+xapple.jpeg
+lSLF07#2@15"Copy apple.jpeg288329136#288329136#0(0"0(0#0#57"/Users/weimenglee/Desktop/iPad book/MultiTouch/apple.jpeg4300907768#487"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/MultiTouch/apple.jpeg" "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app.dSYM" "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch"
+s288329143.327297
+e288329143.527899
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MultiTouch.app.dSYM build/Debug-iphonesimulator/MultiTouch.app/MultiTouch288329143#288329143#0(0"0(0#0#100"/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch4300907768#422"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch" -o "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch" normal i386
+s288329142.775809
+e288329143.327068
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch
+xnormal
+xi386
+lSLF07#2@105"Link /Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch288329142#288329143#0(0"0(0#0#0"4300907768#927"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/Objects-normal/i386/MultiTouch.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/MultiTouch"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/Info.plist" MultiTouch-Info.plist
+s288329134.699567
+e288329134.737138
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/Info.plist
+xMultiTouch-Info.plist
+lSLF07#2@29"Process MultiTouch-Info.plist288329134#288329134#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouch-Info.plist4300907768#518"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultiTouch-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch.gch MultiTouch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288329136.871056
+e288329142.614035
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch.gch
+xMultiTouch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MultiTouch_Prefix.pch288329136#288329142#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouch_Prefix.pch4300907768#1906"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/MultiTouch-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/MultiTouch/build/MultiTouch.build/Debug-iphonesimulator/MultiTouch.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/MultiTouch/MultiTouch_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTouch_Prefix-djnhgvjzvpfwbnghklthnhogjccg/MultiTouch_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app"
+s288329143.527991
+e288329143.552196
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app
+lSLF07#2@95"Touch /Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app288329143#288329143#0(0"0(0#0#0"4300907768#301"    cd "/Users/weimenglee/Desktop/iPad book/MultiTouch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/MultiTouch/build/Debug-iphonesimulator/MultiTouch.app"0#
+

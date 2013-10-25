@@ -1,0 +1,4 @@
+/Users/weimenglee/Desktop/iPad book/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m: In function '-[ApplePushNotificationAppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]':
+/Users/weimenglee/Desktop/iPad book/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m:30: warning: format not a string literal and no format arguments
+/Users/weimenglee/Desktop/iPad book/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m: In function '-[ApplePushNotificationAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:]':
+/Users/weimenglee/Desktop/iPad book/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m:35: warning: format not a string literal and no format arguments

@@ -1,0 +1,4 @@
+/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m: In function '-[MapKitViewController mapView:regionWillChangeAnimated:]':
+/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:49: warning: local declaration of 'mapView' hides instance variable
+/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:50: warning: format not a string literal and no format arguments
+/Users/weimenglee/Desktop/iPad book/MapKit/Classes/MapKitViewController.m:51: warning: format not a string literal and no format arguments

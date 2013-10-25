@@ -1,0 +1,216 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* KeyboardInputsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* KeyboardInputs */ = {
+		activeExec = 0;
+		executables = (
+			B7B4FDB61142AD3600968BDE /* KeyboardInputs */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* KeyboardInputsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 418}}";
+			sepNavSelRange = "{386, 0}";
+			sepNavVisRange = "{0, 414}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* KeyboardInputsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 884}}";
+			sepNavSelRange = "{421, 0}";
+			sepNavVisRange = "{857, 695}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B7B4FDB61142AD3600968BDE /* KeyboardInputs */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* KeyboardInputs */;
+		breakpoints = (
+			B7B4FDE71142B13600968BDE /* KeyboardInputsViewController.m:15 */,
+		);
+		codeSenseManager = B7B4FDC71142AD3C00968BDE /* Code sense */;
+		executables = (
+			B7B4FDB61142AD3600968BDE /* KeyboardInputs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					545,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291739932;
+			PBXWorkspaceStateSaveDate = 291739932;
+		};
+		perUserProjectItems = {
+			B7485CC31163993A00FEA8D8 /* PBXTextBookmark */ = B7485CC31163993A00FEA8D8 /* PBXTextBookmark */;
+			B7485CC41163993A00FEA8D8 /* PBXTextBookmark */ = B7485CC41163993A00FEA8D8 /* PBXTextBookmark */;
+			B7485CC51163993A00FEA8D8 /* PBXTextBookmark */ = B7485CC51163993A00FEA8D8 /* PBXTextBookmark */;
+			B7485CD11163994600FEA8D8 /* PBXTextBookmark */ = B7485CD11163994600FEA8D8 /* PBXTextBookmark */;
+			B790E7681157191700E95AF4 /* PBXTextBookmark */ = B790E7681157191700E95AF4 /* PBXTextBookmark */;
+			B790E7691157191700E95AF4 /* PBXTextBookmark */ = B790E7691157191700E95AF4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B7B4FDC61142AD3C00968BDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 530}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* KeyboardInputs_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 530}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	B7485CC31163993A00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KeyboardInputsAppDelegate.h */;
+		name = "KeyboardInputsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	B7485CC41163993A00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* KeyboardInputsViewController.h */;
+		name = "KeyboardInputsViewController.h: 18";
+		rLen = 0;
+		rLoc = 386;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	B7485CC51163993A00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* KeyboardInputsViewController.m */;
+		name = "KeyboardInputsViewController.m: 67";
+		rLen = 0;
+		rLoc = 1547;
+		rType = 0;
+		vrLen = 946;
+		vrLoc = 606;
+	};
+	B7485CD11163994600FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* KeyboardInputsViewController.m */;
+		name = "KeyboardInputsViewController.m: 23";
+		rLen = 0;
+		rLoc = 421;
+		rType = 0;
+		vrLen = 695;
+		vrLoc = 857;
+	};
+	B790E7681157191700E95AF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* KeyboardInputs_Prefix.pch */;
+		name = "KeyboardInputs_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	B790E7691157191700E95AF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	B7B4FDB61142AD3600968BDE /* KeyboardInputs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KeyboardInputs;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B7B4FDC61142AD3C00968BDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B7B4FDC71142AD3C00968BDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B7B4FDE71142B13600968BDE /* KeyboardInputsViewController.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* KeyboardInputsViewController.m */;
+		functionName = "-doneEditing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		location = KeyboardInputs;
+		modificationTime = 289583427.154941;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+}

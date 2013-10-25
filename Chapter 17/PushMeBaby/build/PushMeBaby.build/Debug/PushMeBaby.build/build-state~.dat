@@ -1,0 +1,338 @@
+TPushMeBaby
+v7
+r0
+t280636191.035286
+cCheck dependencies
+cProcessInfoPlistFile /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/weimenglee/Downloads/PushMeBaby/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bhetvcbhupwcodcttcymqlbfpxep/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/main.o /Users/weimenglee/Downloads/PushMeBaby/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o /Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ioSock.o /Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/MacOS/PushMeBaby normal i386
+cTouch /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Headers/MacErrors.h
+c0000000048649BE60000000000029AD4
+t1214553062
+s170708
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Headers/MacTypes.h
+c0000000048649BE60000000000007652
+t1214553062
+s30290
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecureTransport.h
+c00000000490261C600000000000079BA
+t1224892870
+s31162
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/errno.h
+c0000000047BA993000000000000003EB
+t1203411248
+s1003
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/fcntl.h
+c0000000047BA993000000000000003EA
+t1203411248
+s1002
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/netinet/in.h
+c0000000047E883C30000000000005346
+t1206420419
+s21318
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/strings.h
+c0000000047BA99300000000000000DA4
+t1203411248
+s3492
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/socket.h
+c0000000047E883D1000000000000559B
+t1206420433
+s21915
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/types.h
+c0000000047E883D2000000000000290F
+t1206420434
+s10511
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/time.h
+c0000000047BA9932000000000000178E
+t1203411250
+s6030
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/unistd.h
+c0000000047BA993200000000000053FF
+t1203411250
+s21503
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Security.framework/Security
+c000000004A4D521F0000000000A0ECD0
+t1246581279
+s10546384
+
+N/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.h
+c0000000049DB757100000000000001DF
+t1239119217
+s479
+i<Cocoa/Cocoa.h>
+i"ioSock.h"
+
+N/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m
+c0000000049DB7AAD0000000000001468
+t1239120557
+s5224
+i"ApplicationDelegate.h"
+
+N/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c
+c000000003DC6F5950000000000002CF0
+t1036449173
+s11504
+i"ioSock.h"
+i<errno.h>
+i<stdio.h>
+i<unistd.h>
+i<sys/types.h>
+i<netinet/in.h>
+i<sys/socket.h>
+i<netdb.h>
+i<arpa/inet.h>
+i<fcntl.h>
+i<CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>
+i<time.h>
+i<strings.h>
+
+N/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.h
+c000000003DC6F5840000000000001337
+t1036449156
+s4919
+i<CoreServices/../Frameworks/CarbonCore.framework/Headers/MacTypes.h>
+i<Security/SecureTransport.h>
+i<sys/types.h>
+
+N/Users/weimenglee/Downloads/PushMeBaby/English.lproj/InfoPlist.strings
+c0000000049DB7699000000000000010A
+t1239119513
+s266
+
+N/Users/weimenglee/Downloads/PushMeBaby/English.lproj/MainMenu.xib
+c0000000049DB76580000000000018601
+t1239119448
+s99841
+
+N/Users/weimenglee/Downloads/PushMeBaby/PushMeBaby_Prefix.pch
+c0000000049DB6DCA0000000000000097
+t1239117258
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app
+t1258943391
+s102
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Info.plist
+t1258943366
+s937
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/MacOS/PushMeBaby
+t1258943391
+s27636
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/PkgInfo
+t1258943366
+s8
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1258943368
+s266
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj/MainMenu.nib
+t1258943368
+s22373
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o
+t1258943389
+s30076
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/PushMeBaby.LinkFileList
+c000000004B09F3860000000000000161
+t1258943366
+s353
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ioSock.o
+t1258943389
+s12284
+
+N/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/main.o
+t1258943389
+s4864
+
+N/Users/weimenglee/Downloads/PushMeBaby/main.m
+c0000000049DB6DCA0000000000000105
+t1239117258
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bhetvcbhupwcodcttcymqlbfpxep/PushMeBaby_Prefix.pch.gch
+t1258943369
+s2142576
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch.gch
+t1258943388
+s54084016
+
+NInfo.plist
+c0000000049DB770600000000000003F6
+t1239119622
+s1014
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280636166#280636166#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o /Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s280636188.408902
+e280636189.704170
+r1
+xCompileC
+xbuild/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o
+x/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':
+o/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m:196: warning: unused variable 'result'
+lSLF07#2@76"Compile /Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m280636188#280636189#0(222"/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m:196: warning: unused variable 'result'1(22@24"Unused variable 'result'280636189#114#108#0(6@68"/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m260813357#196#0#196#0#19"unused variable '*'0(0#0#68"/Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m4300885448#1540"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-generated-files.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-own-target-headers.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-all-target-headers.hmap -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-project-headers.hmap -F/Users/weimenglee/Downloads/PushMeBaby/build/Debug -I/Users/weimenglee/Downloads/PushMeBaby/build/Debug/include -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources/i386 -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch -c /Users/weimenglee/Downloads/PushMeBaby/Classes/ApplicationDelegate.m -o /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ApplicationDelegate.o0#
+
+CCompileC build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ioSock.o /Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c normal i386 c com.apple.compilers.gcc.4_2
+s280636189.596205
+e280636189.968225
+r1
+xCompileC
+xbuild/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ioSock.o
+x/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c: In function 'AcceptClientConnection':
+o/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c:294: warning: pointer targets in passing argument 3 of 'accept' differ in signedness
+lSLF07#2@63"Compile /Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c280636189#280636189#0(236"/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c: In function 'AcceptClientConnection':/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c:294: warning: pointer targets in passing argument 3 of 'accept' differ in signedness1(22@70"Pointer targets in passing argument 3 of 'accept' differ in signedness280636189#95#141#0(6@55"/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c58141973#294#0#294#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#55"/Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c4300885448#1504"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-generated-files.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-own-target-headers.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-all-target-headers.hmap -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-project-headers.hmap -F/Users/weimenglee/Downloads/PushMeBaby/build/Debug -I/Users/weimenglee/Downloads/PushMeBaby/build/Debug/include -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources/i386 -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bhetvcbhupwcodcttcymqlbfpxep/PushMeBaby_Prefix.pch -c /Users/weimenglee/Downloads/PushMeBaby/Classes/ioSock.c -o /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/ioSock.o0#
+
+CCompileC build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/main.o /Users/weimenglee/Downloads/PushMeBaby/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s280636188.407985
+e280636189.596072
+r1
+xCompileC
+xbuild/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Downloads/PushMeBaby/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/weimenglee/Downloads/PushMeBaby/main.m280636188#280636189#0(0"0(0#0#45"/Users/weimenglee/Downloads/PushMeBaby/main.m4300885448#1502"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-generated-files.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-own-target-headers.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-all-target-headers.hmap -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-project-headers.hmap -F/Users/weimenglee/Downloads/PushMeBaby/build/Debug -I/Users/weimenglee/Downloads/PushMeBaby/build/Debug/include -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources/i386 -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch -c /Users/weimenglee/Downloads/PushMeBaby/main.m -o /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/weimenglee/Downloads/PushMeBaby/English.lproj/MainMenu.xib
+s280636166.583029
+e280636169.046834
+r1
+xCompileXIB
+x/Users/weimenglee/Downloads/PushMeBaby/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib280636166#280636169#0(0"0(0#0#65"/Users/weimenglee/Downloads/PushMeBaby/English.lproj/MainMenu.xib4300885448#330"    cd /Users/weimenglee/Downloads/PushMeBaby    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj/MainMenu.nib /Users/weimenglee/Downloads/PushMeBaby/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s280636166.566731
+e280636168.053504
+r1
+xCopyStringsFile
+x/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings280636166#280636168#0(0"0(0#0#70"/Users/weimenglee/Downloads/PushMeBaby/English.lproj/InfoPlist.strings4300885448#369"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Resources/English.lproj0#
+
+CLd /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/MacOS/PushMeBaby normal i386
+s280636189.968388
+e280636191.032375
+r1
+xLd
+x/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/MacOS/PushMeBaby
+xnormal
+xi386
+lSLF07#2@96"Link /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/MacOS/PushMeBaby280636189#280636191#0(0"0(0#0#0"4300885448#573"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/weimenglee/Downloads/PushMeBaby/build/Debug -F/Users/weimenglee/Downloads/PushMeBaby/build/Debug -filelist /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/Objects-normal/i386/PushMeBaby.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Security -o /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/MacOS/PushMeBaby0#
+
+CProcessInfoPlistFile /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Info.plist Info.plist
+s280636166.554511
+e280636166.566628
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist280636166#280636166#0(0"0(0#0#49"/Users/weimenglee/Downloads/PushMeBaby/Info.plist4300885448#308"    cd /Users/weimenglee/Downloads/PushMeBaby    builtin-infoPlistUtility Info.plist -genpkginfo /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bhetvcbhupwcodcttcymqlbfpxep/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s280636169.049042
+e280636169.302156
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bhetvcbhupwcodcttcymqlbfpxep/PushMeBaby_Prefix.pch.gch
+xPushMeBaby_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PushMeBaby_Prefix.pch280636169#280636169#0(0"0(0#0#60"/Users/weimenglee/Downloads/PushMeBaby/PushMeBaby_Prefix.pch4300885448#1397"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-generated-files.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-own-target-headers.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-all-target-headers.hmap -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-project-headers.hmap -F/Users/weimenglee/Downloads/PushMeBaby/build/Debug -I/Users/weimenglee/Downloads/PushMeBaby/build/Debug/include -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources/i386 -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources -c /Users/weimenglee/Downloads/PushMeBaby/PushMeBaby_Prefix.pch -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-bhetvcbhupwcodcttcymqlbfpxep/PushMeBaby_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch.gch PushMeBaby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s280636169.046997
+e280636188.407796
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch.gch
+xPushMeBaby_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PushMeBaby_Prefix.pch280636169#280636188#0(0"0(0#0#60"/Users/weimenglee/Downloads/PushMeBaby/PushMeBaby_Prefix.pch4300885448#1407"    cd /Users/weimenglee/Downloads/PushMeBaby    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-generated-files.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-own-target-headers.hmap -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-all-target-headers.hmap -iquote /Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/PushMeBaby-project-headers.hmap -F/Users/weimenglee/Downloads/PushMeBaby/build/Debug -I/Users/weimenglee/Downloads/PushMeBaby/build/Debug/include -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources/i386 -I/Users/weimenglee/Downloads/PushMeBaby/build/PushMeBaby.build/Debug/PushMeBaby.build/DerivedSources -c /Users/weimenglee/Downloads/PushMeBaby/PushMeBaby_Prefix.pch -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushMeBaby_Prefix-fmpwbluygbdratelzoxazkzmpzio/PushMeBaby_Prefix.pch.gch0#
+
+CTouch /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app
+s280636191.032467
+e280636191.035257
+r1
+xTouch
+x/Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app
+lSLF07#2@71"Touch /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app280636191#280636191#0(0"0(0#0#0"4300885448#134"    cd /Users/weimenglee/Downloads/PushMeBaby    /usr/bin/touch -c /Users/weimenglee/Downloads/PushMeBaby/build/Debug/PushMeBaby.app0#
+

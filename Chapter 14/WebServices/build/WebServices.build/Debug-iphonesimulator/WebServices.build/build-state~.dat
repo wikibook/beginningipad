@@ -1,0 +1,260 @@
+TWebServices
+v7
+r0
+t289752274.141020
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/Info.plist" WebServices-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/WebServices/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/WebServices/WebServicesViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch.gch WebServices_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/WebServices/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesViewController.o "/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app.dSYM" "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices"
+cTouch "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.h
+c000000004B950C7100000000000001EE
+t1268059249
+s494
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m
+c000000004B950C7100000000000002AD
+t1268059249
+s685
+i"WebServicesAppDelegate.h"
+i"WebServicesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.h
+c000000004B950D040000000000000255
+t1268059396
+s597
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m
+c000000004B950D4E0000000000000C98
+t1268059470
+s3224
+i"WebServicesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/MainWindow.xib
+c000000004B950C710000000000004D31
+t1268059249
+s19761
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/WebServicesViewController.xib
+c000000004B950D2300000000000060C8
+t1268059427
+s24776
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/WebServices_Prefix.pch
+c000000004B950C7100000000000000BF
+t1268059249
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app
+t1268059474
+s238
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app.dSYM
+t1268059474
+s102
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/Info.plist
+t1268059472
+s814
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/MainWindow.nib
+t1268059473
+s1125
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/PkgInfo
+t1268059472
+s8
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices
+t1268059474
+s21664
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServicesViewController.nib
+t1268059473
+s2237
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServices.LinkFileList
+c000000004B950D5000000000000001C8
+t1268059472
+s456
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesAppDelegate.o
+t1268059473
+s43052
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesViewController.o
+t1268059474
+s44644
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/main.o
+t1268059473
+s5960
+
+N/Users/weimenglee/Desktop/iPad book/WebServices/main.m
+c000000004B950C710000000000000164
+t1268059249
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch.gch
+t1268059473
+s13805456
+
+NWebServices-Info.plist
+c000000004B950C7100000000000004D6
+t1268059249
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289752272#289752272#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289752273.926937
+e289752274.020500
+r1
+xCompileC
+xbuild/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m289752273#289752274#0(0"0(0#0#80"/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m4300907800#2102"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesAppDelegate.o"0#
+
+CCompileC build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesViewController.o "/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289752273.977451
+e289752274.042657
+r1
+xCompileC
+xbuild/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesViewController.o
+x/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m: In function '-[WebServicesViewController buttonClicked:]':
+o/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m:32: warning: format not a string literal and no format arguments
+o/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m: In function '-[WebServicesViewController connectionDidFinishLoading:]':
+o/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m:80: warning: format not a string literal and no format arguments
+lSLF07#2@91"Compile /Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m289752273#289752274#0(599"/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m: In function '-[WebServicesViewController buttonClicked:]':/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m:32: warning: format not a string literal and no format arguments/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m: In function '-[WebServicesViewController connectionDidFinishLoading:]':/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m:80: warning: format not a string literal and no format arguments2(22@51"Format not a string literal and no format arguments289752274#144#149#0(6@83"/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m289752270#32#0#32#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments289752274#450#149#0(6@83"/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m289752270#80#0#80#0#51"format not a string literal and no format arguments0(0#0#83"/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m4300907800#2108"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/WebServices/Classes/WebServicesViewController.m" -o "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServicesViewController.o"0#
+
+CCompileC build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/WebServices/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289752273.925741
+e289752273.977342
+r1
+xCompileC
+xbuild/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/WebServices/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/weimenglee/Desktop/iPad book/WebServices/main.m289752273#289752273#0(0"0(0#0#54"/Users/weimenglee/Desktop/iPad book/WebServices/main.m4300907800#2058"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/WebServices/main.m" -o "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/WebServices/MainWindow.xib"
+s289752272.779381
+e289752273.093346
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/WebServices/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289752272#289752273#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/WebServices/MainWindow.xib4300907800#517"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/WebServices/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/WebServices/WebServicesViewController.xib"
+s289752272.818328
+e289752273.178999
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/WebServices/WebServicesViewController.xib
+lSLF07#2@40"CompileXIB WebServicesViewController.xib289752272#289752273#0(0"0(0#0#77"/Users/weimenglee/Desktop/iPad book/WebServices/WebServicesViewController.xib4300907800#547"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServicesViewController.nib" "/Users/weimenglee/Desktop/iPad book/WebServices/WebServicesViewController.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app.dSYM" "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices"
+s289752274.123151
+e289752274.138162
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/WebServices.app.dSYM build/Debug-iphonesimulator/WebServices.app/WebServices289752274#289752274#0(0"0(0#0#103"/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices4300907800#428"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices" -o "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices" normal i386
+s289752274.042754
+e289752274.123046
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices
+xnormal
+xi386
+lSLF07#2@108"Link /Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices289752274#289752274#0(0"0(0#0#0"4300907800#937"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/Objects-normal/i386/WebServices.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/WebServices"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/Info.plist" WebServices-Info.plist
+s289752272.776104
+e289752272.779310
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/Info.plist
+xWebServices-Info.plist
+lSLF07#2@30"Process WebServices-Info.plist289752272#289752272#0(0"0(0#0#70"/Users/weimenglee/Desktop/iPad book/WebServices/WebServices-Info.plist4300907800#524"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebServices-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch.gch WebServices_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289752273.179117
+e289752273.925617
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch.gch
+xWebServices_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile WebServices_Prefix.pch289752273#289752273#0(0"0(0#0#70"/Users/weimenglee/Desktop/iPad book/WebServices/WebServices_Prefix.pch4300907800#1935"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/WebServices-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/WebServices/build/WebServices.build/Debug-iphonesimulator/WebServices.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/WebServices/WebServices_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebServices_Prefix-fihcsggnddjfrxaupkvnrsbvuhmy/WebServices_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app"
+s289752274.138348
+e289752274.140992
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app
+lSLF07#2@97"Touch /Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app289752274#289752274#0(0"0(0#0#0"4300907800#304"    cd "/Users/weimenglee/Desktop/iPad book/WebServices"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/WebServices/build/Debug-iphonesimulator/WebServices.app"0#
+

@@ -1,0 +1,322 @@
+TOutletsAndActions
+v7
+r0
+t290312168.653083
+cCheck dependencies
+cCpResource build/Debug-iphoneos/OutletsAndActions.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/Info.plist" OutletsAndActions-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActionsViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch.gch OutletsAndActions_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/main.o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsViewController.o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions" normal armv7
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app.dSYM" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions"
+cProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision"
+cTouch "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent"
+cCodeSign "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004B7F9C7F0000000000000110
+t1266654335
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004B7C99D000000000000000DD
+t1266457040
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B7C99D000000000000001E5
+t1266457040
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0F6D00000000003B4B70
+t1266487149
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D0FBE000000000036A580
+t1266487230
+s3581312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D0F9B0000000000001355
+t1266487195
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2A02000000000000098F
+t1266559490
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2AAA00000000026E4750
+t1266559658
+s40781648
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.h
+c000000004B9D974C0000000000000213
+t1268619084
+s531
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m
+c000000004B9D974C00000000000002CC
+t1268619084
+s716
+i"OutletsAndActionsAppDelegate.h"
+i"OutletsAndActionsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.h
+c000000004B9D97CC00000000000001E5
+t1268619212
+s485
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m
+c000000004B9D97E30000000000000786
+t1268619235
+s1926
+i"OutletsAndActionsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/MainWindow.xib
+c000000004B9D974C0000000000004D6D
+t1268619084
+s19821
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActionsViewController.xib
+c000000004B9D98610000000000005B30
+t1268619361
+s23344
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActions_Prefix.pch
+c000000004B9D974C00000000000000CB
+t1268619084
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app
+t1268619368
+s374
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app.dSYM
+t1268619367
+s102
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/Info.plist
+t1268619362
+s906
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/MainWindow.nib
+t1268619365
+s1137
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions
+t1268619367
+s17560
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActionsViewController.nib
+t1268619365
+s2003
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/PkgInfo
+t1268619362
+s8
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/ResourceRules.plist
+t1268619362
+s485
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision
+t1268619367
+s8546
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActions.LinkFileList
+c000000004B9D986200000000000001F8
+t1268619362
+s504
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsAppDelegate.o
+t1268619367
+s44780
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsViewController.o
+t1268619367
+s43516
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/main.o
+t1268619367
+s6452
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent
+t1268619368
+s330
+
+N/Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m
+c000000004B9D974C000000000000016B
+t1268619084
+s363
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision
+c000000004B9C4AF00000000000002162
+t1268534000
+s8546
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch.gch
+t1268619367
+s9421460
+
+NOutletsAndActions-Info.plist
+c000000004B9D974C00000000000004D6
+t1268619084
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290312162#290312162#0(0"0(0#1#0"4300907800#0"0#
+
+CCodeSign "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"
+s290312168.003812
+e290312168.652991
+r1
+xCodeSign
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app
+lSLF07#2@51"CodeSign build/Debug-iphoneos/OutletsAndActions.app290312168#290312168#0(0"0(0#0#96"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app4300907800#785"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Wei-Meng Lee (398N22LL9K)" "--resource-rules=/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/ResourceRules.plist" --entitlements "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"0#
+
+CCompileC build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290312167.115496
+e290312167.259136
+r1
+xCompileC
+xbuild/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m290312167#290312167#0(0"0(0#0#92"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m4300907800#2167"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsAppDelegate.o"0#
+
+CCompileC build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsViewController.o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290312167.258033
+e290312167.362572
+r1
+xCompileC
+xbuild/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsViewController.o
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m290312167#290312167#0(0"0(0#0#95"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m4300907800#2173"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/Classes/OutletsAndActionsViewController.m" -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActionsViewController.o"0#
+
+CCompileC build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/main.o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290312167.113291
+e290312167.257929
+r1
+xCompileC
+xbuild/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/main.o
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m290312167#290312167#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m4300907800#2111"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/main.m" -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/MainWindow.xib"
+s290312162.925854
+e290312165.186782
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290312162#290312165#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/MainWindow.xib4300907800#527"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActionsViewController.xib"
+s290312162.926828
+e290312165.204969
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActionsViewController.xib
+lSLF07#2@46"CompileXIB OutletsAndActionsViewController.xib290312162#290312165#0(0"0(0#0#89"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActionsViewController.xib4300907800#569"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActionsViewController.nib" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActionsViewController.xib"0#
+
+CCpResource build/Debug-iphoneos/OutletsAndActions.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s290312162.826286
+e290312162.925738
+r1
+xCpResource
+xbuild/Debug-iphoneos/OutletsAndActions.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist290312162#290312162#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist4300907800#524"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app.dSYM" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions"
+s290312167.863790
+e290312167.924409
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions
+lSLF07#2@125"GenerateDSYMFile build/Debug-iphoneos/OutletsAndActions.app.dSYM build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions290312167#290312167#0(0"0(0#0#114"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions4300907800#443"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions" -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions" normal armv7
+s290312167.362667
+e290312167.863682
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions
+xnormal
+xarmv7
+lSLF07#2@119"Link /Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions290312167#290312167#0(0"0(0#0#0"4300907800#957"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos" "-F/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos" -filelist "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/Objects-normal/armv7/OutletsAndActions.LinkFileList" -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/OutletsAndActions"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/Info.plist" OutletsAndActions-Info.plist
+s290312162.867549
+e290312162.887618
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/Info.plist
+xOutletsAndActions-Info.plist
+lSLF07#2@36"Process OutletsAndActions-Info.plist290312162#290312162#0(0"0(0#0#82"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActions-Info.plist4300907800#670"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OutletsAndActions-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/ResourceRules.plist" -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch.gch OutletsAndActions_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290312165.205086
+e290312167.112889
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch.gch
+xOutletsAndActions_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile OutletsAndActions_Prefix.pch290312165#290312167#0(0"0(0#0#82"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActions_Prefix.pch4300907800#1982"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/OutletsAndActions_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OutletsAndActions_Prefix-dzkrczcavscanxfmsaqwobonsvvs/OutletsAndActions_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision"
+s290312167.924516
+e290312167.957735
+r1
+xProcessProductPackaging
+x/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision290312167#290312167#0(0"0(0#0#121"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision4300907800#472"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent"
+s290312167.981578
+e290312168.003737
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent
+lSLF07#2@205"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent290312167#290312168#0(0"0(0#0#146"/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent4300907800#496"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/OutletsAndActions.build/Debug-iphoneos/OutletsAndActions.build/OutletsAndActions.xcent"0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"
+s290312167.957819
+e290312167.981471
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app
+lSLF07#2@102"Touch /Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app290312167#290312167#0(0"0(0#0#0"4300907800#308"    cd "/Users/weimenglee/Desktop/iPad book/OutletsAndActions"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/OutletsAndActions/build/Debug-iphoneos/OutletsAndActions.app"0#
+

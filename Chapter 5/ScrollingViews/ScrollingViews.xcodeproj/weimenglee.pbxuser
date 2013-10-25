@@ -1,0 +1,258 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ScrollingViews */ = {
+		activeExec = 0;
+		executables = (
+			B7B4FDF9114395A000968BDE /* ScrollingViews */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScrollingViewsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1035, 814}}";
+			sepNavSelRange = "{154, 332}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1035, 2223}}";
+			sepNavSelRange = "{4424, 0}";
+			sepNavVisRange = "{3002, 1519}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B7B4FDF9114395A000968BDE /* ScrollingViews */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollingViews */;
+		breakpoints = (
+			B7B4FE621143A3AA00968BDE /* ScrollingViewsViewController.m:50 */,
+			B7B402D2114D293100968BDE /* ScrollingViewsViewController.m:29 */,
+			B7B402D4114D293300968BDE /* ScrollingViewsViewController.m:57 */,
+			B7B402D6114D293400968BDE /* ScrollingViewsViewController.m:64 */,
+			B7B402D8114D293600968BDE /* ScrollingViewsViewController.m:76 */,
+			B7B402DA114D293800968BDE /* ScrollingViewsViewController.m:80 */,
+		);
+		codeSenseManager = B7B4FE09114395A600968BDE /* Code sense */;
+		executables = (
+			B7B4FDF9114395A000968BDE /* ScrollingViews */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					857,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291740890;
+			PBXWorkspaceStateSaveDate = 291740890;
+		};
+		perUserProjectItems = {
+			B7485DDC11639CF100FEA8D8 /* PBXTextBookmark */ = B7485DDC11639CF100FEA8D8 /* PBXTextBookmark */;
+			B790E78D1157352200E95AF4 /* PBXTextBookmark */ = B790E78D1157352200E95AF4 /* PBXTextBookmark */;
+			B7B402EF114D2A7C00968BDE /* PBXTextBookmark */ = B7B402EF114D2A7C00968BDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = B7B4FE08114395A600968BDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485DDC11639CF100FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		name = "ScrollingViewsViewController.m: 163";
+		rLen = 0;
+		rLoc = 4424;
+		rType = 0;
+		vrLen = 1519;
+		vrLoc = 3002;
+	};
+	B790E78D1157352200E95AF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		name = "ScrollingViewsViewController.m: 27";
+		rLen = 0;
+		rLoc = 529;
+		rType = 0;
+		vrLen = 1866;
+		vrLoc = 0;
+	};
+	B7B402D2114D293100968BDE /* ScrollingViewsViewController.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		functionName = "-moveScrollView:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = ScrollingViews;
+		modificationTime = 290269917.02247;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B7B402D4114D293300968BDE /* ScrollingViewsViewController.m:57 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		functionName = "-textFieldDidEndEditing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 57;
+		location = ScrollingViews;
+		modificationTime = 290269887.067469;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B7B402D6114D293400968BDE /* ScrollingViewsViewController.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		functionName = "-keyboardWillShow:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 64;
+		location = ScrollingViews;
+		modificationTime = 290269897.485422;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B7B402D8114D293600968BDE /* ScrollingViewsViewController.m:76 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		functionName = "-keyboardWillHide:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 76;
+		location = ScrollingViews;
+		modificationTime = 290269887.067993;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B7B402DA114D293800968BDE /* ScrollingViewsViewController.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = ScrollingViews;
+		modificationTime = 290269887.904422;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B7B402EF114D2A7C00968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScrollingViewsViewController.h */;
+		name = "ScrollingViewsViewController.h: 9";
+		rLen = 332;
+		rLoc = 154;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	B7B4FDF9114395A000968BDE /* ScrollingViews */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollingViews;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B7B4FE08114395A600968BDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B7B4FE09114395A600968BDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B7B4FE621143A3AA00968BDE /* ScrollingViewsViewController.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScrollingViewsViewController.m */;
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = ScrollingViews;
+		modificationTime = 290269893.907583;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+}

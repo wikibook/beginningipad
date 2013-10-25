@@ -1,0 +1,181 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Shake */ = {
+		activeExec = 0;
+		executables = (
+			B7B4FD3E11429B4000968BDE /* Shake */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ShakeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 511}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{0, 449}";
+			sepNavWindowFrame = "{{15, 465}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ShakeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1326}}";
+			sepNavSelRange = "{2356, 0}";
+			sepNavVisRange = "{1500, 856}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B7B4FD3E11429B4000968BDE /* Shake */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Shake */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Shake */,
+		);
+		codeSenseManager = B7B4FD4811429B4300968BDE /* Code sense */;
+		executables = (
+			B7B4FD3E11429B4000968BDE /* Shake */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					366,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291740918;
+			PBXWorkspaceStateSaveDate = 291740918;
+		};
+		perUserProjectItems = {
+			B7485DF011639D1100FEA8D8 /* PBXTextBookmark */ = B7485DF011639D1100FEA8D8 /* PBXTextBookmark */;
+			B7B4FD5311429E3700968BDE /* PBXTextBookmark */ = B7B4FD5311429E3700968BDE /* PBXTextBookmark */;
+			B7B4FD671142A0FE00968BDE /* PBXTextBookmark */ = B7B4FD671142A0FE00968BDE /* PBXTextBookmark */;
+			B7B4FD681142A0FE00968BDE /* PBXTextBookmark */ = B7B4FD681142A0FE00968BDE /* PBXTextBookmark */;
+			B7B4FD731142A88D00968BDE /* PBXTextBookmark */ = B7B4FD731142A88D00968BDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = B7B4FD4711429B4300968BDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485DF011639D1100FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShakeViewController.m */;
+		name = "ShakeViewController.m: 102";
+		rLen = 0;
+		rLoc = 2356;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 1500;
+	};
+	B7B4FD3E11429B4000968BDE /* Shake */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Shake;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B7B4FD4711429B4300968BDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B7B4FD4811429B4300968BDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B7B4FD4A11429DE500968BDE /* ShakeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	B7B4FD4B11429DE500968BDE /* ShakeView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 511}}";
+			sepNavSelRange = "{126, 487}";
+			sepNavVisRange = "{0, 613}";
+		};
+	};
+	B7B4FD5311429E3700968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7B4FD4A11429DE500968BDE /* ShakeView.h */;
+		name = "ShakeView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	B7B4FD671142A0FE00968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B7B4FD4B11429DE500968BDE /* ShakeView.m */;
+		name = "ShakeView.m: 9";
+		rLen = 487;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	B7B4FD681142A0FE00968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ShakeViewController.h */;
+		name = "ShakeViewController.h: 15";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	B7B4FD731142A88D00968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShakeViewController.m */;
+		name = "ShakeViewController.m: 43";
+		rLen = 0;
+		rLoc = 973;
+		rType = 0;
+		vrLen = 1058;
+		vrLoc = 42;
+	};
+}

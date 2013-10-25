@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DatabasesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 701}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 482}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DatabasesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 701}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 675}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Databases */ = {
+		activeExec = 0;
+		executables = (
+			B7B4FEA111454FC200968BDE /* Databases */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DatabasesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 701}}";
+			sepNavSelRange = "{263, 0}";
+			sepNavVisRange = "{0, 295}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DatabasesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 1781}}";
+			sepNavSelRange = "{3958, 0}";
+			sepNavVisRange = "{2585, 1373}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B7B4FEA111454FC200968BDE /* Databases */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Databases */;
+		codeSenseManager = B7B4FEAB11454FC300968BDE /* Code sense */;
+		executables = (
+			B7B4FEA111454FC200968BDE /* Databases */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					548,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291739064;
+			PBXWorkspaceStateSaveDate = 291739064;
+		};
+		perUserProjectItems = {
+			B7485C3C116395CF00FEA8D8 /* PBXTextBookmark */ = B7485C3C116395CF00FEA8D8 /* PBXTextBookmark */;
+			B7485C3D116395CF00FEA8D8 /* PBXTextBookmark */ = B7485C3D116395CF00FEA8D8 /* PBXTextBookmark */;
+			B7485C3E116395CF00FEA8D8 /* PBXTextBookmark */ = B7485C3E116395CF00FEA8D8 /* PBXTextBookmark */;
+			B7485C4A116395D700FEA8D8 /* PBXTextBookmark */ = B7485C4A116395D700FEA8D8 /* PBXTextBookmark */;
+			B7B4FECE11492E5400968BDE /* PBXTextBookmark */ = B7B4FECE11492E5400968BDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = B7B4FEAA11454FC300968BDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485C3C116395CF00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DatabasesAppDelegate.h */;
+		name = "DatabasesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 0;
+	};
+	B7485C3D116395CF00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatabasesAppDelegate.m */;
+		name = "DatabasesAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 675;
+		vrLoc = 0;
+	};
+	B7485C3E116395CF00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DatabasesViewController.h */;
+		name = "DatabasesViewController.h: 16";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	B7485C4A116395D700FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DatabasesViewController.m */;
+		name = "DatabasesViewController.m: 137";
+		rLen = 0;
+		rLoc = 3958;
+		rType = 0;
+		vrLen = 1373;
+		vrLoc = 2585;
+	};
+	B7B4FEA111454FC200968BDE /* Databases */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Databases;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B7B4FEAA11454FC300968BDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B7B4FEAB11454FC300968BDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B7B4FECE11492E5400968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DatabasesViewController.m */;
+		name = "DatabasesViewController.m: 106";
+		rLen = 0;
+		rLoc = 3308;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 0;
+	};
+}

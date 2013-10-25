@@ -1,0 +1,449 @@
+TDynamicViews
+v7
+r0
+t304848860.464556
+cCheck dependencies
+cProcessInfoPlistFile "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist" DynamicViews-Info.plist
+cCompileXIB "/Users/eirene78/Downloads/Chapter 3/DynamicViews/MainWindow.xib"
+cCompileXIB "/Users/eirene78/Downloads/Chapter 3/DynamicViews/DynamicViewsViewController.xib"
+cProcessPCH /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch.gch DynamicViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews" normal i386
+cGenerateDSYMFile "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM" "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews"
+cTouch "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.h
+c000000004B9C83D500000000000001F5
+t1268548565
+s501
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m
+c000000004B9C83D500000000000002B3
+t1268548565
+s691
+i"DynamicViewsAppDelegate.h"
+i"DynamicViewsViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.h
+c000000004B9C83D500000000000000F5
+t1268548565
+s245
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m
+c000000004BB35E8D0000000000000D3E
+t1270046349
+s3390
+i"DynamicViewsViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/DynamicViewsViewController.xib
+c000000004B9C84BB00000000000048DD
+t1268548795
+s18653
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/DynamicViews_Prefix.pch
+c000000004B9C83D500000000000000C1
+t1268548565
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/MainWindow.xib
+c000000004B9C83D50000000000004D3B
+t1268548565
+s19771
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app
+t1283156060
+s238
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM
+t1283156060
+s102
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews
+t1283156060
+s22452
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViewsViewController.nib
+t1268548799
+s1320
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist
+t1268548649
+s818
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/MainWindow.nib
+t1268548650
+s1127
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/PkgInfo
+t1268548649
+s8
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViews.LinkFileList
+c000000004C7B685800000000000001D3
+t1283156056
+s467
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o
+t1283156059
+s43672
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o
+t1283156059
+s48552
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o
+t1283156059
+s6324
+
+N/Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m
+c000000004B9C83D50000000000000166
+t1268548565
+s358
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.h
+c000000004B9C83D500000000000001F5
+t1268548565
+s501
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.m
+c000000004B9C83D500000000000002B3
+t1268548565
+s691
+i"DynamicViewsAppDelegate.h"
+i"DynamicViewsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.h
+c000000004B9C83D500000000000000F5
+t1268548565
+s245
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m
+c000000004BB35E8D0000000000000D3E
+t1270046349
+s3390
+i"DynamicViewsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViewsViewController.xib
+c000000004B9C84BB00000000000048DD
+t1268548795
+s18653
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViews_Prefix.pch
+c000000004B9C83D500000000000000C1
+t1268548565
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/MainWindow.xib
+c000000004B9C83D50000000000004D3B
+t1268548565
+s19771
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app
+t1270046351
+s238
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM
+t1270046351
+s102
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews
+t1270046351
+s21220
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViewsViewController.nib
+t1268548799
+s1320
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist
+t1268548649
+s818
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/MainWindow.nib
+t1268548650
+s1127
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/PkgInfo
+t1268548649
+s8
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViews.LinkFileList
+c000000004B9C842900000000000001D3
+t1268548649
+s467
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o
+t1268548650
+s42192
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o
+t1270046351
+s47168
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o
+t1268548650
+s5964
+
+N/Users/weimenglee/Desktop/iPad book/DynamicViews/main.m
+c000000004B9C83D50000000000000166
+t1268548565
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch.gch
+t1283156058
+s13825936
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch.gch
+t1268548650
+s13805456
+
+NDynamicViews-Info.plist
+c000000004B9C83D500000000000004D6
+t1268548565
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304848856#304848856#0(0"0(0#1#0"8600478080#0"0#
+
+CCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304848859.138984
+e304848859.673785
+r1
+xCompileC
+xbuild/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m304848859#304848859#0(0"0(0#0#82"/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m8608647072#2179"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -include /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch -c "/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsAppDelegate.m" -o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o"0#
+
+CCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290241450.770159
+e290241450.881066
+r1
+xCompileC
+xbuild/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.m290241450#290241450#0(0"0(0#0#82"/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.m4300907800#2135"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsAppDelegate.o"0#
+
+CCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304848859.140520
+e304848859.673281
+r1
+xCompileC
+xbuild/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController printViews:]':
+o/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m:77: warning: format not a string literal and no format arguments
+o/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController viewDidLoad]':
+o/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m:88: warning: format not a string literal and no format arguments
+lSLF07#2@93"Compile /Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m304848859#304848859#0(590"/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController printViews:]':/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m:77: warning: format not a string literal and no format arguments/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController viewDidLoad]':/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m:88: warning: format not a string literal and no format arguments2(22@51"Format not a string literal and no format arguments304848859#144#151#0(6@85"/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m291739149#77#0#77#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments304848859#439#151#0(6@85"/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m291739149#88#0#88#0#51"format not a string literal and no format arguments0(0#0#85"/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m8607219136#2185"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -include /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch -c "/Users/eirene78/Downloads/Chapter 3/DynamicViews/Classes/DynamicViewsViewController.m" -o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o"0#
+
+CCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o "/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291739150.949939
+e291739151.139318
+r1
+xCompileC
+xbuild/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController printViews:]':
+o/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m:77: warning: format not a string literal and no format arguments
+o/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController viewDidLoad]':
+o/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m:88: warning: format not a string literal and no format arguments
+lSLF07#2@93"Compile /Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m291739150#291739151#0(590"/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController printViews:]':/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m:77: warning: format not a string literal and no format arguments/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m: In function '-[DynamicViewsViewController viewDidLoad]':/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m:88: warning: format not a string literal and no format arguments2(22@51"Format not a string literal and no format arguments291739151#144#151#0(6@85"/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m291739149#77#0#77#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments291739151#439#151#0(6@85"/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m291739149#88#0#88#0#51"format not a string literal and no format arguments0(0#0#85"/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m4300907800#2141"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/DynamicViews/Classes/DynamicViewsViewController.m" -o "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViewsViewController.o"0#
+
+CCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304848859.137163
+e304848859.614683
+r1
+xCompileC
+xbuild/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m304848859#304848859#0(0"0(0#0#55"/Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m8614291904#2133"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -include /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch -c "/Users/eirene78/Downloads/Chapter 3/DynamicViews/main.m" -o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/DynamicViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290241450.768888
+e290241450.840199
+r1
+xCompileC
+xbuild/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/weimenglee/Desktop/iPad book/DynamicViews/main.m290241450#290241450#0(0"0(0#0#55"/Users/weimenglee/Desktop/iPad book/DynamicViews/main.m4300907800#2089"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/DynamicViews/main.m" -o "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/DynamicViews/DynamicViewsViewController.xib"
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/DynamicViews/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViewsViewController.xib"
+s290241599.123334
+e290241599.429154
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViewsViewController.xib
+lSLF07#2@41"CompileXIB DynamicViewsViewController.xib290241599#290241599#0(0"0(0#0#79"/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViewsViewController.xib4300907800#553"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViewsViewController.nib" "/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViewsViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/DynamicViews/MainWindow.xib"
+s290241449.746197
+e290241450.148273
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290241449#290241450#0(0"0(0#0#63"/Users/weimenglee/Desktop/iPad book/DynamicViews/MainWindow.xib4300907800#521"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/DynamicViews/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM" "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews"
+s304848860.219324
+e304848860.424290
+r1
+xGenerateDSYMFile
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DynamicViews.app.dSYM build/Debug-iphonesimulator/DynamicViews.app/DynamicViews304848860#304848860#0(0"0(0#0#106"/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews8600381056#434"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews" -o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM" "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews"
+s291739151.158783
+e291739151.212200
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DynamicViews.app.dSYM build/Debug-iphonesimulator/DynamicViews.app/DynamicViews291739151#291739151#0(0"0(0#0#106"/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews4300907800#434"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews" -o "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app.dSYM"0#
+
+CLd "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews" normal i386
+s304848859.673945
+e304848860.219226
+r1
+xLd
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews
+xnormal
+xi386
+lSLF07#2@111"Link /Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews304848859#304848860#0(0"0(0#0#0"8606515232#985"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator" "-F/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator" -filelist "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViews.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews" normal i386
+s291739151.139408
+e291739151.158665
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews
+xnormal
+xi386
+lSLF07#2@111"Link /Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews291739151#291739151#0(0"0(0#0#0"4300907800#947"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/Objects-normal/i386/DynamicViews.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/DynamicViews"0#
+
+CProcessInfoPlistFile "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist" DynamicViews-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist" DynamicViews-Info.plist
+s290241449.742313
+e290241449.746117
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist
+xDynamicViews-Info.plist
+lSLF07#2@31"Process DynamicViews-Info.plist290241449#290241449#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViews-Info.plist4300907800#530"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DynamicViews-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app/Info.plist"0#
+
+CProcessPCH /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch.gch DynamicViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304848856.787454
+e304848859.136794
+r1
+xProcessPCH
+x/var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch.gch
+xDynamicViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DynamicViews_Prefix.pch304848856#304848859#0(0"0(0#0#72"/Users/eirene78/Downloads/Chapter 3/DynamicViews/DynamicViews_Prefix.pch8615462240#2008"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -c "/Users/eirene78/Downloads/Chapter 3/DynamicViews/DynamicViews_Prefix.pch" -o /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-dueudezqgiyqyifuzhxjlykardrr/DynamicViews_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch.gch DynamicViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290241450.148389
+e290241450.768749
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch.gch
+xDynamicViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DynamicViews_Prefix.pch290241450#290241450#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViews_Prefix.pch4300907800#1964"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DynamicViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/DynamicViews/build/DynamicViews.build/Debug-iphonesimulator/DynamicViews.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/DynamicViews/DynamicViews_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicViews_Prefix-btwydmwilprjowgacgpharvdwmff/DynamicViews_Prefix.pch.gch0#
+
+CTouch "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app"
+s304848860.424400
+e304848860.464510
+r1
+xTouch
+x/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app
+lSLF07#2@99"Touch /Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app304848860#304848860#0(0"0(0#0#0"8613586688#307"    cd "/Users/eirene78/Downloads/Chapter 3/DynamicViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/eirene78/Downloads/Chapter 3/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app"0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app"
+s291739151.212293
+e291739151.214917
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app
+lSLF07#2@99"Touch /Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app291739151#291739151#0(0"0(0#0#0"4300907800#307"    cd "/Users/weimenglee/Desktop/iPad book/DynamicViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/DynamicViews/build/Debug-iphonesimulator/DynamicViews.app"0#
+

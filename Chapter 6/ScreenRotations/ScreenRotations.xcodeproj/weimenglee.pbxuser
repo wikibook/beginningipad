@@ -1,0 +1,323 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ScreenRotationsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 429}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 606}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScreenRotations */ = {
+		activeExec = 0;
+		executables = (
+			B74CA0E2113A327500939B78 /* ScreenRotations */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScreenRotationsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1071, 607}}";
+			sepNavSelRange = "{356, 0}";
+			sepNavVisRange = "{0, 363}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1071, 1404}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{102, 1541}";
+			sepNavWindowFrame = "{{38, 444}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B74CA0E2113A327500939B78 /* ScreenRotations */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScreenRotations */;
+		breakpoints = (
+			B74CA0FD113A397E00939B78 /* ScreenRotationsViewController.m:43 */,
+			B74CA0FF113A397F00939B78 /* ScreenRotationsViewController.m:60 */,
+			B74CA101113A398000939B78 /* ScreenRotationsViewController.m:65 */,
+			B74CA168113A430400939B78 /* ScreenRotationsViewController.m:78 */,
+		);
+		codeSenseManager = B74CA0EC113A327E00939B78 /* Code sense */;
+		executables = (
+			B74CA0E2113A327500939B78 /* ScreenRotations */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					781,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					893,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					853,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291740816;
+			PBXWorkspaceStateSaveDate = 291740816;
+		};
+		perUserProjectItems = {
+			B7485DC211639CD400FEA8D8 /* PBXTextBookmark */ = B7485DC211639CD400FEA8D8 /* PBXTextBookmark */;
+			B74CA109113A39C300939B78 /* PlistBookmark */ = B74CA109113A39C300939B78 /* PlistBookmark */;
+			B74CA13D113A3D2900939B78 /* PBXTextBookmark */ = B74CA13D113A3D2900939B78 /* PBXTextBookmark */;
+			B74CA145113A3E9100939B78 /* PBXTextBookmark */ = B74CA145113A3E9100939B78 /* PBXTextBookmark */;
+			B74CA15C113A414400939B78 /* PBXTextBookmark */ = B74CA15C113A414400939B78 /* PBXTextBookmark */;
+			B74CA15D113A414400939B78 /* PBXTextBookmark */ = B74CA15D113A414400939B78 /* PBXTextBookmark */;
+			B74CA1D5113BF3A600939B78 /* PBXTextBookmark */ = B74CA1D5113BF3A600939B78 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B74CA0EB113A327E00939B78 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485DC211639CD400FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */;
+		name = "ScreenRotationsViewController.m: 36";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1541;
+		vrLoc = 102;
+	};
+	B74CA0E2113A327500939B78 /* ScreenRotations */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScreenRotations;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	B74CA0EB113A327E00939B78 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B74CA0EC113A327E00939B78 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B74CA0FD113A397E00939B78 /* ScreenRotationsViewController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = ScreenRotations;
+		modificationTime = 289038997.459531;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B74CA0FF113A397F00939B78 /* ScreenRotationsViewController.m:60 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 60;
+		location = ScreenRotations;
+		modificationTime = 289038997.459651;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B74CA101113A398000939B78 /* ScreenRotationsViewController.m:65 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 65;
+		location = ScreenRotations;
+		modificationTime = 289038997.45973;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B74CA109113A39C300939B78 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ScreenRotations-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UISupportedInterfaceOrientations,
+		);
+		name = "/Users/weimenglee/Desktop/iPad book/ScreenRotations/ScreenRotations-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B74CA13D113A3D2900939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B74CA13E113A3D2900939B78 /* UIApplication.h */;
+		name = "UIApplication.h: 36";
+		rLen = 32;
+		rLoc = 1152;
+		rType = 0;
+		vrLen = 1580;
+		vrLoc = 493;
+	};
+	B74CA13E113A3D2900939B78 /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIApplication.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+	};
+	B74CA140113A3D2900939B78 /* UIDevice.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIDevice.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h;
+		sourceTree = "<absolute>";
+	};
+	B74CA145113A3E9100939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScreenRotationsAppDelegate.m */;
+		name = "ScreenRotationsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 0;
+	};
+	B74CA15C113A414400939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScreenRotationsViewController.h */;
+		name = "ScreenRotationsViewController.h: 18";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	B74CA15D113A414400939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B74CA140113A3D2900939B78 /* UIDevice.h */;
+		name = "UIDevice.h: 40";
+		rLen = 52;
+		rLoc = 1827;
+		rType = 0;
+		vrLen = 2099;
+		vrLoc = 0;
+	};
+	B74CA168113A430400939B78 /* ScreenRotationsViewController.m:78 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */;
+		functionName = "-shouldAutorotateToInterfaceOrientation:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 78;
+		location = ScreenRotations;
+		modificationTime = 289039000.685482;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B74CA1D5113BF3A600939B78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScreenRotationsViewController.m */;
+		name = "ScreenRotationsViewController.m: 74";
+		rLen = 32;
+		rLoc = 1980;
+		rType = 0;
+		vrLen = 1399;
+		vrLoc = 952;
+	};
+}

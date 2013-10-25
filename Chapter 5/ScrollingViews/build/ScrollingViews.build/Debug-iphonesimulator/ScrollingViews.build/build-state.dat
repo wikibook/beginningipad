@@ -1,0 +1,256 @@
+TScrollingViews
+v7
+r0
+t291740899.768220
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/Info.plist" ScrollingViews-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/ScrollingViews/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViewsViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch.gch ScrollingViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsViewController.o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app.dSYM" "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews"
+cTouch "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.h
+c000000004B935E200000000000000200
+t1267949088
+s512
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m
+c000000004B935E2000000000000002BC
+t1267949088
+s700
+i"ScrollingViewsAppDelegate.h"
+i"ScrollingViewsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.h
+c000000004B9CF25B00000000000001E7
+t1268576859
+s487
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m
+c000000004BB3656E00000000000011A9
+t1270048110
+s4521
+i"ScrollingViewsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/MainWindow.xib
+c000000004B935E200000000000004D4F
+t1267949088
+s19791
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViewsViewController.xib
+c000000004B9CF2A10000000000006160
+t1268576929
+s24928
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViews_Prefix.pch
+c000000004B935E2000000000000000C5
+t1267949088
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app
+t1270048099
+s238
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app.dSYM
+t1270048099
+s102
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/Info.plist
+t1267949684
+s826
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/MainWindow.nib
+t1267949687
+s1131
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/PkgInfo
+t1267949684
+s8
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews
+t1270048099
+s23064
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViewsViewController.nib
+t1268577020
+s2160
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViews.LinkFileList
+c000000004B93607400000000000001E9
+t1267949684
+s489
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsAppDelegate.o
+t1268577020
+s42356
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsViewController.o
+t1270048099
+s46712
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/main.o
+t1267949690
+s5968
+
+N/Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m
+c000000004B935E200000000000000167
+t1267949088
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch.gch
+t1267949690
+s13805456
+
+NScrollingViews-Info.plist
+c000000004B935E2000000000000004D6
+t1267949088
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291740899#291740899#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290269820.071220
+e290269820.149701
+r1
+xCompileC
+xbuild/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m290269820#290269820#0(0"0(0#0#86"/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m4300907800#2201"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsAppDelegate.o"0#
+
+CCompileC build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsViewController.o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291740899.156621
+e291740899.696947
+r1
+xCompileC
+xbuild/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsViewController.o
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m291740899#291740899#0(0"0(0#0#89"/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m4300907800#2207"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/ScrollingViews/Classes/ScrollingViewsViewController.m" -o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViewsViewController.o"0#
+
+CCompileC build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289642490.855992
+e289642490.914810
+r1
+xCompileC
+xbuild/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m289642490#289642490#0(0"0(0#0#57"/Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m4300907800#2151"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/ScrollingViews/main.m" -o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/ScrollingViews/MainWindow.xib"
+s289642484.126522
+e289642487.558022
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289642484#289642487#0(0"0(0#0#65"/Users/weimenglee/Desktop/iPad book/ScrollingViews/MainWindow.xib4300907800#529"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/ScrollingViews/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViewsViewController.xib"
+s290269819.718707
+e290269820.070912
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViewsViewController.xib
+lSLF07#2@43"CompileXIB ScrollingViewsViewController.xib290269819#290269820#0(0"0(0#0#83"/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViewsViewController.xib4300907800#565"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViewsViewController.nib" "/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViewsViewController.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app.dSYM" "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews"
+s291740899.739921
+e291740899.765752
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/ScrollingViews.app.dSYM build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews291740899#291740899#0(0"0(0#0#112"/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews4300907800#446"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews" -o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews" normal i386
+s291740899.697031
+e291740899.739819
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews
+xnormal
+xi386
+lSLF07#2@117"Link /Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews291740899#291740899#0(0"0(0#0#0"4300907800#967"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/Objects-normal/i386/ScrollingViews.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/ScrollingViews"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/Info.plist" ScrollingViews-Info.plist
+s289642484.111611
+e289642484.126437
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/Info.plist
+xScrollingViews-Info.plist
+lSLF07#2@33"Process ScrollingViews-Info.plist289642484#289642484#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViews-Info.plist4300907800#542"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ScrollingViews-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch.gch ScrollingViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289642487.661909
+e289642490.855783
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch.gch
+xScrollingViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ScrollingViews_Prefix.pch289642487#289642490#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViews_Prefix.pch4300907800#2022"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/ScrollingViews-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/ScrollingViews.build/Debug-iphonesimulator/ScrollingViews.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/ScrollingViews/ScrollingViews_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScrollingViews_Prefix-heqjecjdjtblheboosbyjaynxaon/ScrollingViews_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app"
+s291740899.765833
+e291740899.768193
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app
+lSLF07#2@103"Touch /Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app291740899#291740899#0(0"0(0#0#0"4300907800#313"    cd "/Users/weimenglee/Desktop/iPad book/ScrollingViews"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/ScrollingViews/build/Debug-iphonesimulator/ScrollingViews.app"0#
+

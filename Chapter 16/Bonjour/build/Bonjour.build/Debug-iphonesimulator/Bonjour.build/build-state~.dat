@@ -1,0 +1,281 @@
+TBonjour
+v7
+r0
+t290226115.876423
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Info.plist" Bonjour-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch.gch Bonjour_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Bonjour/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourViewController.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib
+c000000004B9C475000000000000056B3
+t1268533072
+s22195
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour_Prefix.pch
+c000000004B9C46CD00000000000000B7
+t1268532941
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.h
+c000000004B9C47A50000000000000221
+t1268533157
+s545
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m
+c000000004B9C47E900000000000004B7
+t1268533225
+s1207
+i"BonjourAppDelegate.h"
+i"BonjourViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.h
+c000000004B9C47FB0000000000000230
+t1268533243
+s560
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m
+c000000004B9C483C00000000000011DF
+t1268533308
+s4575
+i"BonjourViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib
+c000000004B9C46CD0000000000004D09
+t1268532941
+s19721
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/Bonjour.LinkFileList
+c000000004B9C4842000000000000019C
+t1268533314
+s412
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourAppDelegate.o
+t1268533315
+s45844
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourViewController.o
+t2
+s0
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/main.o
+t1268533315
+s5952
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app
+t2
+s0
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app.dSYM
+t2
+s0
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Bonjour
+t2
+s0
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/BonjourViewController.nib
+t1268533314
+s2131
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Info.plist
+t1268533314
+s798
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/MainWindow.nib
+t1268533314
+s1117
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/PkgInfo
+t1268533314
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/main.m
+c000000004B9C46CD0000000000000161
+t1268532941
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch.gch
+t1268533315
+s13805456
+
+NBonjour-Info.plist
+c000000004B9C46CD00000000000004D6
+t1268532941
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290226114#290226114#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290226115.737701
+e290226115.850654
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m290226115#290226115#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m4300907800#1970"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourAppDelegate.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourViewController.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290226115.822402
+e290226115.876245
+r0
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourViewController.o
+x/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController browseServices]':
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:45: error: object cannot be set - either readonly property or no setter found
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:46: error: accessing unknown 'browser' getter method
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:47: error: accessing unknown 'browser' getter method
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceBrowser:didFindService:moreComing:]':
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: 'BonjourViewController' may not respond to '-resolveIPAddress:'
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: (Messages without a matching method signature
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: will be assumed to return 'id' and accept
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: '...' as arguments.)
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceDidResolveAddress:]':
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:115: warning: implicit declaration of function 'inet_ntoa'
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:115: error: dereferencing pointer to incomplete type
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:116: error: dereferencing pointer to incomplete type
+o{standard input}:168:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:168:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:155:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:148:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+o{standard input}:148:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:122:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:122:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:111:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000002$pb"
+o{standard input}:111:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:100:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:100:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+lSLF07#2@83"Compile /Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226115#290226115#0(5063"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController browseServices]':/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:45: error: object cannot be set - either readonly property or no setter found/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:46: error: accessing unknown 'browser' getter method/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:47: error: accessing unknown 'browser' getter method/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceBrowser:didFindService:moreComing:]':/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: 'BonjourViewController' may not respond to '-resolveIPAddress:'/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: (Messages without a matching method signature/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: will be assumed to return 'id' and accept/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:82: warning: '...' as arguments.)/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceDidResolveAddress:]':/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:115: warning: implicit declaration of function 'inet_ntoa'/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:115: error: dereferencing pointer to incomplete type/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:116: error: dereferencing pointer to incomplete type{standard input}:168:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:168:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:155:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:155:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:148:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"{standard input}:148:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:130:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:122:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:122:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:111:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000002$pb"{standard input}:111:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:100:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:100:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_78(4@66"Object cannot be set - either readonly property or no setter found290226115#132#154#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#45#0#45#0#0"0(4@41"Accessing unknown 'browser' getter method290226115#286#129#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#46#0#46#0#0"0(4@41"Accessing unknown 'browser' getter method290226115#415#129#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#47#0#47#0#0"0(22@63"'BonjourViewController' may not respond to '-resolveIPAddress:'290226115#706#153#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#82#0#82#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)290226115#859#135#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#82#0#82#0#0"0(22@44"Implicit declaration of function 'inet_ntoa'290226115#1381#135#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#115#0#115#0#36"implicit declaration of function '*'0(4@40"Dereferencing pointer to incomplete type290226115#1516#129#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#115#0#115#0#0"0(4@40"Dereferencing pointer to incomplete type290226115#1645#129#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226108#116#0#116#0#0"0(0#0#75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m4300907800#1976"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/BonjourViewController.o"1#
+
+CCompileC build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Bonjour/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290226115.736472
+e290226115.822287
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Bonjour/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/weimenglee/Desktop/iPad book/Bonjour/main.m290226115#290226115#0(0"0(0#0#50"/Users/weimenglee/Desktop/iPad book/Bonjour/main.m4300907800#1934"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/main.m" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib"
+s290226114.513190
+e290226114.901484
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib
+lSLF07#2@36"CompileXIB BonjourViewController.xib290226114#290226114#0(0"0(0#0#69"/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib4300907800#523"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/BonjourViewController.nib" "/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib"
+s290226114.512556
+e290226114.807114
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290226114#290226114#0(0"0(0#0#58"/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib4300907800#501"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Bonjour"
+r0
+
+CLd "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Bonjour" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Info.plist" Bonjour-Info.plist
+s290226114.508820
+e290226114.512486
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Info.plist
+xBonjour-Info.plist
+lSLF07#2@26"Process Bonjour-Info.plist290226114#290226114#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour-Info.plist4300907800#500"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Bonjour-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch.gch Bonjour_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290226114.901607
+e290226115.736347
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch.gch
+xBonjour_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Bonjour_Prefix.pch290226114#290226115#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour_Prefix.pch4300907800#1819"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphonesimulator/Bonjour.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-gkurtkkcyideeacanskumkckfylm/Bonjour_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphonesimulator/Bonjour.app"
+r0
+

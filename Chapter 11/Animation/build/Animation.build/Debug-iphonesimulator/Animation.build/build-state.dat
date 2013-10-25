@@ -1,0 +1,297 @@
+TAnimation
+v7
+r0
+t291737371.985899
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Info.plist" Animation-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Animation/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Animation/AnimationViewController.xib"
+cCpResource build/Debug-iphonesimulator/Animation.app/tennisball.jpg tennisball.jpg
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch.gch Animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Animation/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationViewController.o "/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation"
+cTouch "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/Animation/AnimationViewController.xib
+c000000004BB3579400000000000058DC
+t1270044564
+s22748
+
+N/Users/weimenglee/Desktop/iPad book/Animation/Animation_Prefix.pch
+c000000004B7FF3C900000000000000BB
+t1266676681
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.h
+c000000004B7FF3C900000000000001E3
+t1266676681
+s483
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m
+c000000004B7FF3C900000000000002A4
+t1266676681
+s676
+i"AnimationAppDelegate.h"
+i"AnimationViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.h
+c000000004BB3577D0000000000000227
+t1270044541
+s551
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m
+c000000004BB357770000000000000BE4
+t1270044535
+s3044
+i"AnimationViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Animation/MainWindow.xib
+c000000004B7FF3C90000000000004D1D
+t1266676681
+s19741
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/Animation.LinkFileList
+c000000004B7FF65B00000000000001B2
+t1266677339
+s434
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationAppDelegate.o
+t1270044542
+s42748
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationViewController.o
+t1270044542
+s42044
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/main.o
+t1268315902
+s5956
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app
+t1270044571
+s272
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app.dSYM
+t1270044542
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation
+t1270044542
+s21292
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/AnimationViewController.nib
+t1270044571
+s1658
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Info.plist
+t1266677339
+s806
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/MainWindow.nib
+t1266677340
+s1121
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/PkgInfo
+t1266677339
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/tennisball.jpg
+t1266677340
+s2936
+
+N/Users/weimenglee/Desktop/iPad book/Animation/main.m
+c000000004B7FF3C90000000000000163
+t1266676681
+s355
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Animation/tennisball.jpg
+c0000000049E2053A0000000000000B78
+t1239549242
+s2936
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch.gch
+t1268315902
+s13805456
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-exfwcmwhtzvrenbcxlxamtenolwo/Animation_Prefix.pch.gch
+t1266677341
+s13756272
+
+NAnimation-Info.plist
+c000000004B7FF3C900000000000004D6
+t1266676681
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291737371#291737371#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291737342.476739
+e291737342.599779
+r1
+xCompileC
+xbuild/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m291737342#291737342#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m4300907800#2036"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationAppDelegate.o"0#
+
+CCompileC build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationViewController.o "/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291737342.477693
+e291737342.599977
+r1
+xCompileC
+xbuild/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationViewController.o
+x/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m: In function '-[AnimationViewController viewDidLoad]':
+o/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: 'UISlider' may not respond to '-setShowValue:'
+o/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: (Messages without a matching method signature
+o/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: will be assumed to return 'id' and accept
+o/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: '...' as arguments.)
+lSLF07#2@87"Compile /Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m291737342#291737342#0(663"/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m: In function '-[AnimationViewController viewDidLoad]':/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: 'UISlider' may not respond to '-setShowValue:'/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: (Messages without a matching method signature/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: will be assumed to return 'id' and accept/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m:67: warning: '...' as arguments.)2(22@46"'UISlider' may not respond to '-setShowValue:'291737342#135#140#0(6@79"/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m291737335#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)291737342#275#139#0(6@79"/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m291737335#67#0#67#0#0"0(0#0#79"/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m4300907800#2042"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Animation/Classes/AnimationViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/AnimationViewController.o"0#
+
+CCompileC build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Animation/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290008702.248628
+e290008702.329822
+r1
+xCompileC
+xbuild/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Animation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/weimenglee/Desktop/iPad book/Animation/main.m290008702#290008702#0(0"0(0#0#52"/Users/weimenglee/Desktop/iPad book/Animation/main.m4300907800#1996"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Animation/main.m" -o "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Animation/AnimationViewController.xib"
+s291737371.362267
+e291737371.982509
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Animation/AnimationViewController.xib
+lSLF07#2@38"CompileXIB AnimationViewController.xib291737371#291737371#0(0"0(0#0#73"/Users/weimenglee/Desktop/iPad book/Animation/AnimationViewController.xib4300907800#535"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/AnimationViewController.nib" "/Users/weimenglee/Desktop/iPad book/Animation/AnimationViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Animation/MainWindow.xib"
+s288370139.192089
+e288370140.410189
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Animation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288370139#288370140#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/Animation/MainWindow.xib4300907768#509"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Animation/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/Animation.app/tennisball.jpg tennisball.jpg
+s288370140.410280
+e288370140.443048
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Animation.app/tennisball.jpg
+xtennisball.jpg
+lSLF07#2@19"Copy tennisball.jpg288370140#288370140#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/Animation/tennisball.jpg4300907768#487"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/Animation/tennisball.jpg" "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation"
+s291737342.662375
+e291737342.762497
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Animation.app.dSYM build/Debug-iphonesimulator/Animation.app/Animation291737342#291737342#0(0"0(0#0#97"/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation4300907800#416"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation" -o "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation" normal i386
+s291737342.600064
+e291737342.662263
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation
+xnormal
+xi386
+lSLF07#2@102"Link /Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation291737342#291737342#0(0"0(0#0#0"4300907800#917"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Objects-normal/i386/Animation.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Animation"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Info.plist" Animation-Info.plist
+s288370139.188695
+e288370139.192017
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Info.plist
+xAnimation-Info.plist
+lSLF07#2@28"Process Animation-Info.plist288370139#288370139#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Animation/Animation-Info.plist4300907768#512"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Animation-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch.gch Animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290008701.309013
+e290008702.248515
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch.gch
+xAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Animation_Prefix.pch290008701#290008702#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Animation/Animation_Prefix.pch4300907800#1877"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Animation/Animation_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-egpllgzintnyqcfmzwoxjeeyuivq/Animation_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-exfwcmwhtzvrenbcxlxamtenolwo/Animation_Prefix.pch.gch Animation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288370140.559911
+e288370141.855158
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-exfwcmwhtzvrenbcxlxamtenolwo/Animation_Prefix.pch.gch
+xAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Animation_Prefix.pch288370140#288370141#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Animation/Animation_Prefix.pch4300907768#1877"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/Animation-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Animation/build/Animation.build/Debug-iphonesimulator/Animation.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Animation/Animation_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation_Prefix-exfwcmwhtzvrenbcxlxamtenolwo/Animation_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app"
+s291737371.983410
+e291737371.985871
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app
+lSLF07#2@93"Touch /Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app291737371#291737371#0(0"0(0#0#0"4300907800#298"    cd "/Users/weimenglee/Desktop/iPad book/Animation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Animation/build/Debug-iphonesimulator/Animation.app"0#
+

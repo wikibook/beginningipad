@@ -1,0 +1,383 @@
+TUsingViews2
+v7
+r0
+t291741683.257618
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist" UsingViews2-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/UsingViews2/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2ViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch.gch UsingViews2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/UsingViews2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o "/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o "/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM" "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2"
+cTouch "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/Classes/UsingViews2AppDelegate.h
+c000000004B9C82B100000000000001EF
+t1268548273
+s495
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/Classes/UsingViews2AppDelegate.m
+c000000004B9C82B100000000000002AE
+t1268548273
+s686
+i"UsingViews2AppDelegate.h"
+i"UsingViews2ViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/Classes/UsingViews2ViewController.h
+c000000004B9C83130000000000000146
+t1268548371
+s326
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/Classes/UsingViews2ViewController.m
+c000000004BB368700000000000000612
+t1270048880
+s1554
+i"UsingViews2ViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/MainWindow.xib
+c000000004B9C82B10000000000004D31
+t1268548273
+s19761
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/UsingViews2ViewController.xib
+c000000004B9C833100000000000046C8
+t1268548401
+s18120
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/UsingViews2_Prefix.pch
+c000000004B9C82B100000000000000BF
+t1268548273
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app
+t1283153151
+s238
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM
+t1270048883
+s102
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist
+t1268548413
+s814
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/MainWindow.nib
+t1268548413
+s1125
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/PkgInfo
+t1268548413
+s8
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2
+t1270048883
+s20384
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2ViewController.nib
+t1268548413
+s956
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2.LinkFileList
+c000000004B9C833D00000000000001C8
+t1268548413
+s456
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o
+t1268548414
+s42332
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o
+t1270048883
+s36824
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o
+t1268548414
+s5960
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews2/main.m
+c000000004B9C82B20000000000000165
+t1268548274
+s357
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.h
+c000000004B9C82B100000000000001EF
+t1268548273
+s495
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m
+c000000004B9C82B100000000000002AE
+t1268548273
+s686
+i"UsingViews2AppDelegate.h"
+i"UsingViews2ViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.h
+c000000004B9C83130000000000000146
+t1268548371
+s326
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m
+c000000004BB368700000000000000612
+t1270048880
+s1554
+i"UsingViews2ViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/MainWindow.xib
+c000000004B9C82B10000000000004D31
+t1268548273
+s19761
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2ViewController.xib
+c000000004B9C833100000000000046C8
+t1268548401
+s18120
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2_Prefix.pch
+c000000004B9C82B100000000000000BF
+t1268548273
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app
+t1270048883
+s238
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM
+t1270048883
+s102
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist
+t1268548413
+s814
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/MainWindow.nib
+t1268548413
+s1125
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/PkgInfo
+t1268548413
+s8
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2
+t1270048883
+s20384
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2ViewController.nib
+t1268548413
+s956
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2.LinkFileList
+c000000004B9C833D00000000000001C8
+t1268548413
+s456
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o
+t1268548414
+s42332
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o
+t1270048883
+s36824
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o
+t1268548414
+s5960
+
+N/Users/weimenglee/Desktop/iPad book/UsingViews2/main.m
+c000000004B9C82B20000000000000165
+t1268548274
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-fceubrdlcbgmccerrjxxxdoutldd/UsingViews2_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch.gch
+t1268548414
+s13805456
+
+NUsingViews2-Info.plist
+c000000004B9C82B100000000000004D6
+t1268548273
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291741683#291741683#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o "/Users/eirene78/Downloads/Chapter 3/UsingViews2/Classes/UsingViews2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o "/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290241214.742551
+e290241214.816541
+r1
+xCompileC
+xbuild/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m290241214#290241214#0(0"0(0#0#80"/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m4300907800#2102"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2AppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2AppDelegate.o"0#
+
+CCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o "/Users/eirene78/Downloads/Chapter 3/UsingViews2/Classes/UsingViews2ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o "/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291741683.094873
+e291741683.215278
+r1
+xCompileC
+xbuild/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m291741683#291741683#0(0"0(0#0#83"/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m4300907800#2108"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/UsingViews2/Classes/UsingViews2ViewController.m" -o "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2ViewController.o"0#
+
+CCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o "/Users/eirene78/Downloads/Chapter 3/UsingViews2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/UsingViews2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290241214.741199
+e290241214.791003
+r1
+xCompileC
+xbuild/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/weimenglee/Desktop/iPad book/UsingViews2/main.m290241214#290241214#0(0"0(0#0#54"/Users/weimenglee/Desktop/iPad book/UsingViews2/main.m4300907800#2058"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/UsingViews2/main.m" -o "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews2/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews2/UsingViews2ViewController.xib"
+r0
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/UsingViews2/MainWindow.xib"
+s290241213.659177
+e290241213.996232
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290241213#290241213#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/UsingViews2/MainWindow.xib4300907800#517"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/UsingViews2/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2ViewController.xib"
+s290241213.659867
+e290241213.990199
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2ViewController.xib
+lSLF07#2@40"CompileXIB UsingViews2ViewController.xib290241213#290241213#0(0"0(0#0#77"/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2ViewController.xib4300907800#547"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2ViewController.nib" "/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2ViewController.xib"0#
+
+CGenerateDSYMFile "/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM" "/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2"
+r0
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM" "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2"
+s291741683.236560
+e291741683.254114
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/UsingViews2.app.dSYM build/Debug-iphonesimulator/UsingViews2.app/UsingViews2291741683#291741683#0(0"0(0#0#103"/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews24300907800#428"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2" -o "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app.dSYM"0#
+
+CLd "/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2" normal i386
+r0
+
+CLd "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2" normal i386
+s291741683.215372
+e291741683.236439
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2
+xnormal
+xi386
+lSLF07#2@108"Link /Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2291741683#291741683#0(0"0(0#0#0"4300907800#937"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/Objects-normal/i386/UsingViews2.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/UsingViews2"0#
+
+CProcessInfoPlistFile "/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist" UsingViews2-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist" UsingViews2-Info.plist
+s290241213.652609
+e290241213.659095
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist
+xUsingViews2-Info.plist
+lSLF07#2@30"Process UsingViews2-Info.plist290241213#290241213#0(0"0(0#0#70"/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2-Info.plist4300907800#524"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UsingViews2-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app/Info.plist"0#
+
+CProcessPCH /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-fceubrdlcbgmccerrjxxxdoutldd/UsingViews2_Prefix.pch.gch UsingViews2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch.gch UsingViews2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290241213.996338
+e290241214.741056
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch.gch
+xUsingViews2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile UsingViews2_Prefix.pch290241213#290241214#0(0"0(0#0#70"/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2_Prefix.pch4300907800#1935"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/UsingViews2-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/UsingViews2/build/UsingViews2.build/Debug-iphonesimulator/UsingViews2.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/UsingViews2/UsingViews2_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews2_Prefix-gzcqojxqgekygcbkqsfyrgjbbfjc/UsingViews2_Prefix.pch.gch0#
+
+CTouch "/Users/eirene78/Downloads/Chapter 3/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app"
+r0
+
+CTouch "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app"
+s291741683.254209
+e291741683.257587
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app
+lSLF07#2@97"Touch /Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app291741683#291741683#0(0"0(0#0#0"4300907800#304"    cd "/Users/weimenglee/Desktop/iPad book/UsingViews2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/UsingViews2/build/Debug-iphonesimulator/UsingViews2.app"0#
+

@@ -1,0 +1,269 @@
+TDatabases
+v7
+r0
+t291739087.387364
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Info.plist" Databases-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Databases/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Databases/DatabasesViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch.gch Databases_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Databases/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesViewController.o "/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases"
+cTouch "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/sqlite3.h
+c000000004B7CCF5C000000000004187F
+t1266470748
+s268415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/lib/libsqlite3.dylib
+c000000004B7CCF9700000000000E1D70
+t1266470807
+s925040
+
+N/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.h
+c000000004B95184100000000000001E2
+t1268062273
+s482
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m
+c000000004B95184100000000000002A3
+t1268062273
+s675
+i"DatabasesAppDelegate.h"
+i"DatabasesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.h
+c000000004B9518C80000000000000127
+t1268062408
+s295
+i<UIKit/UIKit.h>
+i"sqlite3.h"
+
+N/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m
+c000000004BB35E4E0000000000000F76
+t1270046286
+s3958
+i"DatabasesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Databases/DatabasesViewController.xib
+c000000004B9518410000000000003EE9
+t1268062273
+s16105
+
+N/Users/weimenglee/Desktop/iPad book/Databases/Databases_Prefix.pch
+c000000004B95184100000000000000BB
+t1268062273
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Databases/MainWindow.xib
+c000000004B9518410000000000004D1D
+t1268062273
+s19741
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/Databases.LinkFileList
+c000000004B95193900000000000001B2
+t1268062521
+s434
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesAppDelegate.o
+t1268062522
+s42204
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesViewController.o
+t1270046287
+s43212
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/main.o
+t1268062522
+s5956
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app
+t1270046287
+s238
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app.dSYM
+t1270046287
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases
+t1270046287
+s25660
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/DatabasesViewController.nib
+t1268062522
+s769
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Info.plist
+t1268062521
+s806
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/MainWindow.nib
+t1268062522
+s1121
+
+N/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/PkgInfo
+t1268062521
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Databases/main.m
+c000000004B9518420000000000000162
+t1268062274
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch.gch
+t1268062522
+s13805456
+
+NDatabases-Info.plist
+c000000004B95184100000000000004D6
+t1268062273
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291739087#291739087#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289755322.804043
+e289755322.882366
+r1
+xCompileC
+xbuild/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m289755322#289755322#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m4300907800#2036"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesAppDelegate.o"0#
+
+CCompileC build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesViewController.o "/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291739087.183995
+e291739087.342072
+r1
+xCompileC
+xbuild/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesViewController.o
+x/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m: In function '-[DatabasesViewController getAllRowsFromTableNamed:]':
+o/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m:79: warning: format not a string literal and no format arguments
+lSLF07#2@87"Compile /Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m291739087#291739087#0(294"/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m: In function '-[DatabasesViewController getAllRowsFromTableNamed:]':/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m:79: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments291739087#149#145#0(6@79"/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m291739086#79#0#79#0#51"format not a string literal and no format arguments0(0#0#79"/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m4300907800#2042"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Databases/Classes/DatabasesViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/DatabasesViewController.o"0#
+
+CCompileC build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Databases/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289755322.802857
+e289755322.851176
+r1
+xCompileC
+xbuild/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Databases/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/weimenglee/Desktop/iPad book/Databases/main.m289755322#289755322#0(0"0(0#0#52"/Users/weimenglee/Desktop/iPad book/Databases/main.m4300907800#1996"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Databases/main.m" -o "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Databases/DatabasesViewController.xib"
+s289755321.863986
+e289755322.130885
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Databases/DatabasesViewController.xib
+lSLF07#2@38"CompileXIB DatabasesViewController.xib289755321#289755322#0(0"0(0#0#73"/Users/weimenglee/Desktop/iPad book/Databases/DatabasesViewController.xib4300907800#535"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/DatabasesViewController.nib" "/Users/weimenglee/Desktop/iPad book/Databases/DatabasesViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Databases/MainWindow.xib"
+s289755321.863302
+e289755322.145443
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Databases/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289755321#289755322#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/Databases/MainWindow.xib4300907800#509"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Databases/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases"
+s291739087.370465
+e291739087.384871
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Databases.app.dSYM build/Debug-iphonesimulator/Databases.app/Databases291739087#291739087#0(0"0(0#0#97"/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases4300907800#416"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases" -o "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases" normal i386
+s291739087.342159
+e291739087.370364
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases
+xnormal
+xi386
+lSLF07#2@102"Link /Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases291739087#291739087#0(0"0(0#0#0"4300907800#927"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Objects-normal/i386/Databases.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Databases"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Info.plist" Databases-Info.plist
+s289755321.860077
+e289755321.863226
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Info.plist
+xDatabases-Info.plist
+lSLF07#2@28"Process Databases-Info.plist289755321#289755321#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Databases/Databases-Info.plist4300907800#512"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Databases-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch.gch Databases_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289755322.145555
+e289755322.802704
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch.gch
+xDatabases_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Databases_Prefix.pch289755322#289755322#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Databases/Databases_Prefix.pch4300907800#1877"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/Databases-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Databases/build/Databases.build/Debug-iphonesimulator/Databases.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Databases/Databases_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Databases_Prefix-dybxhddqeyyylxczwfxcdbnavhko/Databases_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app"
+s291739087.384956
+e291739087.387336
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app
+lSLF07#2@93"Touch /Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app291739087#291739087#0(0"0(0#0#0"4300907800#298"    cd "/Users/weimenglee/Desktop/iPad book/Databases"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Databases/build/Debug-iphonesimulator/Databases.app"0#
+

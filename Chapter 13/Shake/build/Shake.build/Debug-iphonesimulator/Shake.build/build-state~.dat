@@ -1,0 +1,286 @@
+TShake
+v7
+r0
+t289578552.285458
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Info.plist" Shake-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Shake/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Shake/ShakeViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch.gch Shake_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Shake/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeViewController.o "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeView.o "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake"
+cTouch "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.h
+c000000004B9263C000000000000001CA
+t1267884992
+s458
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m
+c000000004B9263C0000000000000028F
+t1267884992
+s655
+i"ShakeAppDelegate.h"
+i"ShakeViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.h
+c000000004B92666500000000000000C1
+t1267885669
+s193
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m
+c000000004B9266A10000000000000265
+t1267885729
+s613
+i"ShakeView.h"
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.h
+c000000004B9264EA00000000000001C1
+t1267885290
+s449
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m
+c000000004B92657700000000000008D8
+t1267885431
+s2264
+i"ShakeViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Shake/MainWindow.xib
+c000000004B9263C00000000000004CF5
+t1267884992
+s19701
+
+N/Users/weimenglee/Desktop/iPad book/Shake/ShakeViewController.xib
+c000000004B9265520000000000005762
+t1267885394
+s22370
+
+N/Users/weimenglee/Desktop/iPad book/Shake/Shake_Prefix.pch
+c000000004B9263C000000000000000B3
+t1267884992
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app
+t1267885752
+s238
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app.dSYM
+t1267885752
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Info.plist
+t1267885745
+s790
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/MainWindow.nib
+t1267885746
+s1113
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/PkgInfo
+t1267885745
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake
+t1267885752
+s21640
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/ShakeViewController.nib
+t1267885746
+s1508
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/Shake.LinkFileList
+c000000004B9266B10000000000000204
+t1267885745
+s516
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeAppDelegate.o
+t1267885752
+s42940
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeView.o
+t1267885752
+s9928
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeViewController.o
+t1267885752
+s39968
+
+N/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/main.o
+t1267885752
+s5948
+
+N/Users/weimenglee/Desktop/iPad book/Shake/main.m
+c000000004B9263C0000000000000015E
+t1267884992
+s350
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch.gch
+t1267885751
+s13805456
+
+NShake-Info.plist
+c000000004B9263C000000000000004D6
+t1267884992
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289578545#289578545#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289578551.979982
+e289578552.075689
+r1
+xCompileC
+xbuild/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m289578551#289578552#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m4300907800#1904"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeAppDelegate.o"0#
+
+CCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeView.o "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289578552.075800
+e289578552.135246
+r1
+xCompileC
+xbuild/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeView.o
+x/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m289578552#289578552#0(0"0(0#0#61"/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m4300907800#1890"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeView.m" -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeView.o"0#
+
+CCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeViewController.o "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289578552.053033
+e289578552.134539
+r1
+xCompileC
+xbuild/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeViewController.o
+x/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m289578552#289578552#0(0"0(0#0#71"/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m4300907800#1910"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Shake/Classes/ShakeViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/ShakeViewController.o"0#
+
+CCompileC build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Shake/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289578551.964399
+e289578552.052927
+r1
+xCompileC
+xbuild/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Shake/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/weimenglee/Desktop/iPad book/Shake/main.m289578551#289578552#0(0"0(0#0#48"/Users/weimenglee/Desktop/iPad book/Shake/main.m4300907800#1872"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Shake/main.m" -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Shake/MainWindow.xib"
+s289578545.043700
+e289578546.518519
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Shake/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289578545#289578546#0(0"0(0#0#56"/Users/weimenglee/Desktop/iPad book/Shake/MainWindow.xib4300907800#493"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Shake/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Shake/ShakeViewController.xib"
+s289578545.044374
+e289578546.660439
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Shake/ShakeViewController.xib
+lSLF07#2@34"CompileXIB ShakeViewController.xib289578545#289578546#0(0"0(0#0#65"/Users/weimenglee/Desktop/iPad book/Shake/ShakeViewController.xib4300907800#511"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/ShakeViewController.nib" "/Users/weimenglee/Desktop/iPad book/Shake/ShakeViewController.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake"
+s289578552.264778
+e289578552.282719
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Shake.app.dSYM build/Debug-iphonesimulator/Shake.app/Shake289578552#289578552#0(0"0(0#0#85"/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake4300907800#392"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake" -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake" normal i386
+s289578552.135312
+e289578552.264688
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake
+xnormal
+xi386
+lSLF07#2@90"Link /Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake289578552#289578552#0(0"0(0#0#0"4300907800#877"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Objects-normal/i386/Shake.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Shake"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Info.plist" Shake-Info.plist
+s289578545.027620
+e289578545.043619
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Info.plist
+xShake-Info.plist
+lSLF07#2@24"Process Shake-Info.plist289578545#289578545#0(0"0(0#0#58"/Users/weimenglee/Desktop/iPad book/Shake/Shake-Info.plist4300907800#488"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Shake-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch.gch Shake_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289578546.660624
+e289578551.964259
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch.gch
+xShake_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Shake_Prefix.pch289578546#289578551#0(0"0(0#0#58"/Users/weimenglee/Desktop/iPad book/Shake/Shake_Prefix.pch4300907800#1761"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/Shake-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Shake/build/Shake.build/Debug-iphonesimulator/Shake.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Shake/Shake_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shake_Prefix-gkfjjoqacfrtctdzrtwtziikhaxd/Shake_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app"
+s289578552.282804
+e289578552.285430
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app
+lSLF07#2@85"Touch /Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app289578552#289578552#0(0"0(0#0#0"4300907800#286"    cd "/Users/weimenglee/Desktop/iPad book/Shake"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Shake/build/Debug-iphonesimulator/Shake.app"0#
+

@@ -1,0 +1,272 @@
+TBluetooth
+v7
+r0
+t289145697.313040
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Info.plist" Bluetooth-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Bluetooth/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Bluetooth/BluetoothViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch.gch Bluetooth_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Bluetooth/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothViewController.o "/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth"
+cTouch "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004B7D19BB00000000000AA630
+t1266489787
+s697904
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004B7D19B60000000000000112
+t1266489782
+s274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/BluetoothViewController.xib
+c000000004B8BCBDD0000000000004E1E
+t1267452893
+s19998
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/Bluetooth_Prefix.pch
+c000000004B8BCB3700000000000000BB
+t1267452727
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.h
+c000000004B8BCB3700000000000001E2
+t1267452727
+s482
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m
+c000000004B8BCB3700000000000002A3
+t1267452727
+s675
+i"BluetoothAppDelegate.h"
+i"BluetoothViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.h
+c000000004B8BCB7D00000000000002CF
+t1267452797
+s719
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m
+c000000004B8BCBA300000000000005CD
+t1267452835
+s1485
+i"BluetoothViewController.h"
+i<GameKit/GameKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/MainWindow.xib
+c000000004B8BCB370000000000004D1D
+t1267452727
+s19741
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/Bluetooth.LinkFileList
+c000000004B8BCBDE00000000000001B2
+t1267452894
+s434
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothAppDelegate.o
+t1267452896
+s42456
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothViewController.o
+t1267452896
+s37920
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/main.o
+t1267452896
+s5956
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app
+t1267452897
+s238
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app.dSYM
+t1267452897
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth
+t1267452897
+s20836
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/BluetoothViewController.nib
+t1267452895
+s1320
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Info.plist
+t1267452894
+s806
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/MainWindow.nib
+t1267452895
+s1121
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/PkgInfo
+t1267452894
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Bluetooth/main.m
+c000000004B8BCB370000000000000162
+t1267452727
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch.gch
+t1267452896
+s13805456
+
+NBluetooth-Info.plist
+c000000004B8BCB3700000000000004D6
+t1267452727
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289145694#289145694#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289145696.735566
+e289145696.843882
+r1
+xCompileC
+xbuild/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m289145696#289145696#0(0"0(0#0#76"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m4300907800#2036"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothAppDelegate.o"0#
+
+CCompileC build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothViewController.o "/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289145696.842699
+e289145696.903269
+r1
+xCompileC
+xbuild/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothViewController.o
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: incomplete implementation of class 'BluetoothViewController'
+o/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: method definition for '-btnDisconnect:' not found
+o/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: method definition for '-btnConnect:' not found
+o/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: method definition for '-btnSend:' not found
+lSLF07#2@87"Compile /Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m289145696#289145696#0(574"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: incomplete implementation of class 'BluetoothViewController'/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: method definition for '-btnDisconnect:' not found/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: method definition for '-btnConnect:' not found/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m:67: warning: method definition for '-btnSend:' not found4(22@60"Incomplete implementation of class 'BluetoothViewController'289145696#0#154#0(6@79"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m289145635#67#0#67#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-btnDisconnect:' not found289145696#154#143#0(6@79"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m289145635#67#0#67#0#35"method definition for '*' not found0(22@46"Method definition for '-btnConnect:' not found289145696#297#140#0(6@79"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m289145635#67#0#67#0#35"method definition for '*' not found0(22@43"Method definition for '-btnSend:' not found289145696#437#137#0(6@79"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m289145635#67#0#67#0#35"method definition for '*' not found0(0#0#79"/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m4300907800#2042"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bluetooth/Classes/BluetoothViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/BluetoothViewController.o"0#
+
+CCompileC build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Bluetooth/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289145696.734204
+e289145696.842591
+r1
+xCompileC
+xbuild/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/weimenglee/Desktop/iPad book/Bluetooth/main.m289145696#289145696#0(0"0(0#0#52"/Users/weimenglee/Desktop/iPad book/Bluetooth/main.m4300907800#1996"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bluetooth/main.m" -o "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Bluetooth/BluetoothViewController.xib"
+s289145694.969513
+e289145695.348532
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/BluetoothViewController.xib
+lSLF07#2@38"CompileXIB BluetoothViewController.xib289145694#289145695#0(0"0(0#0#73"/Users/weimenglee/Desktop/iPad book/Bluetooth/BluetoothViewController.xib4300907800#535"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/BluetoothViewController.nib" "/Users/weimenglee/Desktop/iPad book/Bluetooth/BluetoothViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Bluetooth/MainWindow.xib"
+s289145694.968707
+e289145695.305850
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289145694#289145695#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/Bluetooth/MainWindow.xib4300907800#509"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Bluetooth/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth"
+s289145697.244392
+e289145697.278098
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Bluetooth.app.dSYM build/Debug-iphonesimulator/Bluetooth.app/Bluetooth289145697#289145697#0(0"0(0#0#97"/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth4300907800#416"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth" -o "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth" normal i386
+s289145696.903374
+e289145697.244274
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth
+xnormal
+xi386
+lSLF07#2@102"Link /Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth289145696#289145697#0(0"0(0#0#0"4300907800#936"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Objects-normal/i386/Bluetooth.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Bluetooth"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Info.plist" Bluetooth-Info.plist
+s289145694.964956
+e289145694.968629
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Info.plist
+xBluetooth-Info.plist
+lSLF07#2@28"Process Bluetooth-Info.plist289145694#289145694#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Bluetooth/Bluetooth-Info.plist4300907800#512"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Bluetooth-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch.gch Bluetooth_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289145695.348645
+e289145696.733928
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch.gch
+xBluetooth_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Bluetooth_Prefix.pch289145695#289145696#0(0"0(0#0#66"/Users/weimenglee/Desktop/iPad book/Bluetooth/Bluetooth_Prefix.pch4300907800#1877"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/Bluetooth-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Bluetooth.build/Debug-iphonesimulator/Bluetooth.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Bluetooth/Bluetooth_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bluetooth_Prefix-fcfnrbeddofyhehfertgadcdnmct/Bluetooth_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app"
+s289145697.278178
+e289145697.312993
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app
+lSLF07#2@93"Touch /Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app289145697#289145697#0(0"0(0#0#0"4300907800#298"    cd "/Users/weimenglee/Desktop/iPad book/Bluetooth"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Bluetooth/build/Debug-iphonesimulator/Bluetooth.app"0#
+

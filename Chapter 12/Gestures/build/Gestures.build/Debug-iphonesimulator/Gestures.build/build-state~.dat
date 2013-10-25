@@ -1,0 +1,275 @@
+TGestures
+v7
+r0
+t288195290.391249
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist" Gestures-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Gestures/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Gestures/GesturesViewController.xib"
+cCpResource build/Debug-iphonesimulator/Gestures.app/architecture.jpg architecture.jpg
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch.gch Gestures_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Gestures/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o "/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures"
+cTouch "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B7365000000000000000110
+t1265853696
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B6BA5E8000000000026F020
+t1265346024
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B6BA6030000000000288B20
+t1265346051
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B6BA5F60000000000001355
+t1265346038
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B6BC0FA000000000000098F
+t1265352954
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B6BC203000000000211A810
+t1265353219
+s34711568
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.h
+c000000004B7D49A300000000000001DD
+t1266502051
+s477
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m
+c000000004B7D49A3000000000000029F
+t1266502051
+s671
+i"GesturesAppDelegate.h"
+i"GesturesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.h
+c000000004B7D4A840000000000000144
+t1266502276
+s324
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m
+c000000004B7D4B5300000000000006B0
+t1266502483
+s1712
+i"GesturesViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/GesturesViewController.xib
+c000000004B7D4AD6000000000000477C
+t1266502358
+s18300
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/Gestures_Prefix.pch
+c000000004B7D49A300000000000000B9
+t1266502051
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/MainWindow.xib
+c000000004B7D49A30000000000004D13
+t1266502051
+s19731
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/architecture.jpg
+c000000004B335DEC000000000004CB29
+t1261657580
+s314153
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app
+t1266502490
+s272
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM
+t1266502490
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+t1266502490
+s20416
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib
+t1266502486
+s1114
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist
+t1266502484
+s802
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/MainWindow.nib
+t1266502486
+s1119
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/PkgInfo
+t1266502484
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/architecture.jpg
+t1266502486
+s314153
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList
+c000000004B7D4B5400000000000001A7
+t1266502484
+s423
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+t1266502490
+s41840
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+t1266502490
+s38356
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+t1266502490
+s5956
+
+N/Users/weimenglee/Desktop/iPad book/Gestures/main.m
+c000000004B7D49A30000000000000162
+t1266502051
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch.gch
+t1266502489
+s13756272
+
+NGestures-Info.plist
+c000000004B7D49A300000000000004D6
+t1266502051
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288195284#288195284#0(0"0(0#1#0"4300907768#0"0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288195290.106925
+e288195290.199286
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m288195290#288195290#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m4300907768#2003"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o"0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o "/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288195290.168312
+e288195290.258700
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+x/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m288195290#288195290#0(0"0(0#0#77"/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m4300907768#2009"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Gestures/Classes/GesturesViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o"0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Gestures/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288195290.105393
+e288195290.168209
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Gestures/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/weimenglee/Desktop/iPad book/Gestures/main.m288195290#288195290#0(0"0(0#0#51"/Users/weimenglee/Desktop/iPad book/Gestures/main.m4300907768#1965"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Gestures/main.m" -o "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Gestures/GesturesViewController.xib"
+s288195284.596548
+e288195287.000756
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Gestures/GesturesViewController.xib
+lSLF07#2@37"CompileXIB GesturesViewController.xib288195284#288195287#0(0"0(0#0#71"/Users/weimenglee/Desktop/iPad book/Gestures/GesturesViewController.xib4300907768#529"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib" "/Users/weimenglee/Desktop/iPad book/Gestures/GesturesViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Gestures/MainWindow.xib"
+s288195284.595869
+e288195286.782198
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Gestures/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288195284#288195286#0(0"0(0#0#59"/Users/weimenglee/Desktop/iPad book/Gestures/MainWindow.xib4300907768#505"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Gestures/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/architecture.jpg architecture.jpg
+s288195286.782324
+e288195286.972622
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/architecture.jpg
+xarchitecture.jpg
+lSLF07#2@21"Copy architecture.jpg288195286#288195286#0(0"0(0#0#61"/Users/weimenglee/Desktop/iPad book/Gestures/architecture.jpg4300907768#485"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/Gestures/architecture.jpg" "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures"
+s288195290.299612
+e288195290.386345
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Gestures.app.dSYM build/Debug-iphonesimulator/Gestures.app/Gestures288195290#288195290#0(0"0(0#0#94"/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures4300907768#410"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures" -o "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures" normal i386
+s288195290.258813
+e288195290.299504
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+xnormal
+xi386
+lSLF07#2@99"Link /Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures288195290#288195290#0(0"0(0#0#0"4300907768#907"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist" Gestures-Info.plist
+s288195284.580127
+e288195284.595799
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist
+xGestures-Info.plist
+lSLF07#2@27"Process Gestures-Info.plist288195284#288195284#0(0"0(0#0#64"/Users/weimenglee/Desktop/iPad book/Gestures/Gestures-Info.plist4300907768#506"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Gestures-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch.gch Gestures_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288195287.015702
+e288195290.105244
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch.gch
+xGestures_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Gestures_Prefix.pch288195287#288195290#0(0"0(0#0#64"/Users/weimenglee/Desktop/iPad book/Gestures/Gestures_Prefix.pch4300907768#1848"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Gestures/Gestures_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-dnzgewpwuavrahhionbiykmppcjf/Gestures_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app"
+s288195290.386429
+e288195290.391217
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app
+lSLF07#2@91"Touch /Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app288195290#288195290#0(0"0(0#0#0"4300907768#295"    cd "/Users/weimenglee/Desktop/iPad book/Gestures"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Gestures/build/Debug-iphonesimulator/Gestures.app"0#
+

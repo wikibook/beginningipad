@@ -1,0 +1,223 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ApplePushNotificationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1108, 574}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ApplePushNotificationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1108, 650}}";
+			sepNavSelRange = "{754, 0}";
+			sepNavVisRange = "{112, 1347}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ApplePushNotification */ = {
+		activeExec = 0;
+		executables = (
+			B7B40307114D411F00968BDE /* ApplePushNotification */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ApplePushNotificationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1108, 574}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ApplePushNotificationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1108, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1256}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B7B40307114D411F00968BDE /* ApplePushNotification */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ApplePushNotification */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ApplePushNotification */,
+		);
+		breakpoints = (
+			B796C03D10BC0B5400BB78AA /* ApplePushNotificationAppDelegate.m:39 */,
+		);
+		codeSenseManager = B796BF9C10BA6EC900BB78AA /* Code sense */;
+		executables = (
+			B7B40307114D411F00968BDE /* ApplePushNotification */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					930,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					890,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291737451;
+			PBXWorkspaceStateSaveDate = 291737451;
+		};
+		perUserProjectItems = {
+			B7485B4611638FAD00FEA8D8 /* PBXTextBookmark */ = B7485B4611638FAD00FEA8D8 /* PBXTextBookmark */;
+			B7485B4711638FAD00FEA8D8 /* PBXTextBookmark */ = B7485B4711638FAD00FEA8D8 /* PBXTextBookmark */;
+			B7485B4811638FAD00FEA8D8 /* PBXTextBookmark */ = B7485B4811638FAD00FEA8D8 /* PBXTextBookmark */;
+			B7485B4911638FAD00FEA8D8 /* PBXTextBookmark */ = B7485B4911638FAD00FEA8D8 /* PBXTextBookmark */;
+			B7485B4A11638FAD00FEA8D8 /* PBXTextBookmark */ = B7485B4A11638FAD00FEA8D8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B796BF9B10BA6EC900BB78AA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485B4611638FAD00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ApplePushNotificationAppDelegate.h */;
+		name = "ApplePushNotificationAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	B7485B4711638FAD00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ApplePushNotificationViewController.m */;
+		name = "ApplePushNotificationViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1256;
+		vrLoc = 0;
+	};
+	B7485B4811638FAD00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ApplePushNotificationViewController.h */;
+		name = "ApplePushNotificationViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	B7485B4911638FAD00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ApplePushNotificationAppDelegate.m */;
+		name = "ApplePushNotificationAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 754;
+		rType = 0;
+		vrLen = 1347;
+		vrLoc = 112;
+	};
+	B7485B4A11638FAD00FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ApplePushNotificationAppDelegate.m */;
+		name = "ApplePushNotificationAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 754;
+		rType = 0;
+		vrLen = 1347;
+		vrLoc = 112;
+	};
+	B796BF9B10BA6EC900BB78AA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B796BF9C10BA6EC900BB78AA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B796C03D10BC0B5400BB78AA /* ApplePushNotificationAppDelegate.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* ApplePushNotificationAppDelegate.m */;
+		functionName = "-application:didReceiveRemoteNotification:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = ApplePushNotification;
+		modificationTime = 280759212.3287;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	B7B40307114D411F00968BDE /* ApplePushNotification */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ApplePushNotification;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+}

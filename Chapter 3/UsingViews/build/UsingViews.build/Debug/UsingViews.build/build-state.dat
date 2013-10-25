@@ -1,0 +1,116 @@
+TUsingViews
+v7
+r1
+cCheck dependencies
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Mac8100.jpeg
+c000000004AA66A280000000000003466
+t1252420136
+s13414
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MacPlus.jpeg
+c000000004AA66ADC0000000000002E0F
+t1252420316
+s11791
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MacSE.jpeg
+c000000004AA66A08000000000002CA50
+t1252420104
+s182864
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MainWindow.xib
+c000000004B9C78050000000000004D27
+t1268545541
+s19751
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViewsViewController.xib
+c000000004B9C80F40000000000005348
+t1268547828
+s21320
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Info.plist
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/Mac8100.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/MacPlus.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/MacSE.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/UsingViewsViewController.nib
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/imac.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Resources/imac_old.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/imac.jpeg
+c000000004AA669BC0000000000005EA8
+t1252420028
+s24232
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/imac_old.jpeg
+c000000004AA669D20000000000007C4C
+t1252420050
+s31820
+
+NUsingViews-Info.plist
+c000000004B9C780500000000000004D6
+t1268545541
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304848959#304848959#0(75"[BEROR]error: There is no SDK with the name or path 'iphonesimulator3.1.2'1(4@67"error: There is no SDK with the name or path 'iphonesimulator3.1.2'304848959#18446744073709551615#0#0(1@0"0(0#1#0"8606325664#0"0#
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViewsViewController.xib"
+r0
+
+CCpResource build/Debug/UsingViews.app/Contents/Resources/Mac8100.jpeg Mac8100.jpeg
+r0
+
+CCpResource build/Debug/UsingViews.app/Contents/Resources/MacPlus.jpeg MacPlus.jpeg
+r0
+
+CCpResource build/Debug/UsingViews.app/Contents/Resources/MacSE.jpeg MacSE.jpeg
+r0
+
+CCpResource build/Debug/UsingViews.app/Contents/Resources/imac.jpeg imac.jpeg
+r0
+
+CCpResource build/Debug/UsingViews.app/Contents/Resources/imac_old.jpeg imac_old.jpeg
+r0
+
+CProcessInfoPlistFile "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app/Contents/Info.plist" UsingViews-Info.plist
+r0
+
+CTouch "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Debug/UsingViews.app"
+r0
+

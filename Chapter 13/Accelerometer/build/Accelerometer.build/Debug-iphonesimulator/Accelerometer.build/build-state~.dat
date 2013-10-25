@@ -1,0 +1,256 @@
+TAccelerometer
+v7
+r0
+t289577227.502644
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist" Accelerometer-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Accelerometer/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Accelerometer/AccelerometerViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch.gch Accelerometer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Accelerometer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o "/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer"
+cTouch "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/AccelerometerViewController.xib
+c000000004B9260CE0000000000005C4B
+t1267884238
+s23627
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/Accelerometer_Prefix.pch
+c000000004B925BA700000000000000C3
+t1267882919
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.h
+c000000004B925BA700000000000001FA
+t1267882919
+s506
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m
+c000000004B925BA700000000000002B7
+t1267882919
+s695
+i"AccelerometerAppDelegate.h"
+i"AccelerometerViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.h
+c000000004B92618300000000000001F5
+t1267884419
+s501
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m
+c000000004B926180000000000000080D
+t1267884416
+s2061
+i"AccelerometerViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/MainWindow.xib
+c000000004B925BA70000000000004D45
+t1267882919
+s19781
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/Accelerometer.LinkFileList
+c000000004B92618300000000000001DE
+t1267884419
+s478
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o
+t1267884427
+s42308
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o
+t1267884427
+s41312
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o
+t1267884427
+s5964
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app
+t1267884427
+s238
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM
+t1267884427
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+t1267884427
+s21276
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/AccelerometerViewController.nib
+t1267884422
+s1723
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist
+t1267884419
+s822
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/MainWindow.nib
+t1267884422
+s1129
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/PkgInfo
+t1267884419
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Accelerometer/main.m
+c000000004B925BA80000000000000166
+t1267882920
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch.gch
+t1267884426
+s13805456
+
+NAccelerometer-Info.plist
+c000000004B925BA700000000000004D6
+t1267882919
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289577219#289577219#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289577227.106482
+e289577227.180045
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m289577227#289577227#0(0"0(0#0#84"/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m4300907800#2168"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerAppDelegate.o"0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o "/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289577227.162519
+e289577227.252248
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m289577227#289577227#0(0"0(0#0#87"/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m4300907800#2174"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Accelerometer/Classes/AccelerometerViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/AccelerometerViewController.o"0#
+
+CCompileC build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/Accelerometer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s289577227.091275
+e289577227.162423
+r1
+xCompileC
+xbuild/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/weimenglee/Desktop/iPad book/Accelerometer/main.m289577227#289577227#0(0"0(0#0#56"/Users/weimenglee/Desktop/iPad book/Accelerometer/main.m4300907800#2120"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Accelerometer/main.m" -o "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Accelerometer/AccelerometerViewController.xib"
+s289577219.653558
+e289577223.055639
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/AccelerometerViewController.xib
+lSLF07#2@42"CompileXIB AccelerometerViewController.xib289577219#289577223#0(0"0(0#0#81"/Users/weimenglee/Desktop/iPad book/Accelerometer/AccelerometerViewController.xib4300907800#559"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/AccelerometerViewController.nib" "/Users/weimenglee/Desktop/iPad book/Accelerometer/AccelerometerViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Accelerometer/MainWindow.xib"
+s289577219.652920
+e289577223.022117
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289577219#289577223#0(0"0(0#0#64"/Users/weimenglee/Desktop/iPad book/Accelerometer/MainWindow.xib4300907800#525"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Accelerometer/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer"
+s289577227.441201
+e289577227.466148
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Accelerometer.app.dSYM build/Debug-iphonesimulator/Accelerometer.app/Accelerometer289577227#289577227#0(0"0(0#0#109"/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer4300907800#440"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer" -o "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer" normal i386
+s289577227.252344
+e289577227.441096
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer
+xnormal
+xi386
+lSLF07#2@114"Link /Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer289577227#289577227#0(0"0(0#0#0"4300907800#957"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Objects-normal/i386/Accelerometer.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Accelerometer"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist" Accelerometer-Info.plist
+s289577219.624860
+e289577219.652848
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist
+xAccelerometer-Info.plist
+lSLF07#2@32"Process Accelerometer-Info.plist289577219#289577219#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/Accelerometer/Accelerometer-Info.plist4300907800#536"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Accelerometer-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch.gch Accelerometer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289577223.055760
+e289577227.091037
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch.gch
+xAccelerometer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Accelerometer_Prefix.pch289577223#289577227#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/Accelerometer/Accelerometer_Prefix.pch4300907800#1993"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/Accelerometer-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Accelerometer.build/Debug-iphonesimulator/Accelerometer.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Accelerometer/Accelerometer_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Accelerometer_Prefix-avqevxtoqeetucgisxkbkgwiqgnr/Accelerometer_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app"
+s289577227.466233
+e289577227.502613
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app
+lSLF07#2@101"Touch /Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app289577227#289577227#0(0"0(0#0#0"4300907800#310"    cd "/Users/weimenglee/Desktop/iPad book/Accelerometer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Accelerometer/build/Debug-iphonesimulator/Accelerometer.app"0#
+

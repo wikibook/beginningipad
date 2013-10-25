@@ -1,0 +1,323 @@
+TApplePushNotification
+v7
+r0
+t280653685.799092
+cCheck dependencies
+cCpResource build/Debug-iphoneos/ApplePushNotification.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/Info.plist" ApplePushNotification-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotificationViewController.xib"
+cProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch.gch ApplePushNotification_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/main.o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationAppDelegate.o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationViewController.o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification" normal armv6
+cGenerateDSYMFile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app.dSYM" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification"
+cProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/18DA696B-2065-4338-980B-5298B50254E2.mobileprovision" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision"
+cTouch "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent"
+cCodeSign "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotificationViewController.xib
+c000000004B0A37460000000000001913
+t1258960710
+s6419
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotification_Prefix.pch
+c000000004B0A374600000000000000D3
+t1258960710
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.h
+c000000004B0A37460000000000000234
+t1258960710
+s564
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m
+c000000004B0A374600000000000002B1
+t1258960710
+s689
+i"ApplePushNotificationAppDelegate.h"
+i"ApplePushNotificationViewController.h"
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.h
+c000000004B0A37460000000000000119
+t1258960710
+s281
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m
+c000000004B0A374600000000000005F0
+t1258960710
+s1520
+i"ApplePushNotificationViewController.h"
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/MainWindow.xib
+c000000004B0A374600000000000024E8
+t1258960710
+s9448
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent
+t1258960885
+s382
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotification.LinkFileList
+c000000004B0A37F2000000000000027E
+t1258960882
+s638
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationAppDelegate.o
+t1258960884
+s40984
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationViewController.o
+t1258960884
+s29812
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/main.o
+t1258960884
+s6648
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app
+t1258960885
+s374
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app.dSYM
+t1258960885
+s102
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification
+t1258960885
+s16872
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotificationViewController.nib
+t1258960883
+s1151
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/Info.plist
+t1258960882
+s682
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/MainWindow.nib
+t1258960883
+s1523
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/PkgInfo
+t1258960882
+s8
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ResourceRules.plist
+t1258960882
+s485
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision
+t1258960885
+s7372
+
+N/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m
+c000000004B0A37460000000000000178
+t1258960710
+s376
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/18DA696B-2065-4338-980B-5298B50254E2.mobileprovision
+c000000004B0A2AC60000000000001CCC
+t1258957510
+s7372
+
+N/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch.gch
+t1258960884
+s7876792
+
+NApplePushNotification-Info.plist
+c000000004B0A37BA0000000000000377
+t1258960826
+s887
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280653682#280653682#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"
+s280653685.238897
+e280653685.799052
+r1
+xCodeSign
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app
+lSLF07#2@55"CodeSign build/Debug-iphoneos/ApplePushNotification.app280653685#280653685#0(0"0(0#0#134"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app4300885448#920"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Wei-Meng Lee (398N22LL9K)" "--resource-rules=/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ResourceRules.plist" --entitlements "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"0#
+
+CCompileC build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationAppDelegate.o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280653684.476335
+e280653684.608372
+r1
+xCompileC
+xbuild/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationAppDelegate.o
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m280653684#280653684#0(0"0(0#0#130"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m4300885448#2633"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-generated-files.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-project-headers.hmap" "-F/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources/armv6" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch -c "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationAppDelegate.m" -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationAppDelegate.o"0#
+
+CCompileC build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationViewController.o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280653684.599614
+e280653684.650040
+r1
+xCompileC
+xbuild/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationViewController.o
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@141"Compile /Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m280653684#280653684#0(0"0(0#0#133"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m4300885448#2639"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-generated-files.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-project-headers.hmap" "-F/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources/armv6" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch -c "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/Classes/ApplePushNotificationViewController.m" -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotificationViewController.o"0#
+
+CCompileC build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/main.o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280653684.475279
+e280653684.599514
+r1
+xCompileC
+xbuild/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/main.o
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m280653684#280653684#0(0"0(0#0#94"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m4300885448#2569"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-generated-files.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-project-headers.hmap" "-F/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources/armv6" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources" -include /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch -c "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/main.m" -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotificationViewController.xib"
+s280653682.980800
+e280653683.460188
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotificationViewController.xib
+lSLF07#2@50"CompileXIB ApplePushNotificationViewController.xib280653682#280653683#0(0"0(0#0#127"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotificationViewController.xib4300885448#685"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotificationViewController.nib" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotificationViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/MainWindow.xib"
+s280653682.980070
+e280653683.465393
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib280653682#280653683#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#102"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/MainWindow.xib4300885448#635"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/MainWindow.nib" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/MainWindow.xib"0#
+
+CCpResource build/Debug-iphoneos/ApplePushNotification.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s280653682.903655
+e280653682.979978
+r1
+xCpResource
+xbuild/Debug-iphoneos/ApplePushNotification.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist280653682#280653682#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300885448#598"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app.dSYM" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification"
+s280653685.096283
+e280653685.192937
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app.dSYM
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification
+lSLF07#2@137"GenerateDSYMFile build/Debug-iphoneos/ApplePushNotification.app.dSYM build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification280653685#280653685#0(0"0(0#0#156"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification4300885448#557"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification" -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification" normal armv6
+s280653684.650137
+e280653685.096183
+r1
+xLd
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification
+xnormal
+xarmv6
+lSLF07#2@161"Link /Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification280653684#280653685#0(0"0(0#0#0"4300885448#1220"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos" "-F/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos" -filelist "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/Objects-normal/armv6/ApplePushNotification.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ApplePushNotification"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/Info.plist" ApplePushNotification-Info.plist
+s280653682.904507
+e280653682.933968
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/Info.plist
+xApplePushNotification-Info.plist
+lSLF07#2@40"Process ApplePushNotification-Info.plist280653682#280653682#0(0"0(0#0#120"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotification-Info.plist4300885448#822"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ApplePushNotification-Info.plist -genpkginfo "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/ResourceRules.plist" -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/Info.plist"0#
+
+CProcessPCH /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch.gch ApplePushNotification_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s280653683.465506
+e280653684.475070
+r1
+xProcessPCH
+x/var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch.gch
+xApplePushNotification_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile ApplePushNotification_Prefix.pch280653683#280653684#0(0"0(0#0#120"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotification_Prefix.pch4300885448#2402"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-generated-files.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification-project-headers.hmap" "-F/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources/armv6" "-I/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/DerivedSources" -c "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/ApplePushNotification_Prefix.pch" -o /var/folders/I5/I5lMcBUIFxO1jvkU464nwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplePushNotification_Prefix-fgyzznizsdidbadybtlketkhpbvl/ApplePushNotification_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/18DA696B-2065-4338-980B-5298B50254E2.mobileprovision" "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision"
+s280653685.193031
+e280653685.194060
+r1
+xProcessProductPackaging
+x/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/18DA696B-2065-4338-980B-5298B50254E2.mobileprovision
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision
+lSLF07#2@211"ProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/18DA696B-2065-4338-980B-5298B50254E2.mobileprovision" build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision280653685#280653685#0(0"0(0#0#159"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision4300885448#544"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/18DA696B-2065-4338-980B-5298B50254E2.mobileprovision" -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent"
+s280653685.196827
+e280653685.238824
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent
+lSLF07#2@219"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent280653685#280653685#0(0"0(0#0#192"/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent4300885448#606"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -APSEnvironment development -format xml -o "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/ApplePushNotification.build/Debug-iphoneos/ApplePushNotification.build/ApplePushNotification.xcent"0#
+
+CTouch "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"
+s280653685.194117
+e280653685.196752
+r1
+xTouch
+x/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app
+lSLF07#2@140"Touch /Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app280653685#280653685#0(0"0(0#0#0"4300885448#380"    cd "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/Apple Push Notification Service Article/ApplePushNotification/build/Debug-iphoneos/ApplePushNotification.app"0#
+

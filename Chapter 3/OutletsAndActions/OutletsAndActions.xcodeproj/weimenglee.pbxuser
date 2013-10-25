@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* OutletsAndActions */ = {
+		activeExec = 0;
+		executables = (
+			B7B40372114DCECC00968BDE /* OutletsAndActions */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* OutletsAndActionsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 621}}";
+			sepNavSelRange = "{319, 0}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* OutletsAndActionsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 1066}}";
+			sepNavSelRange = "{1896, 0}";
+			sepNavVisRange = "{926, 1000}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B7B40372114DCECC00968BDE /* OutletsAndActions */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OutletsAndActions */;
+		codeSenseManager = B7B4037C114DCED000968BDE /* Code sense */;
+		executables = (
+			B7B40372114DCECC00968BDE /* OutletsAndActions */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					753,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 291740728;
+			PBXWorkspaceStateSaveDate = 291740728;
+		};
+		perUserProjectItems = {
+			B7485D9111639C4700FEA8D8 /* PBXTextBookmark */ = B7485D9111639C4700FEA8D8 /* PBXTextBookmark */;
+			B7485D9D11639C5300FEA8D8 /* PBXTextBookmark */ = B7485D9D11639C5300FEA8D8 /* PBXTextBookmark */;
+			B7B40390114DD13B00968BDE /* PBXTextBookmark */ = B7B40390114DD13B00968BDE /* PBXTextBookmark */;
+		};
+		sourceControlManager = B7B4037B114DCED000968BDE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B7485D9111639C4700FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* OutletsAndActionsViewController.h */;
+		name = "OutletsAndActionsViewController.h: 14";
+		rLen = 0;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	B7485D9D11639C5300FEA8D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* OutletsAndActionsViewController.m */;
+		name = "OutletsAndActionsViewController.m: 77";
+		rLen = 0;
+		rLoc = 1896;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 926;
+	};
+	B7B40372114DCECC00968BDE /* OutletsAndActions */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OutletsAndActions;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B7B4037B114DCED000968BDE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B7B4037C114DCED000968BDE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B7B40390114DD13B00968BDE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* OutletsAndActionsViewController.m */;
+		name = "OutletsAndActionsViewController.m: 77";
+		rLen = 0;
+		rLoc = 1896;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 1527;
+	};
+}

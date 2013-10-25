@@ -1,0 +1,250 @@
+TUsingViews
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsAppDelegate.h
+c000000004B9C780400000000000001E9
+t1268545540
+s489
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsAppDelegate.m
+c000000004B9C780500000000000002A9
+t1268545541
+s681
+i"UsingViewsAppDelegate.h"
+i"UsingViewsViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsViewController.h
+c000000004B9C80930000000000000239
+t1268547731
+s569
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsViewController.m
+c000000004B9C808C000000000000127C
+t1268547724
+s4732
+i"UsingViewsViewController.h"
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/Mac8100.jpeg
+c000000004AA66A280000000000003466
+t1252420136
+s13414
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MacPlus.jpeg
+c000000004AA66ADC0000000000002E0F
+t1252420316
+s11791
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MacSE.jpeg
+c000000004AA66A08000000000002CA50
+t1252420104
+s182864
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/MainWindow.xib
+c000000004B9C78050000000000004D27
+t1268545541
+s19751
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViewsViewController.xib
+c000000004B9C80F40000000000005348
+t1268547828
+s21320
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViews_Prefix.pch
+c000000004B9C780500000000000000BD
+t1268545541
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app.dSYM
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/Info.plist
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/Mac8100.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/MacPlus.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/MacSE.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/MainWindow.nib
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/PkgInfo
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/ResourceRules.plist
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/UsingViews
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/UsingViewsViewController.nib
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/imac.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/imac_old.jpeg
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/UsingViews.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/UsingViewsAppDelegate.o
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/UsingViewsViewController.o
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/build/UsingViews.build/Release-iphoneos/UsingViews.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/imac.jpeg
+c000000004AA669BC0000000000005EA8
+t1252420028
+s24232
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/imac_old.jpeg
+c000000004AA669D20000000000007C4C
+t1252420050
+s31820
+
+N/Users/eirene78/Downloads/Chapter 3/UsingViews/main.m
+c000000004B9C78050000000000000164
+t1268545541
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews_Prefix-ajrtmmfnnhgigyeblsstqoejlnol/UsingViews_Prefix.pch.gch
+t2
+s0
+
+NUsingViews-Info.plist
+c000000004B9C780500000000000004D6
+t1268545541
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304846808#304846808#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain304846808#18446744073709551615#0#0(1@0"0(0#1#0"8607503008#0"0#
+
+CCompileC build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/UsingViewsAppDelegate.o "/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/UsingViewsViewController.o "/Users/eirene78/Downloads/Chapter 3/UsingViews/Classes/UsingViewsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UsingViews.build/Release-iphoneos/UsingViews.build/Objects-normal/armv7/main.o "/Users/eirene78/Downloads/Chapter 3/UsingViews/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/eirene78/Downloads/Chapter 3/UsingViews/UsingViewsViewController.xib"
+r0
+
+CCpResource build/Release-iphoneos/UsingViews.app/Mac8100.jpeg Mac8100.jpeg
+r0
+
+CCpResource build/Release-iphoneos/UsingViews.app/MacPlus.jpeg MacPlus.jpeg
+r0
+
+CCpResource build/Release-iphoneos/UsingViews.app/MacSE.jpeg MacSE.jpeg
+r0
+
+CCpResource build/Release-iphoneos/UsingViews.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Release-iphoneos/UsingViews.app/imac.jpeg imac.jpeg
+r0
+
+CCpResource build/Release-iphoneos/UsingViews.app/imac_old.jpeg imac_old.jpeg
+r0
+
+CGenerateDSYMFile "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app.dSYM" "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/UsingViews"
+r0
+
+CLd "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/UsingViews" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app/Info.plist" UsingViews-Info.plist
+r0
+
+CProcessPCH /var/folders/EI/EIeIJtfzExyF-HIeiDZkfE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingViews_Prefix-ajrtmmfnnhgigyeblsstqoejlnol/UsingViews_Prefix.pch.gch UsingViews_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app"
+r0
+
+CValidate "/Users/eirene78/Downloads/Chapter 3/UsingViews/build/Release-iphoneos/UsingViews.app"
+r0
+

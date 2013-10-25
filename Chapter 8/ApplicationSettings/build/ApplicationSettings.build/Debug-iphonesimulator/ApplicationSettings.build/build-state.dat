@@ -1,0 +1,292 @@
+TApplicationSettings
+v7
+r0
+t291738061.783005
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/Info.plist" ApplicationSettings-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettingsViewController.xib"
+cCpResource build/Debug-iphonesimulator/ApplicationSettings.app/Settings.bundle Settings.bundle
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch.gch ApplicationSettings_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsViewController.o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app.dSYM" "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings"
+cTouch "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettingsViewController.xib
+c000000004BB359EE0000000000007CDE
+t1270045166
+s31966
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettings_Prefix.pch
+c000000004B83DC1400000000000000CF
+t1266932756
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.h
+c000000004B83DC14000000000000021F
+t1266932756
+s543
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m
+c000000004B83DC1400000000000002D6
+t1266932756
+s726
+i"ApplicationSettingsAppDelegate.h"
+i"ApplicationSettingsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.h
+c000000004B84B19C000000000000029D
+t1266987420
+s669
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m
+c000000004BB358650000000000000EE2
+t1270044773
+s3810
+i"ApplicationSettingsViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/MainWindow.xib
+c000000004B83DC140000000000004D81
+t1266932756
+s19841
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Settings.bundle
+c000000004B83E0D30000000000000088
+t1266933971
+s136
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettings.LinkFileList
+c000000004B83DC7B0000000000000220
+t1266932859
+s544
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsAppDelegate.o
+t1267066890
+s43264
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsViewController.o
+t1270044774
+s51160
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/main.o
+t1267066890
+s5976
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app
+t1270045171
+s272
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app.dSYM
+t1270044774
+s102
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings
+t1270044774
+s22808
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettingsViewController.nib
+t1270045171
+s2994
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/Info.plist
+t1266932859
+s852
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/MainWindow.nib
+t1266932859
+s1141
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/PkgInfo
+t1266932859
+s8
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/Settings.bundle
+t1266977643
+s136
+
+N/Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m
+c000000004B83DC14000000000000016D
+t1266932756
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-ehsmimplrvccbohbailrzhoryhax/ApplicationSettings_Prefix.pch.gch
+t1266932860
+s13756272
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch.gch
+t1267066890
+s13805456
+
+NApplicationSettings-Info.plist
+c000000004B83DC1400000000000004D6
+t1266932756
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291738061#291738061#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsAppDelegate.o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288759690.220269
+e288759690.355260
+r1
+xCompileC
+xbuild/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m288759690#288759690#0(0"0(0#0#96"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m4300907800#2366"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsAppDelegate.o"0#
+
+CCompileC build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsViewController.o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291737574.488493
+e291737574.655936
+r1
+xCompileC
+xbuild/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsViewController.o
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m291737574#291737574#0(0"0(0#0#99"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m4300907800#2372"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Classes/ApplicationSettingsViewController.m" -o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettingsViewController.o"0#
+
+CCompileC build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288759690.219042
+e288759690.354994
+r1
+xCompileC
+xbuild/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m288759690#288759690#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m4300907800#2306"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/main.m" -o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettingsViewController.xib"
+s291737970.093356
+e291737971.535221
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettingsViewController.xib
+lSLF07#2@48"CompileXIB ApplicationSettingsViewController.xib291737970#291737971#0(0"0(0#0#93"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettingsViewController.xib4300907800#595"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettingsViewController.nib" "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettingsViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/MainWindow.xib"
+s288625659.701911
+e288625660.018311
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288625659#288625660#0(0"0(0#0#70"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/MainWindow.xib4300907768#549"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/ApplicationSettings.app/Settings.bundle Settings.bundle
+s288670443.082314
+e288670443.138679
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ApplicationSettings.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle288670443#288670443#0(0"0(0#0#71"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Settings.bundle4300907768#528"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/Settings.bundle" "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app.dSYM" "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings"
+s291737574.726883
+e291737574.773437
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/ApplicationSettings.app.dSYM build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings291737574#291737574#0(0"0(0#0#127"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings4300907800#476"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings" -o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings" normal i386
+s291737574.656033
+e291737574.726785
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings
+xnormal
+xi386
+lSLF07#2@132"Link /Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings291737574#291737574#0(0"0(0#0#0"4300907800#1017"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/Objects-normal/i386/ApplicationSettings.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/ApplicationSettings"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/Info.plist" ApplicationSettings-Info.plist
+s288625659.672394
+e288625659.701813
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/Info.plist
+xApplicationSettings-Info.plist
+lSLF07#2@38"Process ApplicationSettings-Info.plist288625659#288625659#0(0"0(0#0#86"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettings-Info.plist4300907768#572"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ApplicationSettings-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-ehsmimplrvccbohbailrzhoryhax/ApplicationSettings_Prefix.pch.gch ApplicationSettings_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288625660.018414
+e288625660.745193
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-ehsmimplrvccbohbailrzhoryhax/ApplicationSettings_Prefix.pch.gch
+xApplicationSettings_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile ApplicationSettings_Prefix.pch288625660#288625660#0(0"0(0#0#86"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettings_Prefix.pch4300907768#2167"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettings_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-ehsmimplrvccbohbailrzhoryhax/ApplicationSettings_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch.gch ApplicationSettings_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288759689.221581
+e288759690.218917
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch.gch
+xApplicationSettings_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile ApplicationSettings_Prefix.pch288759689#288759690#0(0"0(0#0#86"/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettings_Prefix.pch4300907800#2167"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/ApplicationSettings-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/ApplicationSettings.build/Debug-iphonesimulator/ApplicationSettings.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/ApplicationSettings_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ApplicationSettings_Prefix-fkyzrnvjnruupwfnboicorakjgfa/ApplicationSettings_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app"
+s291737971.535863
+e291737971.538324
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app
+lSLF07#2@113"Touch /Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app291737971#291737971#0(0"0(0#0#0"4300907800#328"    cd "/Users/weimenglee/Desktop/iPad book/ApplicationSettings"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/ApplicationSettings/build/Debug-iphonesimulator/ApplicationSettings.app"0#
+

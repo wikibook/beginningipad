@@ -1,0 +1,273 @@
+TviewBasedApp
+v7
+r0
+t291741813.260550
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/Info.plist" viewBasedApp-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/viewBasedApp/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedAppViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch.gch viewBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppAppDelegate.o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppViewController.o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app.dSYM" "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp"
+cTouch "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.h
+c000000004B7B7D3E00000000000001F5
+t1266384190
+s501
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m
+c000000004B7B7D3E00000000000002B3
+t1266384190
+s691
+i"viewBasedAppAppDelegate.h"
+i"viewBasedAppViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.h
+c000000004B7B7D3E00000000000000F5
+t1266384190
+s245
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m
+c000000004BB368F0000000000000055C
+t1270049008
+s1372
+i"viewBasedAppViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/MainWindow.xib
+c000000004B7B7DC70000000000004D48
+t1266384327
+s19784
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app
+t1270049013
+s238
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app.dSYM
+t1270049013
+s102
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/Info.plist
+t1266384329
+s818
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/MainWindow.nib
+t1266384330
+s1127
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/PkgInfo
+t1266384329
+s8
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp
+t1270049013
+s19832
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedAppViewController.nib
+t1270049012
+s800
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/main.o
+t1268449204
+s5964
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedApp.LinkFileList
+c000000004B7B7DC900000000000001D3
+t1266384329
+s467
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppAppDelegate.o
+t1268449204
+s42192
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppViewController.o
+t1270049013
+s34236
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m
+c000000004B7B7D3E0000000000000166
+t1266384190
+s358
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedAppViewController.xib
+c000000004BB368D80000000000003F31
+t1270048984
+s16177
+
+N/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedApp_Prefix.pch
+c000000004B7B7D3E00000000000000C1
+t1266384190
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch.gch
+t1268449203
+s13805456
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-dnxwwbntuuajykavrghceutuflup/viewBasedApp_Prefix.pch.gch
+t1266384331
+s13756272
+
+NviewBasedApp-Info.plist
+c000000004B7B7D3E00000000000004D6
+t1266384190
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291741812#291741812#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290142003.895513
+e290142004.014831
+r1
+xCompileC
+xbuild/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m290142003#290142004#0(0"0(0#0#55"/Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m4300907800#2089"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/viewBasedApp/main.m" -o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppAppDelegate.o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290142003.912126
+e290142004.118991
+r1
+xCompileC
+xbuild/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m290142003#290142004#0(0"0(0#0#82"/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m4300907800#2135"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppAppDelegate.o"0#
+
+CCompileC build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppViewController.o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291741812.664928
+e291741813.164933
+r1
+xCompileC
+xbuild/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppViewController.o
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m291741812#291741813#0(0"0(0#0#85"/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m4300907800#2141"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/viewBasedApp/Classes/viewBasedAppViewController.m" -o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedAppViewController.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/viewBasedApp/MainWindow.xib"
+s288077129.247005
+e288077130.633599
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288077129#288077130#0(0"0(0#0#63"/Users/weimenglee/Desktop/iPad book/viewBasedApp/MainWindow.xib4300907768#521"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/viewBasedApp/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedAppViewController.xib"
+s291741812.404825
+e291741812.664529
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedAppViewController.xib
+lSLF07#2@41"CompileXIB viewBasedAppViewController.xib291741812#291741812#0(0"0(0#0#79"/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedAppViewController.xib4300907800#553"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedAppViewController.nib" "/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedAppViewController.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app.dSYM" "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp"
+s291741813.244307
+e291741813.258084
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/viewBasedApp.app.dSYM build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp291741813#291741813#0(0"0(0#0#106"/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp4300907800#434"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp" -o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp" normal i386
+s291741813.165028
+e291741813.244197
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp
+xnormal
+xi386
+lSLF07#2@111"Link /Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp291741813#291741813#0(0"0(0#0#0"4300907800#947"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/Objects-normal/i386/viewBasedApp.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/viewBasedApp"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/Info.plist" viewBasedApp-Info.plist
+s288077129.243446
+e288077129.246925
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/Info.plist
+xviewBasedApp-Info.plist
+lSLF07#2@31"Process viewBasedApp-Info.plist288077129#288077129#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedApp-Info.plist4300907768#530"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility viewBasedApp-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch.gch viewBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290142002.674072
+e290142003.895396
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch.gch
+xviewBasedApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile viewBasedApp_Prefix.pch290142002#290142003#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedApp_Prefix.pch4300907800#1964"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedApp_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-chuajqipsrfuiegasmvlcqanwnps/viewBasedApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-dnxwwbntuuajykavrghceutuflup/viewBasedApp_Prefix.pch.gch viewBasedApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288077130.633932
+e288077131.522498
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-dnxwwbntuuajykavrghceutuflup/viewBasedApp_Prefix.pch.gch
+xviewBasedApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile viewBasedApp_Prefix.pch288077130#288077131#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedApp_Prefix.pch4300907768#1964"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/viewBasedApp-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/viewBasedApp.build/Debug-iphonesimulator/viewBasedApp.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/viewBasedApp/viewBasedApp_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/viewBasedApp_Prefix-dnxwwbntuuajykavrghceutuflup/viewBasedApp_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app"
+s291741813.258167
+e291741813.260524
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app
+lSLF07#2@99"Touch /Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app291741813#291741813#0(0"0(0#0#0"4300907800#307"    cd "/Users/weimenglee/Desktop/iPad book/viewBasedApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/viewBasedApp/build/Debug-iphonesimulator/viewBasedApp.app"0#
+

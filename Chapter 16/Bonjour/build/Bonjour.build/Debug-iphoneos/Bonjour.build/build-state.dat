@@ -1,0 +1,336 @@
+TBonjour
+v7
+r0
+t290226933.302902
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Bonjour.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Info.plist" Bonjour-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch.gch Bonjour_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/main.o "/Users/weimenglee/Desktop/iPad book/Bonjour/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourViewController.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour" normal armv7
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour"
+cProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision"
+cTouch "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent"
+cCodeSign "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004B47D7B70000000000000110
+t1262999479
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/netinet/in.h
+c000000004ABDB473000000000000535B
+t1253946483
+s21339
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib
+c000000004B9C49320000000000005D95
+t1268533554
+s23957
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour_Prefix.pch
+c000000004B9C46CD00000000000000B7
+t1268532941
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.h
+c000000004B9C47A50000000000000221
+t1268533157
+s545
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m
+c000000004B9C47E900000000000004B7
+t1268533225
+s1207
+i"BonjourAppDelegate.h"
+i"BonjourViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.h
+c000000004B9C47FB0000000000000230
+t1268533243
+s560
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m
+c000000004B9C48DD00000000000011E8
+t1268533469
+s4584
+i"BonjourViewController.h"
+i<netinet/in.h>
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib
+c000000004B9C46CD0000000000004D09
+t1268532941
+s19721
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent
+t1268534083
+s320
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/Bonjour.LinkFileList
+c000000004B9C4B40000000000000018A
+t1268534080
+s394
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourAppDelegate.o
+t1268534083
+s43124
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourViewController.o
+t1268534083
+s46512
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/main.o
+t1268534083
+s6440
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app
+t1268534105
+s374
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app.dSYM
+t1268534083
+s102
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour
+t1268534083
+s29680
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/BonjourViewController.nib
+t1268534082
+s3012
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Info.plist
+t1268534080
+s864
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/MainWindow.nib
+t1268534081
+s1511
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/PkgInfo
+t1268534080
+s8
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/ResourceRules.plist
+t1268534080
+s485
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision
+t1268534105
+s8546
+
+N/Users/weimenglee/Desktop/iPad book/Bonjour/main.m
+c000000004B9C46CD0000000000000161
+t1268532941
+s353
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision
+c000000004B9C4AF00000000000002162
+t1268534000
+s8546
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch.gch
+t1268534083
+s8855736
+
+NBonjour-Info.plist
+c000000004B9C46CD00000000000004D6
+t1268532941
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290226933#290226933#0(0"0(0#1#0"4300907800#0"0#
+
+CCodeSign "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"
+s290226933.181512
+e290226933.302859
+r1
+xCodeSign
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app
+o/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app: replacing existing signature
+lSLF07#2@41"CodeSign build/Debug-iphoneos/Bonjour.app290226933#290226933#0(107"/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app: replacing existing signature0(0#0#76"/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app4300907800#695"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Wei-Meng Lee (398N22LL9K)" "--resource-rules=/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/ResourceRules.plist" --entitlements "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent" "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"0#
+
+CCompileC build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourAppDelegate.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290226883.050849
+e290226883.162882
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m290226883#290226883#0(0"0(0#0#72"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m4300907800#1841"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourAppDelegate.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourViewController.o "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290226883.133607
+e290226883.232973
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourViewController.o
+x/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceBrowser:didFindService:moreComing:]':
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: 'BonjourViewController' may not respond to '-resolveIPAddress:'
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: (Messages without a matching method signature
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: will be assumed to return 'id' and accept
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: '...' as arguments.)
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceDidResolveAddress:]':
+o/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:117: warning: implicit declaration of function 'inet_ntoa'
+lSLF07#2@83"Compile /Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226883#290226883#0(972"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceBrowser:didFindService:moreComing:]':/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: 'BonjourViewController' may not respond to '-resolveIPAddress:'/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: (Messages without a matching method signature/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: will be assumed to return 'id' and accept/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:84: warning: '...' as arguments.)/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m: In function '-[BonjourViewController netServiceDidResolveAddress:]':/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m:117: warning: implicit declaration of function 'inet_ntoa'3(22@63"'BonjourViewController' may not respond to '-resolveIPAddress:'290226883#162#153#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226269#84#0#84#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)290226883#315#135#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226269#84#0#84#0#0"0(22@44"Implicit declaration of function 'inet_ntoa'290226883#837#135#0(6@75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m290226269#117#0#117#0#36"implicit declaration of function '*'0(0#0#75"/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m4300907800#1847"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/Classes/BonjourViewController.m" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/BonjourViewController.o"0#
+
+CCompileC build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/main.o "/Users/weimenglee/Desktop/iPad book/Bonjour/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290226883.049832
+e290226883.133509
+r1
+xCompileC
+xbuild/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/main.o
+x/Users/weimenglee/Desktop/iPad book/Bonjour/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/weimenglee/Desktop/iPad book/Bonjour/main.m290226883#290226883#0(0"0(0#0#50"/Users/weimenglee/Desktop/iPad book/Bonjour/main.m4300907800#1805"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/main.m" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib"
+s290226880.572342
+e290226882.062854
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib
+lSLF07#2@36"CompileXIB BonjourViewController.xib290226880#290226882#0(0"0(0#0#69"/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib4300907800#511"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/BonjourViewController.nib" "/Users/weimenglee/Desktop/iPad book/Bonjour/BonjourViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib"
+s290226880.571335
+e290226882.016181
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290226880#290226882#0(0"0(0#0#58"/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib4300907800#489"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/Bonjour/MainWindow.xib"0#
+
+CCpResource build/Debug-iphoneos/Bonjour.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s290226880.456469
+e290226880.571228
+r1
+xCpResource
+xbuild/Debug-iphoneos/Bonjour.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist290226880#290226880#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist3698387016064395264#496"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app.dSYM" "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour"
+s290226883.604573
+e290226883.618937
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/Bonjour.app.dSYM build/Debug-iphoneos/Bonjour.app/Bonjour290226883#290226883#0(0"0(0#0#84"/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour4300907800#383"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour" normal armv7
+s290226883.233069
+e290226883.604419
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour
+xnormal
+xarmv7
+lSLF07#2@89"Link /Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour290226883#290226883#0(0"0(0#0#0"4300907800#863"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos" -filelist "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Objects-normal/armv7/Bonjour.LinkFileList" -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Bonjour"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Info.plist" Bonjour-Info.plist
+s290226880.496647
+e290226880.516525
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Info.plist
+xBonjour-Info.plist
+lSLF07#2@26"Process Bonjour-Info.plist290226880#290226880#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour-Info.plist4300907800#590"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Bonjour-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/ResourceRules.plist" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch.gch Bonjour_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s290226882.062989
+e290226883.049725
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch.gch
+xBonjour_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Bonjour_Prefix.pch290226882#290226883#0(0"0(0#0#62"/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour_Prefix.pch4300907800#1696"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/include" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources/armv7" "-I/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/Bonjour/Bonjour_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Bonjour_Prefix-ddydmzbguuirsgazqhmiyhpjkulq/Bonjour_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision"
+s290226905.630388
+e290226905.643768
+r1
+xProcessProductPackaging
+x/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision290226905#290226905#0(0"0(0#0#101"/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision4300907800#442"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/weimenglee/Library/MobileDevice/Provisioning Profiles/D04A70AC-BE50-4E63-8E60-601B78810198.mobileprovision" -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent"
+s290226883.643731
+e290226883.664530
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent
+lSLF07#2@177"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent290226883#290226883#0(0"0(0#0#106"/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent4300907800#448"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Bonjour.build/Debug-iphoneos/Bonjour.build/Bonjour.xcent"0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"
+s290226905.643842
+e290226905.647422
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app
+lSLF07#2@82"Touch /Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app290226905#290226905#0(0"0(0#0#0"4300907800#278"    cd "/Users/weimenglee/Desktop/iPad book/Bonjour"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/Bonjour/build/Debug-iphoneos/Bonjour.app"0#
+

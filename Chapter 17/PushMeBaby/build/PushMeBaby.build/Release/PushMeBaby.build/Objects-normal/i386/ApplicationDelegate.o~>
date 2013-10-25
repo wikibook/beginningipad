@@ -1,0 +1,2 @@
+/Users/weimenglee/Desktop/iPad book/PushMeBaby/Classes/ApplicationDelegate.m: In function '-[ApplicationDelegate push:]':
+/Users/weimenglee/Desktop/iPad book/PushMeBaby/Classes/ApplicationDelegate.m:194: warning: unused variable 'result'

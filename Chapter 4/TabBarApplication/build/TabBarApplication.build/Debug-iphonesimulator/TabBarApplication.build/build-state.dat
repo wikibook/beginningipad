@@ -1,0 +1,351 @@
+TTabBarApplication
+v7
+r0
+t291741147.460770
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/Info.plist" TabBarApplication-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/SecondView.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/FirstView.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch.gch TabBarApplication_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplicationAppDelegate.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/FirstViewController.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SecondViewController.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SearchViewController.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app.dSYM" "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication"
+cTouch "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.h
+c000000004B9B56C000000000000000EC
+t1268471488
+s236
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m
+c000000004B9B56C0000000000000039D
+t1268471488
+s925
+i"FirstViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.h
+c000000004B9B594700000000000000EE
+t1268472135
+s238
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m
+c000000004BB366350000000000000524
+t1270048309
+s1316
+i"SearchViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.xib
+c000000004B9B59C10000000000004630
+t1268472257
+s17968
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.h
+c000000004B9B56C000000000000000EE
+t1268471488
+s238
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m
+c000000004B9B56C000000000000003A0
+t1268471488
+s928
+i"SecondViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.h
+c000000004B9B56C000000000000001EF
+t1268471488
+s495
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m
+c000000004B9B56C00000000000000441
+t1268471488
+s1089
+i"TabBarApplicationAppDelegate.h"
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/FirstView.xib
+c000000004B9B56C00000000000005627
+t1268471488
+s22055
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/MainWindow.xib
+c000000004B9B5A210000000000006B82
+t1268472353
+s27522
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/SecondView.xib
+c000000004B9B56C00000000000005C53
+t1268471488
+s23635
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/TabBarApplication_Prefix.pch
+c000000004B9B56C000000000000000CB
+t1268471488
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app
+t1270048340
+s306
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app.dSYM
+t1270048340
+s102
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/FirstView.nib
+t1268471851
+s1828
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/Info.plist
+t1268471850
+s844
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/MainWindow.nib
+t1268472358
+s1866
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/PkgInfo
+t1268471850
+s8
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/SearchViewController.nib
+t1268472359
+s1241
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/SecondView.nib
+t1268471851
+s1897
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication
+t1270048339
+s21884
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/FirstViewController.o
+t1268471853
+s34140
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SearchViewController.o
+t1270048339
+s34284
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SecondViewController.o
+t1268471853
+s34156
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplication.LinkFileList
+c000000004B9B5A240000000000000358
+t1268472356
+s856
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplicationAppDelegate.o
+t1268471853
+s45380
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/main.o
+t1268471853
+s5972
+
+N/Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m
+c000000004B9B56C00000000000000167
+t1268471488
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch.gch
+t1268471852
+s13805456
+
+NTabBarApplication-Info.plist
+c000000004B9B56C000000000000004D6
+t1268471488
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291741147#291741147#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/FirstViewController.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290164653.163276
+e290164653.265053
+r1
+xCompileC
+xbuild/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/FirstViewController.o
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m290164653#290164653#0(0"0(0#0#83"/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m4300907800#2282"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/FirstViewController.m" -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SearchViewController.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291741139.716476
+e291741139.889818
+r1
+xCompileC
+xbuild/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SearchViewController.o
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m291741139#291741139#0(0"0(0#0#84"/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m4300907800#2284"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.m" -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SearchViewController.o"0#
+
+CCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SecondViewController.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290164653.205289
+e290164653.270949
+r1
+xCompileC
+xbuild/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SecondViewController.o
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m290164653#290164653#0(0"0(0#0#84"/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m4300907800#2284"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SecondViewController.m" -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/SecondViewController.o"0#
+
+CCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplicationAppDelegate.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290164653.103018
+e290164653.205164
+r1
+xCompileC
+xbuild/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplicationAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m290164653#290164653#0(0"0(0#0#92"/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m4300907800#2300"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/TabBarApplicationAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplicationAppDelegate.o"0#
+
+CCompileC build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290164653.101922
+e290164653.163175
+r1
+xCompileC
+xbuild/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m290164653#290164653#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m4300907800#2244"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/main.m" -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.xib"
+s290165156.679227
+e290165159.103731
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.xib
+lSLF07#2@43"CompileXIB Classes/SearchViewController.xib290165156#290165159#0(0"0(0#0#86"/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.xib4300907800#569"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/SearchViewController.nib" "/Users/weimenglee/Desktop/iPad book/TabBarApplication/Classes/SearchViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/FirstView.xib"
+s290164651.055691
+e290164651.708089
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib290164651#290164651#0(0"0(0#0#67"/Users/weimenglee/Desktop/iPad book/TabBarApplication/FirstView.xib4300907800#539"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/FirstView.nib" "/Users/weimenglee/Desktop/iPad book/TabBarApplication/FirstView.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/MainWindow.xib"
+s290165156.678305
+e290165159.017077
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290165156#290165159#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/TabBarApplication/MainWindow.xib4300907800#541"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/TabBarApplication/MainWindow.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/TabBarApplication/SecondView.xib"
+s290164650.569088
+e290164651.055599
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib290164650#290164651#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/TabBarApplication/SecondView.xib4300907800#541"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/SecondView.nib" "/Users/weimenglee/Desktop/iPad book/TabBarApplication/SecondView.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app.dSYM" "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication"
+s291741139.945371
+e291741140.012839
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/TabBarApplication.app.dSYM build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication291741139#291741140#0(0"0(0#0#121"/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication4300907800#464"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication" -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication" normal i386
+s291741139.889906
+e291741139.945269
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication
+xnormal
+xi386
+lSLF07#2@126"Link /Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication291741139#291741139#0(0"0(0#0#0"4300907800#997"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/Objects-normal/i386/TabBarApplication.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/TabBarApplication"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/Info.plist" TabBarApplication-Info.plist
+s290164650.544832
+e290164650.568225
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/Info.plist
+xTabBarApplication-Info.plist
+lSLF07#2@36"Process TabBarApplication-Info.plist290164650#290164650#0(0"0(0#0#82"/Users/weimenglee/Desktop/iPad book/TabBarApplication/TabBarApplication-Info.plist4300907800#560"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabBarApplication-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch.gch TabBarApplication_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290164651.708213
+e290164653.101729
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch.gch
+xTabBarApplication_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile TabBarApplication_Prefix.pch290164651#290164653#0(0"0(0#0#82"/Users/weimenglee/Desktop/iPad book/TabBarApplication/TabBarApplication_Prefix.pch4300907800#2109"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/TabBarApplication-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/TabBarApplication.build/Debug-iphonesimulator/TabBarApplication.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/TabBarApplication_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApplication_Prefix-azgeipzxkvoqoefcblgrfzitghkp/TabBarApplication_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app"
+s291741140.012925
+e291741140.015336
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app
+lSLF07#2@109"Touch /Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app291741140#291741140#0(0"0(0#0#0"4300907800#322"    cd "/Users/weimenglee/Desktop/iPad book/TabBarApplication"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/TabBarApplication/build/Debug-iphonesimulator/TabBarApplication.app"0#
+

@@ -1,0 +1,310 @@
+THelloWorld
+v7
+r0
+t291739916.920903
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/HelloWorld/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorldViewController.xib"
+cCpResource build/Debug-iphonesimulator/HelloWorld.app/app-icon.png app-icon.png
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/HelloWorld/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o "/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+cTouch "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.h
+c000000004B7C002C00000000000001E9
+t1266417708
+s489
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m
+c000000004B7C002C00000000000002A9
+t1266417708
+s681
+i"HelloWorldAppDelegate.h"
+i"HelloWorldViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.h
+c000000004B7C0E240000000000000115
+t1266421284
+s277
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m
+c000000004BB36180000000000000071E
+t1270047104
+s1822
+i"HelloWorldViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorldViewController.xib
+c000000004BA386BE000000000000589B
+t1269008062
+s22683
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorld_Prefix.pch
+c000000004B7C002C00000000000000BD
+t1266417708
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/Icon.png
+c000000004B723D240000000000008633
+t1265777956
+s34355
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/MainWindow.xib
+c000000004B7C002C0000000000004D27
+t1266417708
+s19751
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/app-icon.png
+c0000000049D02F9000000000000012E0
+t1238380432
+s4832
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
+t1270047116
+s306
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1270047116
+s102
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1270047116
+s20048
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorldViewController.nib
+t1270047116
+s2057
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Icon.png
+t1266421818
+s34355
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1268923121
+s848
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib
+t1266417801
+s1123
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1268923121
+s8
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/app-icon.png
+t1266422101
+s4832
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004B7C008800000000000001BD
+t1266417800
+s445
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1268546631
+s42144
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o
+t1270047116
+s39712
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1268546631
+s5960
+
+N/Users/weimenglee/Desktop/iPad book/HelloWorld/main.m
+c000000004B7C002C0000000000000164
+t1266417708
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch.gch
+t1268546630
+s13805456
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gzfboqeeufafrffdvbyxpbrsmmmw/HelloWorld_Prefix.pch.gch
+t1266417801
+s13756272
+
+NHelloWorld-Info.plist
+c000000004BA23AF000000000000004B6
+t1268923120
+s1206
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291739916#291739916#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o "/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290239431.039245
+e290239431.168298
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m290239431#290239431#0(0"0(0#0#78"/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m4300907800#2069"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o "/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291739916.732483
+e291739916.838260
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m291739916#291739916#0(0"0(0#0#81"/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m4300907800#2075"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/HelloWorld/Classes/HelloWorldViewController.m" -o "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldViewController.o"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/HelloWorld/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s290239431.037816
+e290239431.123655
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/weimenglee/Desktop/iPad book/HelloWorld/main.m290239431#290239431#0(0"0(0#0#53"/Users/weimenglee/Desktop/iPad book/HelloWorld/main.m4300907800#2027"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/HelloWorld/main.m" -o "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorldViewController.xib"
+s291739916.417972
+e291739916.732003
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorldViewController.xib
+lSLF07#2@39"CompileXIB HelloWorldViewController.xib291739916#291739916#0(0"0(0#0#75"/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorldViewController.xib4300907800#541"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorldViewController.nib" "/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorldViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/HelloWorld/MainWindow.xib"
+s288110600.677108
+e288110601.020460
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288110600#288110601#0(0"0(0#0#61"/Users/weimenglee/Desktop/iPad book/HelloWorld/MainWindow.xib4300907768#513"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/HelloWorld/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/Icon.png Icon.png
+s288114618.941297
+e288114618.984932
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png288114618#288114618#0(0"0(0#0#55"/Users/weimenglee/Desktop/iPad book/HelloWorld/Icon.png4300907768#485"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/HelloWorld/Icon.png" "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CCpResource build/Debug-iphonesimulator/HelloWorld.app/app-icon.png app-icon.png
+s288114900.997584
+e288114901.023285
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HelloWorld.app/app-icon.png
+xapp-icon.png
+lSLF07#2@17"Copy app-icon.png288114900#288114901#0(0"0(0#0#59"/Users/weimenglee/Desktop/iPad book/HelloWorld/app-icon.png4300907768#489"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/HelloWorld/app-icon.png" "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM" "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"
+s291739916.866572
+e291739916.918343
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld291739916#291739916#0(0"0(0#0#100"/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld4300907800#422"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" -o "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld" normal i386
+s291739916.838357
+e291739916.866471
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+lSLF07#2@105"Link /Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld291739916#291739916#0(0"0(0#0#0"4300907800#927"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist" HelloWorld-Info.plist
+s290615921.168507
+e290615921.182966
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+xHelloWorld-Info.plist
+lSLF07#2@29"Process HelloWorld-Info.plist290615921#290615921#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorld-Info.plist4300907800#518"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290239429.731415
+e290239431.037591
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch290239429#290239431#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorld_Prefix.pch4300907800#1906"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorld_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gynqjhmdidqfjmgsdgpxevkhkifo/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gzfboqeeufafrffdvbyxpbrsmmmw/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288110601.020653
+e288110601.809718
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gzfboqeeufafrffdvbyxpbrsmmmw/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch288110601#288110601#0(0"0(0#0#68"/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorld_Prefix.pch4300907768#1906"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/HelloWorld/HelloWorld_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gzfboqeeufafrffdvbyxpbrsmmmw/HelloWorld_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app"
+s291739916.918444
+e291739916.920876
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@95"Touch /Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app291739916#291739916#0(0"0(0#0#0"4300907800#301"    cd "/Users/weimenglee/Desktop/iPad book/HelloWorld"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app"0#
+

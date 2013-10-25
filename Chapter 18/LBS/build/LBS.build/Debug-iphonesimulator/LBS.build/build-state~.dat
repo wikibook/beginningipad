@@ -1,0 +1,267 @@
+TLBS
+v7
+r0
+t288680899.859840
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/Info.plist" LBS-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/LBS/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/LBS/LBSViewController.xib"
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch.gch LBS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/LBS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSAppDelegate.o "/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSViewController.o "/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app.dSYM" "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS"
+cTouch "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B7365000000000000000110
+t1265853696
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B6BA5E8000000000026F020
+t1265346024
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B6BC047000000000005FCD0
+t1265352775
+s392400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B6BC02F00000000000001AF
+t1265352751
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B6BA6030000000000288B20
+t1265346051
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B6BA5F60000000000001355
+t1265346038
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B6BC0FA000000000000098F
+t1265352954
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B6BC203000000000211A810
+t1265353219
+s34711568
+
+N/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.h
+c000000004B84B29900000000000001BF
+t1266987673
+s447
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m
+c000000004B84B2990000000000000286
+t1266987673
+s646
+i"LBSAppDelegate.h"
+i"LBSViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.h
+c000000004B84B41600000000000002AA
+t1266988054
+s682
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m
+c000000004B84B43F0000000000000BE2
+t1266988095
+s3042
+i"LBSViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/LBS/LBSViewController.xib
+c000000004B84B36600000000000060B1
+t1266987878
+s24753
+
+N/Users/weimenglee/Desktop/iPad book/LBS/LBS_Prefix.pch
+c000000004B84B29900000000000000AF
+t1266987673
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/LBS/MainWindow.xib
+c000000004B84B2990000000000004CE1
+t1266987673
+s19681
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app
+t1266988099
+s238
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app.dSYM
+t1266988099
+s102
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/Info.plist
+t1266988096
+s782
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS
+t1266988099
+s21572
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBSViewController.nib
+t1266988098
+s1880
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/MainWindow.nib
+t1266988098
+s1109
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/PkgInfo
+t1266988096
+s8
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBS.LinkFileList
+c000000004B84B4400000000000000170
+t1266988096
+s368
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSAppDelegate.o
+t1266988099
+s42040
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSViewController.o
+t1266988099
+s48352
+
+N/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/main.o
+t1266988099
+s5944
+
+N/Users/weimenglee/Desktop/iPad book/LBS/main.m
+c000000004B84B299000000000000015D
+t1266987673
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch.gch
+t1266988099
+s13756272
+
+NLBS-Info.plist
+c000000004B84B29900000000000004D6
+t1266987673
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288680896#288680896#0(0"0(0#1#0"4300907768#0"0#
+
+CCompileC build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSAppDelegate.o "/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288680899.564009
+e288680899.656564
+r1
+xCompileC
+xbuild/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m288680899#288680899#0(0"0(0#0#64"/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m4300907768#1838"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSAppDelegate.o"0#
+
+CCompileC build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSViewController.o "/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288680899.614268
+e288680899.699543
+r1
+xCompileC
+xbuild/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSViewController.o
+x/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m288680899#288680899#0(0"0(0#0#67"/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m4300907768#1844"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/LBS/Classes/LBSViewController.m" -o "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBSViewController.o"0#
+
+CCompileC build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/LBS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288680899.563005
+e288680899.614156
+r1
+xCompileC
+xbuild/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/LBS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/weimenglee/Desktop/iPad book/LBS/main.m288680899#288680899#0(0"0(0#0#46"/Users/weimenglee/Desktop/iPad book/LBS/main.m4300907768#1810"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/LBS/main.m" -o "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/LBS/LBSViewController.xib"
+s288680896.666669
+e288680898.546125
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/LBS/LBSViewController.xib
+lSLF07#2@32"CompileXIB LBSViewController.xib288680896#288680898#0(0"0(0#0#61"/Users/weimenglee/Desktop/iPad book/LBS/LBSViewController.xib4300907768#499"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBSViewController.nib" "/Users/weimenglee/Desktop/iPad book/LBS/LBSViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/LBS/MainWindow.xib"
+s288680896.665996
+e288680898.493577
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/LBS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288680896#288680898#0(0"0(0#0#54"/Users/weimenglee/Desktop/iPad book/LBS/MainWindow.xib4300907768#485"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/LBS/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app.dSYM" "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS"
+s288680899.807480
+e288680899.836943
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/LBS.app.dSYM build/Debug-iphonesimulator/LBS.app/LBS288680899#288680899#0(0"0(0#0#79"/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS4300907768#380"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS" -o "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS" normal i386
+s288680899.699639
+e288680899.807383
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS
+xnormal
+xi386
+lSLF07#2@84"Link /Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS288680899#288680899#0(0"0(0#0#0"4300907768#881"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/Objects-normal/i386/LBS.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/LBS"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/Info.plist" LBS-Info.plist
+s288680896.662850
+e288680896.665920
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/Info.plist
+xLBS-Info.plist
+lSLF07#2@22"Process LBS-Info.plist288680896#288680896#0(0"0(0#0#54"/Users/weimenglee/Desktop/iPad book/LBS/LBS-Info.plist4300907768#476"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LBS-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch.gch LBS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288680898.546247
+e288680899.562902
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch.gch
+xLBS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile LBS_Prefix.pch288680898#288680899#0(0"0(0#0#54"/Users/weimenglee/Desktop/iPad book/LBS/LBS_Prefix.pch4300907768#1703"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/LBS-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/LBS/build/LBS.build/Debug-iphonesimulator/LBS.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/LBS/LBS_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LBS_Prefix-bizfswpmjlwcyneorqgqukktgcbv/LBS_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app"
+s288680899.837030
+e288680899.859784
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app
+lSLF07#2@81"Touch /Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app288680899#288680899#0(0"0(0#0#0"4300907768#280"    cd "/Users/weimenglee/Desktop/iPad book/LBS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/LBS/build/Debug-iphonesimulator/LBS.app"0#
+

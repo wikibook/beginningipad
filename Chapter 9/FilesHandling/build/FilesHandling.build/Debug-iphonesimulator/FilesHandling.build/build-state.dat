@@ -1,0 +1,297 @@
+TFilesHandling
+v7
+r0
+t291739196.144981
+cCheck dependencies
+cProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Info.plist" FilesHandling-Info.plist
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/FilesHandling/MainWindow.xib"
+cCompileXIB "/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandlingViewController.xib"
+cCopyPlistFile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Apps.plist" Apps.plist
+cProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch.gch FilesHandling_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/FilesHandling/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingAppDelegate.o "/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingViewController.o "/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling" normal i386
+cGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app.dSYM" "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling"
+cTouch "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B84BD2D0000000000000110
+t1266990381
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B7D0575000000000026F020
+t1266484597
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B7D05600000000000288B20
+t1266484576
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B7D05520000000000001355
+t1266484562
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B7E2999000000000000098F
+t1266559385
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B7E2A2E000000000213D0F0
+t1266559534
+s34853104
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/Apps.plist
+c000000004A9CDE62000000000000023C
+t1251794530
+s572
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/Bridge.jpeg
+c000000004B7E0E420000000000057586
+t1266552386
+s357766
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.h
+c000000004B87F01B00000000000001FB
+t1267200027
+s507
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m
+c000000004B87F01B00000000000002B8
+t1267200027
+s696
+i"FilesHandlingAppDelegate.h"
+i"FilesHandlingViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.h
+c000000004B87F02D0000000000000192
+t1267200045
+s402
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m
+c000000004BB35EB60000000000001469
+t1270046390
+s5225
+i"FilesHandlingViewController.h"
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandlingViewController.xib
+c000000004B87F01B0000000000003EF9
+t1267200027
+s16121
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandling_Prefix.pch
+c000000004B87F01B00000000000000C3
+t1267200027
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/MainWindow.xib
+c000000004B87F01B0000000000004D45
+t1267200027
+s19781
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app
+t1270046396
+s306
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app.dSYM
+t1270046396
+s102
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Apps.plist
+t1267201133
+s218
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Bridge.jpeg
+t1267254814
+s357766
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling
+t1270046396
+s25204
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandlingViewController.nib
+t1267200091
+s769
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Info.plist
+t1267200091
+s822
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/MainWindow.nib
+t1267200091
+s1129
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/PkgInfo
+t1267200091
+s8
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandling.LinkFileList
+c000000004B87F05B00000000000001DE
+t1267200091
+s478
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingAppDelegate.o
+t1267200092
+s42220
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingViewController.o
+t1270046396
+s42544
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/main.o
+t1267200092
+s5964
+
+N/Users/weimenglee/Desktop/iPad book/FilesHandling/main.m
+c000000004B87F01B0000000000000167
+t1267200027
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch.gch
+t1267200092
+s13805456
+
+NFilesHandling-Info.plist
+c000000004B87F01B00000000000004D6
+t1267200027
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291739195#291739195#0(0"0(0#1#0"4300907800#0"0#
+
+CCompileC build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingAppDelegate.o "/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288892892.700324
+e288892892.802389
+r1
+xCompileC
+xbuild/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingAppDelegate.o
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m288892892#288892892#0(0"0(0#0#84"/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m4300907800#2168"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingAppDelegate.m" -o "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingAppDelegate.o"0#
+
+CCompileC build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingViewController.o "/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s291739195.876836
+e291739196.022334
+r1
+xCompileC
+xbuild/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingViewController.o
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m: In function '-[FilesHandlingViewController viewDidLoad]':
+o/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m:77: warning: format not a string literal and no format arguments
+o/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m:95: warning: format not a string literal and no format arguments
+o/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m:102: warning: format not a string literal and no format arguments
+lSLF07#2@95"Compile /Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m291739195#291739196#0(607"/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m: In function '-[FilesHandlingViewController viewDidLoad]':/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m:77: warning: format not a string literal and no format arguments/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m:95: warning: format not a string literal and no format arguments/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m:102: warning: format not a string literal and no format arguments3(22@51"Format not a string literal and no format arguments291739195#147#153#0(6@87"/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m291739190#77#0#77#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments291739195#300#153#0(6@87"/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m291739190#95#0#95#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments291739195#453#154#0(6@87"/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m291739190#102#0#102#0#51"format not a string literal and no format arguments0(0#0#87"/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m4300907800#2174"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/FilesHandling/Classes/FilesHandlingViewController.m" -o "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandlingViewController.o"0#
+
+CCompileC build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/main.o "/Users/weimenglee/Desktop/iPad book/FilesHandling/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s288892892.699095
+e288892892.782742
+r1
+xCompileC
+xbuild/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/main.o
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/weimenglee/Desktop/iPad book/FilesHandling/main.m288892892#288892892#0(0"0(0#0#56"/Users/weimenglee/Desktop/iPad book/FilesHandling/main.m4300907800#2120"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources" -include /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch -c "/Users/weimenglee/Desktop/iPad book/FilesHandling/main.m" -o "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandlingViewController.xib"
+s288892891.534790
+e288892891.844646
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandlingViewController.xib
+lSLF07#2@42"CompileXIB FilesHandlingViewController.xib288892891#288892891#0(0"0(0#0#81"/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandlingViewController.xib4300907800#559"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandlingViewController.nib" "/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandlingViewController.xib"0#
+
+CCompileXIB "/Users/weimenglee/Desktop/iPad book/FilesHandling/MainWindow.xib"
+s288892891.534086
+e288892891.827357
+r1
+xCompileXIB
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288892891#288892891#0(0"0(0#0#64"/Users/weimenglee/Desktop/iPad book/FilesHandling/MainWindow.xib4300907800#525"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/MainWindow.nib" "/Users/weimenglee/Desktop/iPad book/FilesHandling/MainWindow.xib"0#
+
+CCopyPlistFile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Apps.plist" Apps.plist
+s288893932.731244
+e288893933.310640
+r1
+xCopyPlistFile
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Apps.plist
+xApps.plist
+lSLF07#2@15"Copy Apps.plist288893932#288893933#0(0"0(0#0#60"/Users/weimenglee/Desktop/iPad book/FilesHandling/Apps.plist4300907800#417"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Apps.plist --outdir "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app"0#
+
+CCpResource build/Debug-iphonesimulator/FilesHandling.app/Bridge.jpeg Bridge.jpeg
+s288947614.772830
+e288947614.798793
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FilesHandling.app/Bridge.jpeg
+xBridge.jpeg
+lSLF07#2@16"Copy Bridge.jpeg288947614#288947614#0(0"0(0#0#61"/Users/weimenglee/Desktop/iPad book/FilesHandling/Bridge.jpeg4300907800#500"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/weimenglee/Desktop/iPad book/FilesHandling/Bridge.jpeg" "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app"0#
+
+CGenerateDSYMFile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app.dSYM" "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling"
+s291739196.118042
+e291739196.142417
+r1
+xGenerateDSYMFile
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app.dSYM
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/FilesHandling.app.dSYM build/Debug-iphonesimulator/FilesHandling.app/FilesHandling291739196#291739196#0(0"0(0#0#109"/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling4300907800#440"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling" -o "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app.dSYM"0#
+
+CLd "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling" normal i386
+s291739196.022433
+e291739196.117945
+r1
+xLd
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling
+xnormal
+xi386
+lSLF07#2@114"Link /Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling291739196#291739196#0(0"0(0#0#0"4300907800#957"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator" "-F/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator" -filelist "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/Objects-normal/i386/FilesHandling.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/FilesHandling"0#
+
+CProcessInfoPlistFile "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Info.plist" FilesHandling-Info.plist
+s288892891.530555
+e288892891.534006
+r1
+xProcessInfoPlistFile
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Info.plist
+xFilesHandling-Info.plist
+lSLF07#2@32"Process FilesHandling-Info.plist288892891#288892891#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandling-Info.plist4300907800#536"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FilesHandling-Info.plist -genpkginfo "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app/Info.plist"0#
+
+CProcessPCH /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch.gch FilesHandling_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288892891.844763
+e288892892.698990
+r1
+xProcessPCH
+x/var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch.gch
+xFilesHandling_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile FilesHandling_Prefix.pch288892891#288892892#0(0"0(0#0#74"/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandling_Prefix.pch4300907800#1993"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-generated-files.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-own-target-headers.hmap" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-all-target-headers.hmap" -iquote "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/FilesHandling-project-headers.hmap" "-F/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/include" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources/i386" "-I/Users/weimenglee/Desktop/iPad book/FilesHandling/build/FilesHandling.build/Debug-iphonesimulator/FilesHandling.build/DerivedSources" -c "/Users/weimenglee/Desktop/iPad book/FilesHandling/FilesHandling_Prefix.pch" -o /var/folders/In/In3362XSFvW5SyIVpq2WsU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FilesHandling_Prefix-bwycmdorhdxkwofbwscggrcsgcaq/FilesHandling_Prefix.pch.gch0#
+
+CTouch "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app"
+s291739196.142514
+e291739196.144949
+r1
+xTouch
+x/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app
+lSLF07#2@101"Touch /Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app291739196#291739196#0(0"0(0#0#0"4300907800#310"    cd "/Users/weimenglee/Desktop/iPad book/FilesHandling"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/weimenglee/Desktop/iPad book/FilesHandling/build/Debug-iphonesimulator/FilesHandling.app"0#
+
